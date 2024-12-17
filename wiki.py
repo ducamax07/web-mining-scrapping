@@ -202,4 +202,4 @@ bfs_scrape("Diversity (business)", max_depth=2, content_file='content.json', lin
 
 
 ### Après ca on a finit la data collection, on peut passer à un deuxième
-### tri des textes avec la méthode TF-IDF pour prendre en compte le contexte.
+### tri des textes avec la méthode TF-IDF pour prendre en compte le contexte
