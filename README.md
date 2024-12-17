@@ -1,1 +1,2 @@
-# web-mining
+# Read me de Web Mining
+# Maxime Ducarme
