@@ -12,14 +12,14 @@ wikipedia.set_lang("en")
 nltk.download('punkt')
 nltk.download('stopwords')
 
-# Préparer les stopwords et le stemmer
+# Préparer les stopwords et le stemmer (radicalisation)
 stop_words = list(set(stopwords.words('english'))) + ["'s"]
 stem = nltk.stem.SnowballStemmer("english")
 
-# Fonction pour extraire les tokens
+# Fonction pour extraire les tokens 
 def extract_tokens(text):
     text = text.lower()
-    text = re.sub(r'[^a-z\s]', ' ', text)  
+    text = re.sub(r'[^a-z0-9\s]', ' ', text)  #fonction régulière
     tokens = word_tokenize(text)
     tokens = [token for token in tokens if token not in string.punctuation]
     tokens = [token for token in tokens if token not in stop_words]
@@ -114,7 +114,7 @@ def clear_current_link(file_path, current_page):
 def bfs_scrape(start_page, max_depth=3, content_file='content.json', link_file='links.json', queue_file='queue.json', current_link_file='current_link.json'):
     visited = set()  # Set des pages visitées
     queue = load_queue(queue_file)  # Charger la queue sauvegardée
-
+    visited_count = 0
     # Si la queue est vide, initialiser avec la page de départ
     if not queue:
         queue = [(start_page, 0)]
@@ -145,6 +145,7 @@ def bfs_scrape(start_page, max_depth=3, content_file='content.json', link_file='
             # Charger la page actuelle
             print(f"Scraping: {current_page} (Depth {depth})")
             page = wikipedia.WikipediaPage(current_page)
+            visited_count += 1
 
             # Charger le lien en cours ou initialiser la boucle
             start_link = load_current_link(current_link_file, current_page)
@@ -197,4 +198,8 @@ def bfs_scrape(start_page, max_depth=3, content_file='content.json', link_file='
 # Lancer le scraping
 bfs_scrape("Diversity (business)", max_depth=2, content_file='content.json', link_file='links.json')
 
-##kikikiki
+
+
+
+### Après ca on a finit la data collection, on peut passer à un deuxième
+### tri des textes avec la méthode TF-IDF pour prendre en compte le contexte.
