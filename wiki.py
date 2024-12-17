@@ -197,4 +197,4 @@ def bfs_scrape(start_page, max_depth=3, content_file='content.json', link_file='
 # Lancer le scraping
 bfs_scrape("Diversity (business)", max_depth=2, content_file='content.json', link_file='links.json')
 
-
+##kikikiki
