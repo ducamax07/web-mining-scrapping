@@ -61,11 +61,10 @@ def is_relevant_based_on_top_tokens(top_tokens, linked_summary, page_name, base_
     
     # Comparer avec le seuil
     if len(unique_linked_tokens) >= dynamic_threshold:
-        ###print(f"Common Tokens (comparés à top_tokens): {unique_linked_tokens}")
-        print(f"Page: {page_name}")
-        print(f"Nombre de tokens communs: {len(unique_linked_tokens)} (Seuil: {dynamic_threshold})")
+        print(f"Page validée : {page_name}")
         return True
     else:
+        #print(f"Page non validée : {page_name}")
         return False
 
 # Sauvegarder les données dans un fichier JSON
@@ -167,7 +166,7 @@ def bfs_scrape(start_page, max_depth=3, content_file='content.json', link_file='
                 links_to_process = links_to_process[links_to_process.index(start_link) + 1:]
 
             # Vérifier si la page est pertinente
-            if is_relevant_based_on_top_tokens(top_tokens, page.summary, page_name, base_threshold=5):
+            if is_relevant_based_on_top_tokens(top_tokens, page.summary, current_page, base_threshold=5):
                 # Stocker le contenu de la page
                 store_content(current_page, page.content, content_storage, content_file)
 
@@ -177,9 +176,9 @@ def bfs_scrape(start_page, max_depth=3, content_file='content.json', link_file='
                     if link not in visited:
                         try:
                             linked_page = wikipedia.WikipediaPage(link)
-
+                            
                             # Vérifier si le lien est pertinent
-                            if is_relevant_based_on_top_tokens(top_tokens, linked_page.summary, current_page, threshold=5):
+                            if is_relevant_based_on_top_tokens(top_tokens, linked_page.summary, link, base_threshold=5):
                                 # Stocker le lien pertinent
                                 store_links(current_page, link, link_storage, link_file)
                                 # Stocker directement le contenu de la page liée
@@ -195,6 +194,7 @@ def bfs_scrape(start_page, max_depth=3, content_file='content.json', link_file='
                         except wikipedia.exceptions.WikipediaException as e:
                             print(f"WikipediaException: {link} caused an error. Details: {e}")
 
+
                 clear_current_link(current_link_file, current_page)  # Nettoyer après la boucle
 
         except wikipedia.exceptions.DisambiguationError:
@@ -204,8 +204,7 @@ def bfs_scrape(start_page, max_depth=3, content_file='content.json', link_file='
         except wikipedia.exceptions.WikipediaException as e:
             print(f"WikipediaException: {current_page} caused an error. Details: {e}")
         current_page, depth = queue.pop(0)
-
     print(f"Scraping Finished! Visited {visited_count} pages.")
 
 # Lancer le scraping
-bfs_scrape("Diversity (business)", max_depth=2, content_file='content.json', link_file='links.json')
+bfs_scrape("Diversity (business)", max_depth=2, content_file='content1.json', link_file='links1.json', queue_file='queue1.json', current_link_file='current_link1.json')
