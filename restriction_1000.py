@@ -122,11 +122,13 @@ def clear_current_link(file_path, current_page):
         if current_page in last:
             del last[current_page]
             save_data(file_path, last)
+
 # Fonction principale pour le scraping BFS
 def bfs_scrape(start_page, max_depth=3, content_file='content.json', link_file='links.json', queue_file='queue.json', current_link_file='current_link.json'):
     visited = set()  # Set des pages visitées
     queue = load_queue(queue_file)  # Charger la queue sauvegardée
     visited_count = 0
+
     # Si la queue est vide, initialiser avec la page de départ
     if not queue:
         queue = [(start_page, 0)]
@@ -139,17 +141,20 @@ def bfs_scrape(start_page, max_depth=3, content_file='content.json', link_file='
     main_page = wikipedia.WikipediaPage(start_page)
     top_tokens = get_top_tokens(main_page.content, n=20)
     print(f"Top Tokens for {start_page}: {top_tokens}\n")
+
     while queue:
         # Retirer la première page de la queue
+        current_page, depth = queue.pop(0)
         save_queue(queue_file, queue)  # Sauvegarder la queue mise à jour
-        depth=queue[0][1]
-        current_page = queue[0][0]
+
         # Vérifier si la profondeur maximale est atteinte
         if depth > max_depth:
+            print(f"Profondeur max atteinte pour {current_page}.")
             continue
 
         # Marquer la page comme visitée
         if current_page in visited:
+            print(f"{current_page} déjà visité.")
             continue
         visited.add(current_page)
 
@@ -195,7 +200,6 @@ def bfs_scrape(start_page, max_depth=3, content_file='content.json', link_file='
                         except wikipedia.exceptions.WikipediaException as e:
                             print(f"WikipediaException: {link} caused an error. Details: {e}")
 
-
                 clear_current_link(current_link_file, current_page)  # Nettoyer après la boucle
 
         except wikipedia.exceptions.DisambiguationError:
@@ -204,8 +208,9 @@ def bfs_scrape(start_page, max_depth=3, content_file='content.json', link_file='
             print(f"PageError: {current_page} does not exist.")
         except wikipedia.exceptions.WikipediaException as e:
             print(f"WikipediaException: {current_page} caused an error. Details: {e}")
-        current_page, depth = queue.pop(0)
+
     print(f"Scraping Finished! Visited {visited_count} pages.")
 
+
 # Lancer le scraping
-bfs_scrape("Diversity (business)", max_depth=1, content_file='content1.json', link_file='links1.json', queue_file='queue1.json', current_link_file='current_link1.json')
+bfs_scrape("Diversity (business)", max_depth=1, content_file='content2.json', link_file='links2.json', queue_file='queue2.json', current_link_file='current_link2.json')
