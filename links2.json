@@ -1,0 +1,223 @@
+{
+    "Diversity (business)": [
+        "Cultural diversity",
+        "Diversity training",
+        "Emotions in the workplace",
+        "Employee assistance program",
+        "Employee engagement",
+        "Generations in the workforce",
+        "Organizational conflict",
+        "Organizational culture",
+        "Positive psychology in the workplace",
+        "Tokenism",
+        "Workplace politics"
+    ],
+    "Cultural diversity": [
+        "Cross-cultural",
+        "Cross-cultural leadership",
+        "Cross cultural sensitivity",
+        "Cultural agility",
+        "Dominant culture",
+        "Legal culture",
+        "Organizational culture",
+        "Relational mobility",
+        "Safety culture"
+    ],
+    "Diversity training": [
+        "Anti-racism",
+        "Sexual harassment",
+        "Training and development"
+    ],
+    "Emotions in the workplace": [
+        "American Management Association",
+        "Employee assistance program",
+        "Employee engagement",
+        "Generations in the workforce",
+        "Organizational conflict",
+        "Organizational culture",
+        "Positive psychology in the workplace",
+        "Sexual harassment",
+        "Supervisor",
+        "Workplace politics"
+    ],
+    "Employee assistance program": [
+        "Presenteeism"
+    ],
+    "Employee engagement": [
+        "Brand engagement",
+        "Employee retention",
+        "Generations in the workforce",
+        "Organizational conflict",
+        "Organizational culture",
+        "Positive psychology in the workplace",
+        "Workplace politics"
+    ],
+    "Organizational conflict": [
+        "Change management",
+        "Human resource management",
+        "International business",
+        "Organizational culture",
+        "Organizational diagnostics",
+        "Organizational ethics",
+        "Organizational justice",
+        "Outline of organizational theory",
+        "Positive psychology in the workplace",
+        "Workplace politics"
+    ],
+    "Organizational culture": [
+        "Business culture",
+        "Change management",
+        "Cross-cultural",
+        "Cross-cultural leadership",
+        "Cross cultural sensitivity",
+        "Cultural unitarism",
+        "Dominant culture",
+        "Geert Hofstede",
+        "Human resource management",
+        "International business",
+        "Legal culture",
+        "Management style",
+        "Matrix management",
+        "Organizational diagnostics",
+        "Organizational ethics",
+        "Organizational justice",
+        "Outline of organizational theory",
+        "Precarious work",
+        "Presenteeism",
+        "Relational mobility",
+        "Safety culture"
+    ],
+    "Positive psychology in the workplace": [
+        "Employee retention",
+        "Workplace politics"
+    ],
+    "Cross-cultural": [
+        "Cross-cultural leadership",
+        "Cross cultural sensitivity",
+        "Cultural agility",
+        "Dominant culture",
+        "Legal culture",
+        "Negotiation",
+        "Relational mobility",
+        "Safety culture"
+    ],
+    "Cross-cultural leadership": [
+        "Hofstede"
+    ],
+    "Cross cultural sensitivity": [
+        "Cross-cultural competence",
+        "Dominant culture",
+        "Legal culture",
+        "Relational mobility",
+        "Safety culture"
+    ],
+    "Cultural agility": [
+        "Cross-cultural competence"
+    ],
+    "Dominant culture": [
+        "Legal culture",
+        "Relational mobility",
+        "Safety culture"
+    ],
+    "Legal culture": [
+        "Political",
+        "Relational mobility",
+        "Safety culture"
+    ],
+    "Relational mobility": [
+        "Reputation"
+    ],
+    "Safety culture": [
+        "Process safety management"
+    ],
+    "Anti-racism": [
+        "Institutional racism",
+        "Sexual harassment",
+        "Systemic racism"
+    ],
+    "Sexual harassment": [
+        "Internship",
+        "Layoff",
+        "Presenteeism",
+        "Shift work",
+        "Sunday scaries",
+        "Supervisor"
+    ],
+    "Training and development": [
+        "Adult education",
+        "Human resource management"
+    ],
+    "American Management Association": [
+        "Human resources management"
+    ],
+    "Supervisor": [
+        "Human resource management",
+        "Internship",
+        "Layoff",
+        "Presenteeism",
+        "Shift work",
+        "Sunday scaries"
+    ],
+    "Employee retention": [
+        "Seniority"
+    ],
+    "Change management": [
+        "Human resource management",
+        "Management style",
+        "Social entrepreneurship",
+        "Virtual management"
+    ],
+    "Human resource management": [
+        "Collective bargaining",
+        "Human resource policies",
+        "International business",
+        "Layoffs",
+        "Lobbying",
+        "Management style",
+        "Social entrepreneurship",
+        "Virtual management"
+    ],
+    "International business": [
+        "Political"
+    ],
+    "Organizational diagnostics": [
+        "Managing change",
+        "Organizational ethics",
+        "Organizational justice",
+        "Outline of organizational theory"
+    ],
+    "Organizational ethics": [
+        "Human Resource Management",
+        "Market governance mechanism",
+        "Organizational justice",
+        "Outline of organizational theory",
+        "Public participation"
+    ],
+    "Organizational justice": [
+        "Market governance mechanism",
+        "Outline of organizational theory",
+        "Public participation",
+        "Racial justice"
+    ],
+    "Outline of organizational theory": [
+        "Hybrid organization"
+    ],
+    "Business culture": [
+        "Cultural unitarism",
+        "Geert Hofstede",
+        "Management style",
+        "Matrix management",
+        "Precarious work"
+    ],
+    "Geert Hofstede": [
+        "Hofstede"
+    ],
+    "Management style": [
+        "Leadership style",
+        "Social entrepreneurship",
+        "Virtual management"
+    ],
+    "Precarious work": [
+        "Collective bargaining"
+    ]
+}
