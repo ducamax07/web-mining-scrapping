@@ -16,6 +16,7 @@ nltk.download('stopwords')
 stop_words = list(set(stopwords.words('english'))) + ["'s"]
 stem = nltk.stem.SnowballStemmer("english")
 
+
 # Fonction pour extraire les tokens 
 def extract_tokens(text):
     text = text.lower()
@@ -39,7 +40,17 @@ def get_top_tokens(content, n=20):
     top_tokens = [item[0] for item in sorted_tokens[:n]]
     return set(top_tokens)
 
-def is_relevant_based_on_top_tokens(top_tokens, linked_summary, threshold=20):
+def calculate_dynamic_threshold(page_summary, base_threshold=5):
+    
+    # Calcule un seuil dynamique de pertinence en fonction de la longueur du résumé.
+    
+    text_length = len(page_summary.split())
+    
+    # Ajuster le seuil en fonction de la longueur du texte (plus de texte, plus de tokens nécessaires)
+    dynamic_threshold = base_threshold + (text_length // 100)  # Augmenter de 1 pour chaque 100 mots
+    return dynamic_threshold
+
+def is_relevant_based_on_top_tokens(top_tokens, linked_summary, page_name, base_threshold=5):
     # Extraire les tokens et rendre linked_tokens unique
     linked_tokens = extract_tokens(linked_summary)  # Assure unicité des tokens extraits
     unique_linked_tokens = []
@@ -47,13 +58,14 @@ def is_relevant_based_on_top_tokens(top_tokens, linked_summary, threshold=20):
         if token in top_tokens:
             if token not in unique_linked_tokens:
                 unique_linked_tokens.append(token)
+    dynamic_threshold = calculate_dynamic_threshold(linked_summary, base_threshold)
     
     # Comparer avec le seuil
-    if len(unique_linked_tokens) >= threshold:
-        print(f"Common Tokens (comparés à top_tokens): {unique_linked_tokens}")
-        print(f"Nombre de tokens communs: {len(unique_linked_tokens)}")
+    if len(unique_linked_tokens) >= dynamic_threshold:
+        print(f"Page validée : {page_name}")
         return True
     else:
+        #print(f"Page non validée : {page_name}")
         return False
 
 # Sauvegarder les données dans un fichier JSON
@@ -110,11 +122,13 @@ def clear_current_link(file_path, current_page):
         if current_page in last:
             del last[current_page]
             save_data(file_path, last)
+
 # Fonction principale pour le scraping BFS
 def bfs_scrape(start_page, max_depth=3, content_file='content.json', link_file='links.json', queue_file='queue.json', current_link_file='current_link.json'):
     visited = set()  # Set des pages visitées
     queue = load_queue(queue_file)  # Charger la queue sauvegardée
     visited_count = 0
+
     # Si la queue est vide, initialiser avec la page de départ
     if not queue:
         queue = [(start_page, 0)]
@@ -127,17 +141,20 @@ def bfs_scrape(start_page, max_depth=3, content_file='content.json', link_file='
     main_page = wikipedia.WikipediaPage(start_page)
     top_tokens = get_top_tokens(main_page.content, n=20)
     print(f"Top Tokens for {start_page}: {top_tokens}\n")
+
     while queue:
         # Retirer la première page de la queue
+        current_page, depth = queue.pop(0)
         save_queue(queue_file, queue)  # Sauvegarder la queue mise à jour
-        depth=queue[0][1]
-        current_page = queue[0][0]
+
         # Vérifier si la profondeur maximale est atteinte
         if depth > max_depth:
+            print(f"Profondeur max atteinte pour {current_page}.")
             continue
 
         # Marquer la page comme visitée
         if current_page in visited:
+            print(f"{current_page} déjà visité.")
             continue
         visited.add(current_page)
 
@@ -155,7 +172,7 @@ def bfs_scrape(start_page, max_depth=3, content_file='content.json', link_file='
                 links_to_process = links_to_process[links_to_process.index(start_link) + 1:]
 
             # Vérifier si la page est pertinente
-            if is_relevant_based_on_top_tokens(top_tokens, page.summary, threshold=5):
+            if is_relevant_based_on_top_tokens(top_tokens, page.summary, current_page, base_threshold=5):
                 # Stocker le contenu de la page
                 store_content(current_page, page.content, content_storage, content_file)
 
@@ -165,9 +182,9 @@ def bfs_scrape(start_page, max_depth=3, content_file='content.json', link_file='
                     if link not in visited:
                         try:
                             linked_page = wikipedia.WikipediaPage(link)
-
+                            
                             # Vérifier si le lien est pertinent
-                            if is_relevant_based_on_top_tokens(top_tokens, linked_page.summary, threshold=5):
+                            if is_relevant_based_on_top_tokens(top_tokens, linked_page.summary, link, base_threshold=6):
                                 # Stocker le lien pertinent
                                 store_links(current_page, link, link_storage, link_file)
                                 # Stocker directement le contenu de la page liée
@@ -191,15 +208,22 @@ def bfs_scrape(start_page, max_depth=3, content_file='content.json', link_file='
             print(f"PageError: {current_page} does not exist.")
         except wikipedia.exceptions.WikipediaException as e:
             print(f"WikipediaException: {current_page} caused an error. Details: {e}")
-        current_page, depth = queue.pop(0)
 
-    print("\nScraping completed.")
+    print(f"Scraping Finished! Visited {visited_count} pages.")
+
 
 # Lancer le scraping
-bfs_scrape("Diversity (business)", max_depth=2, content_file='content.json', link_file='links.json')
+import time
 
+if __name__ == "__main__":
+    while True:
+        try:
+            bfs_scrape("Diversity (business)", max_depth=2, content_file='content2.json', link_file='links2.json', queue_file='queue2.json', current_link_file='current_link2.json')
 
-
-
-### Après ca on a finit la data collection, on peut passer à un deuxième
-### tri des textes avec la méthode TF-IDF pour prendre en compte le contexte
+        except Exception as e:
+            print(f"Erreur fatale : {e}")
+            print("Redémarrage du script dans 15 secondes...")
+            time.sleep(15)
+        except KeyboardInterrupt:
+            print("Arrêt manuel détecté. Fin du programme.")
+            break
