@@ -1,0 +1,25 @@
+{
+    "Anti-racism": [
+        "Oppressed",
+        "Oppression",
+        "Social privilege",
+        "White privilege"
+    ],
+    "Oppression": [
+        "Economic oppression",
+        "Privilege (social inequality)",
+        "Social privilege",
+        "White privilege"
+    ],
+    "Social privilege": [
+        "Privilege (social inequality)",
+        "Privilege hazard",
+        "White privilege"
+    ],
+    "White privilege": [
+        "White Privilege"
+    ],
+    "Racial justice": [
+        "Oppressed"
+    ]
+}
