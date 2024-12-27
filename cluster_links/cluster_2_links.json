@@ -1,0 +1,259 @@
+{
+    "Employee engagement": [
+        "Brand engagement",
+        "Employee recognition",
+        "Employee retention",
+        "Employee satisfaction",
+        "Employee silence",
+        "Human resources",
+        "Job satisfaction",
+        "Organizational culture",
+        "Positive psychology in the workplace",
+        "Probation (workplace)",
+        "Realistic job preview",
+        "Workplace bullying"
+    ],
+    "Employee recognition": [
+        "Employee silence",
+        "Job satisfaction",
+        "Organizational culture",
+        "Positive psychology in the workplace",
+        "Probation (workplace)",
+        "Workplace bullying"
+    ],
+    "Employee silence": [
+        "Organizational culture",
+        "Positive psychology in the workplace",
+        "Probation (workplace)",
+        "Workplace bullying"
+    ],
+    "Human resources": [
+        "Activity-based working",
+        "Change management",
+        "Employee retention",
+        "Human resource management",
+        "Manpower",
+        "Mergers and acquisitions",
+        "Organizational culture",
+        "Organizational effectiveness",
+        "Performance management",
+        "Personnel Administration"
+    ],
+    "Organizational culture": [
+        "Business culture",
+        "Change management",
+        "Cross-cultural leadership",
+        "Employee performance",
+        "Fail fast (business)",
+        "Human resource management",
+        "Job satisfaction",
+        "Management style",
+        "Mergers and acquisitions",
+        "Organizational diagnostics",
+        "Organizational effectiveness",
+        "Organizational justice",
+        "Organizational performance",
+        "Performance management",
+        "Realistic job preview",
+        "Safety culture",
+        "Workplace bullying"
+    ],
+    "Positive psychology in the workplace": [
+        "Employee retention",
+        "Job satisfaction",
+        "Probation (workplace)",
+        "Workplace bullying"
+    ],
+    "Probation (workplace)": [
+        "Job satisfaction",
+        "On-call",
+        "Realistic job preview",
+        "Schedule (workplace)",
+        "Supervisor",
+        "Workplace bullying"
+    ],
+    "Workplace bullying": [
+        "Bullying in information technology",
+        "Job satisfaction",
+        "On-call",
+        "Realistic job preview",
+        "Schedule (workplace)",
+        "Supervisor"
+    ],
+    "Job satisfaction": [
+        "Corporate culture",
+        "Employee retention",
+        "Employee value proposition",
+        "Job analysis",
+        "Job shadow",
+        "On-call",
+        "Organizational Justice",
+        "Realistic job preview",
+        "Schedule (workplace)",
+        "Supervisor",
+        "Probation (workplace)",
+        "Workplace bullying"
+    ],
+    "On-call": [
+        "Employee scheduling software",
+        "Realistic job preview",
+        "Supervisor",
+        "Human resources",
+        "Probation (workplace)",
+        "Workplace bullying"
+    ],
+    "Realistic job preview": [
+        "Company culture",
+        "Human resource management",
+        "Performance management",
+        "Schedule (workplace)",
+        "Supervisor",
+        "Employee engagement",
+        "Organizational culture",
+        "Probation (workplace)",
+        "Workplace bullying"
+    ],
+    "Schedule (workplace)": [
+        "Employee scheduling software",
+        "Supervisor",
+        "Human resources",
+        "Probation (workplace)",
+        "Workplace bullying"
+    ],
+    "Supervisor": [
+        "Human resource management",
+        "Probation (workplace)",
+        "Workplace bullying"
+    ],
+    "Cross-cultural leadership": [],
+    "Safety culture": [
+        "Process safety management",
+        "Organizational culture"
+    ],
+    "Training and development": [
+        "Human resource management",
+        "Organizational effectiveness"
+    ],
+    "Employee retention": [],
+    "Employee satisfaction": [
+        "Corporate culture",
+        "Employee value proposition",
+        "Job analysis",
+        "Job shadow",
+        "Organizational Justice"
+    ],
+    "Change management": [
+        "Business transformation",
+        "Communication and leadership during change",
+        "Human resource management",
+        "Information management",
+        "Line management",
+        "Management style",
+        "Mergers and acquisitions",
+        "Performance management",
+        "Program management",
+        "Project stakeholder",
+        "Staff management",
+        "Virtual management"
+    ],
+    "Human resource management": [
+        "Employee performance management",
+        "Human resource policies",
+        "Information management",
+        "Line management",
+        "Management style",
+        "Merger and acquisition",
+        "Mergers and acquisitions",
+        "Performance management",
+        "Program management",
+        "Staff management",
+        "Virtual management"
+    ],
+    "Manpower": [
+        "Mergers and acquisitions",
+        "Organizational effectiveness",
+        "Performance management",
+        "Personnel Administration"
+    ],
+    "Mergers and acquisitions": [
+        "Corporate advisory",
+        "Management due diligence"
+    ],
+    "Organizational effectiveness": [
+        "Organizational diagnostics",
+        "Organizational justice",
+        "Organizational performance"
+    ],
+    "Performance management": [
+        "Electronic performance support systems",
+        "Information management",
+        "Line management",
+        "List of management topics",
+        "Management style",
+        "Operational performance management",
+        "Organizational diagnostics",
+        "Organizational justice",
+        "Organizational performance",
+        "Program management",
+        "Staff management",
+        "Virtual management"
+    ],
+    "Personnel Administration": [
+        "Employee performance management",
+        "Human resource policies",
+        "Information management",
+        "Line management",
+        "Management style",
+        "Merger and acquisition",
+        "Program management",
+        "Staff management",
+        "Virtual management"
+    ],
+    "Organizational diagnostics": [
+        "Managing change",
+        "Organizational justice",
+        "Organizational performance"
+    ],
+    "Organizational justice": [
+        "Organizational performance"
+    ],
+    "Organizational performance": [
+        "Electronic performance support systems",
+        "Information management",
+        "Line management",
+        "List of management topics",
+        "Management style",
+        "Operational performance management",
+        "Program management",
+        "Staff management",
+        "Virtual management"
+    ],
+    "Business culture": [
+        "Employee performance",
+        "Fail fast (business)",
+        "Management style"
+    ],
+    "Employee performance": [
+        "Electronic performance support systems",
+        "Information management",
+        "Line management",
+        "List of management topics",
+        "Management style",
+        "Operational performance management",
+        "Program management",
+        "Staff management",
+        "Virtual management"
+    ],
+    "Fail fast (business)": [],
+    "Management style": [
+        "Information management",
+        "Leadership style",
+        "Line management",
+        "Program management",
+        "Staff management",
+        "Virtual management"
+    ],
+    "Bullying in information technology": [
+        "Workplace bullying"
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "Trade union": [
+        "Collective bargaining",
+        "Community unionism",
+        "Industrial action",
+        "Labor spying in the United States",
+        "Labour Union",
+        "Members-only unionism",
+        "Strikebreaker",
+        "Union busting"
+    ],
+    "Layoff": [],
+    "Labor union": [
+        "Collective bargaining",
+        "Community unionism",
+        "Industrial action",
+        "Labor spying in the United States",
+        "Labour Union",
+        "Members-only unionism",
+        "Strikebreaker",
+        "Union busting"
+    ],
+    "Collective bargaining": [
+        "Community unionism",
+        "Industrial action",
+        "Labor spying in the United States",
+        "Members-only unionism",
+        "Strikebreaker",
+        "Union busting"
+    ],
+    "Community unionism": [
+        "Industrial action",
+        "Labor spying in the United States",
+        "Labour unions",
+        "Members-only unionism",
+        "Strikebreaker",
+        "Trade unions",
+        "Union busting"
+    ],
+    "Industrial action": [
+        "Labor spying in the United States",
+        "Members-only unionism",
+        "Strikebreaker",
+        "Union busting"
+    ],
+    "Labor spying in the United States": [
+        "Members-only unionism",
+        "Strikebreaker",
+        "Union busting"
+    ],
+    "Labour Union": [
+        "Members-only unionism",
+        "Strikebreaker",
+        "Union busting"
+    ],
+    "Members-only unionism": [
+        "Collective bargaining",
+        "Community unionism",
+        "Industrial action",
+        "Labor spying in the United States",
+        "Strikebreaker",
+        "Trade union",
+        "Union busting",
+        "Volkswagen worker organizations"
+    ],
+    "Strikebreaker": [
+        "Collective bargaining",
+        "Community unionism",
+        "Industrial action",
+        "Labor spying in the United States",
+        "Trade union",
+        "Trade unions",
+        "Union busting"
+    ],
+    "Union busting": [
+        "Collective bargaining",
+        "Community unionism",
+        "Industrial action",
+        "Labor spies",
+        "Labor spying in the United States",
+        "Opposition to trade unions",
+        "Strikebreaking",
+        "Trade union"
+    ]
+}

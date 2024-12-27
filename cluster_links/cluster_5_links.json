@@ -1,0 +1,74 @@
+{
+    "Employee assistance program": [],
+    "Workplace health promotion": [
+        "Commercial determinants of health",
+        "Health education",
+        "Mental health",
+        "Occupational health nursing",
+        "Occupational hygiene",
+        "Population health",
+        "Psychosocial hazard",
+        "Race and health",
+        "Employee assistance program"
+    ],
+    "Shift work": [
+        "Day shifts",
+        "Second shift",
+        "Working nights",
+        "Workplace health promotion"
+    ],
+    "Cross cultural sensitivity": [],
+    "Positive psychology": [
+        "Community psychology",
+        "Psychological intervention",
+        "Psychologist"
+    ],
+    "Employee assistance programs": [],
+    "Commercial determinants of health": [
+        "Health education",
+        "Mental health",
+        "Occupational health nursing",
+        "Occupational hygiene",
+        "Population health",
+        "Race and health"
+    ],
+    "Health education": [
+        "Emotional health",
+        "Mental health",
+        "Occupational health nursing",
+        "Occupational hygiene",
+        "Population health",
+        "Race and health"
+    ],
+    "Mental health": [
+        "Community psychology",
+        "History of mental healthcare",
+        "Occupational health nursing",
+        "Occupational hygiene",
+        "Population health",
+        "Positive psychology",
+        "Psychologist",
+        "Race and health",
+        "Social work"
+    ],
+    "Occupational health nursing": [
+        "Occupational hygiene",
+        "Population health",
+        "Psychosocial hazard",
+        "Race and health"
+    ],
+    "Occupational hygiene": [
+        "Population health",
+        "Psychosocial hazard",
+        "Race and health"
+    ],
+    "Population health": [
+        "Population health policies and interventions",
+        "Race and health"
+    ],
+    "Psychosocial hazard": [],
+    "Race and health": [
+        "Ethnicity and health",
+        "Medical racism"
+    ]
+}
