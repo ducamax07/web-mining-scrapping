@@ -218,7 +218,7 @@ import time
 if __name__ == "__main__":
     while True:
         try:
-            bfs_scrape("Diversity (business)", max_depth=2, content_file='content2.json', link_file='links2.json', queue_file='queue2.json', current_link_file='current_link2.json')
+            bfs_scrape("Diversity (business)", max_depth=3, content_file='content2.json', link_file='links2.json', queue_file='queue2.json', current_link_file='current_link2.json')
 
         except Exception as e:
             print(f"Erreur fatale : {e}")
