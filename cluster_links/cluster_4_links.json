@@ -1,22 +1,139 @@
 {
-    "Workplace harassment": [
-        "Sexual harassment"
+    "Cultural diversity": [
+        "Legal culture",
+        "UNESCO Universal Declaration on Cultural Diversity",
+        "Universal Declaration on Cultural Diversity"
     ],
-    "Sexism": [
-        "Anti-sexism",
-        "Feminism in Latin America",
-        "Gender discrimination",
-        "Gender inequality",
-        "Sex discrimination",
-        "Sexism in the technology industry",
-        "Sexual harassment",
-        "Social construction of gender",
-        "Women's empowerment",
-        "Women in Vietnam"
+    "Job": [
+        "Cooperative",
+        "Economics",
+        "Economy",
+        "Human work",
+        "Politics"
     ],
-    "Sexual harassment": [
-        "Sex discrimination",
-        "Sexism",
-        "Workplace harassment"
+    "Anti-racism": [
+        "Oppressed",
+        "Oppression",
+        "Redneck Revolt"
+    ],
+    "Cooperative": [
+        "Co-op",
+        "Corporate crime",
+        "Economics",
+        "Industrial democracy",
+        "Women in cooperatives"
+    ],
+    "Corporate crime": [],
+    "Oppression": [
+        "Economic oppression"
+    ],
+    "Racial justice": [
+        "Oppressed",
+        "Redneck Revolt"
+    ],
+    "Legal culture": [
+        "Political",
+        "Socio-economic"
+    ],
+    "UNESCO Universal Declaration on Cultural Diversity": [],
+    "Universal Declaration on Cultural Diversity": [],
+    "Conservatism in the United States": [
+        "American conservative"
+    ],
+    "Economy": [
+        "Economics",
+        "Socioeconomics"
+    ],
+    "Economics": [
+        "Economic imperialism (economics)",
+        "Economic theory",
+        "Labour (human activity)",
+        "Natural capital",
+        "Socioeconomics"
+    ],
+    "Labour (human activity)": [
+        "Human work",
+        "Politics"
+    ],
+    "Human work": [
+        "Politics"
+    ],
+    "Politics": [
+        "Industrial democracy",
+        "Pluralism (political theory)",
+        "Pluralist democracy"
+    ],
+    "Organization workshop": [],
+    "Collective bargaining": [
+        "Community unionism",
+        "Industrial action",
+        "Labor spying in the United States",
+        "List of strikes",
+        "Members-only unionism",
+        "Strikebreaker",
+        "Union busting"
+    ],
+    "Community unionism": [
+        "Industrial action",
+        "Labor spying in the United States",
+        "Members-only unionism",
+        "Social movement",
+        "Social movements",
+        "Strikebreaker",
+        "Union busting"
+    ],
+    "Industrial action": [
+        "Labor spying in the United States",
+        "List of strikes",
+        "Members-only unionism",
+        "Strikebreaker",
+        "Union busting",
+        "Work (human activity)"
+    ],
+    "Industrial democracy": [
+        "Collective Bargaining",
+        "Pluralist democracy",
+        "Works council"
+    ],
+    "Labor spying in the United States": [
+        "Members-only unionism",
+        "Strikebreaker",
+        "Union busting"
+    ],
+    "List of strikes": [
+        "Members-only unionism"
+    ],
+    "Members-only unionism": [
+        "Collective bargaining",
+        "Community unionism",
+        "Industrial action",
+        "Labor spying in the United States",
+        "Strikebreaker",
+        "Union busting",
+        "Volkswagen worker organizations"
+    ],
+    "Strikebreaker": [
+        "Collective bargaining",
+        "Community unionism",
+        "Industrial action",
+        "Labor spying in the United States",
+        "Union busting"
+    ],
+    "Union busting": [
+        "Collective bargaining",
+        "Community unionism",
+        "Industrial action",
+        "Labor spies",
+        "Labor spying in the United States",
+        "List of strikes",
+        "Strikebreaking",
+        "Works council"
+    ],
+    "Work (human activity)": [
+        "Cooperative",
+        "Economics",
+        "Economy",
+        "Human work",
+        "Politics"
     ]
 }

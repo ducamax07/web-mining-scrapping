@@ -1,19 +1,217 @@
 {
+    "Organizational culture": [
+        "Business culture",
+        "Cross-cultural capital",
+        "Cross-cultural communication",
+        "Cross-cultural leadership",
+        "Cross cultural sensitivity",
+        "Cultural intelligence",
+        "Cultural retention",
+        "Diversity ideologies",
+        "Geert Hofstede",
+        "Individualistic culture",
+        "Intercultural communication",
+        "Job satisfaction",
+        "Organizational justice",
+        "Power distance",
+        "Relational mobility",
+        "Rite of passage",
+        "Uncertainty avoidance",
+        "Workplace bullying"
+    ],
+    "Stigma management": [
+        "Job satisfaction",
+        "Religious affiliation",
+        "Sexism",
+        "Social context"
+    ],
+    "Workplace bullying": [
+        "Interpersonal relationships",
+        "Job satisfaction",
+        "Sexual harassment"
+    ],
+    "Job satisfaction": [
+        "Community psychology",
+        "Core self-evaluations",
+        "Corporate culture",
+        "Organizational Justice",
+        "Positive psychology",
+        "Sexual harassment",
+        "Stigma management",
+        "Workplace bullying"
+    ],
+    "Power distance": [
+        "Cross-cultural communication",
+        "Geert Hofstede",
+        "Sexism",
+        "Sexual harassment",
+        "Uncertainty avoidance"
+    ],
+    "Sexism": [
+        "Anti-sexism",
+        "Gender discrimination",
+        "Overweight",
+        "Plurisexuality",
+        "Sex discrimination",
+        "Sexual harassment",
+        "Social construction of gender"
+    ],
+    "Sexual harassment": [
+        "Sex discrimination",
+        "Power distance",
+        "Sexism",
+        "Workplace bullying"
+    ],
+    "Cross-cultural capital": [
+        "Cross-cultural communication",
+        "Cross-cultural leadership",
+        "Cross cultural sensitivity",
+        "Cultural intelligence",
+        "Cultural retention",
+        "Individualistic culture",
+        "Intercultural communication",
+        "Relational mobility"
+    ],
+    "Cross-cultural communication": [
+        "Cultural sensitivity",
+        "Geert Hofstede",
+        "Hofstede",
+        "Individualistic culture",
+        "Intercultural communication",
+        "Intercultural communication principles",
+        "Interpersonal communication",
+        "Self-enhancement"
+    ],
+    "Cross-cultural leadership": [
+        "Hofstede",
+        "Uncertainty avoidance"
+    ],
+    "Cross cultural sensitivity": [
+        "Cultural intelligence",
+        "Cultural retention",
+        "Individualistic culture",
+        "Intercultural communication",
+        "Relational mobility"
+    ],
+    "Cultural intelligence": [
+        "Cultural retention",
+        "Individualistic culture",
+        "Intercultural communication",
+        "Relational mobility"
+    ],
+    "Cultural retention": [
+        "Individualistic culture",
+        "Intercultural communication",
+        "Relational mobility"
+    ],
+    "Individualistic culture": [
+        "Geert Hofstede",
+        "Intercultural communication",
+        "Relational mobility",
+        "Self-enhancement",
+        "Sociocultural context"
+    ],
+    "Intercultural communication": [
+        "Cross-cultural negotiation",
+        "Cultural schema theory",
+        "Cultural sensitivity",
+        "Framing (social sciences)",
+        "Interpersonal communication",
+        "Relational mobility"
+    ],
+    "Relational mobility": [
+        "Interpersonal relations",
+        "Interpersonal relationship",
+        "Self-enhancement",
+        "Social environment"
+    ],
     "Interpersonal relationship": [
         "Acquaintance",
+        "Community psychology",
         "Companionship",
+        "Dominance hierarchy",
+        "First date",
         "Human relations",
+        "Positive psychology",
         "Social context",
         "Social environment"
     ],
     "Social context": [
-        "Milieu"
+        "Framing (social sciences)",
+        "Milieu",
+        "Social psychology (sociology)"
+    ],
+    "Employee satisfaction": [
+        "Community psychology",
+        "Core self-evaluations",
+        "Corporate culture",
+        "Organizational Justice",
+        "Positive psychology"
+    ],
+    "Problem solving": [
+        "Positive psychology",
+        "Problem"
+    ],
+    "Organizational justice": [
+        "Equity theory"
+    ],
+    "Business culture": [
+        "Diversity ideologies",
+        "Geert Hofstede",
+        "Rite of passage",
+        "Uncertainty avoidance"
+    ],
+    "Diversity ideologies": [
+        "Common ingroup identity"
+    ],
+    "Geert Hofstede": [
+        "Hofstede",
+        "Uncertainty avoidance"
+    ],
+    "Rite of passage": [
+        "Magic (supernatural)"
+    ],
+    "Positive psychology": [
+        "Community psychology",
+        "Prosocial behavior",
+        "Psychological intervention",
+        "Psychologist",
+        "Self-enhancement",
+        "Self-report inventory"
     ],
     "Interpersonal relationships": [
         "Acquaintance",
+        "Community psychology",
         "Companionship",
+        "Dominance hierarchy",
+        "First date",
         "Human relations",
+        "Positive psychology",
+        "Relational mobility",
         "Social context",
         "Social environment"
+    ],
+    "Health education": [
+        "Emotional health",
+        "Mental health",
+        "Population health",
+        "Race and health"
+    ],
+    "Mental health": [
+        "Community psychology",
+        "History of mental healthcare",
+        "Interpersonal relationship",
+        "Population health",
+        "Positive psychology",
+        "Psychologist",
+        "Race and health",
+        "Self-report inventory"
+    ],
+    "Population health": [
+        "Race and health"
+    ],
+    "Race and health": [
+        "Ethnicity and health",
+        "Medical racism"
     ]
 }

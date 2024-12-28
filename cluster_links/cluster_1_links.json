@@ -1,50 +1,112 @@
 {
     "Diversity (business)": [
         "Affirmative action",
-        "Cultural diversity",
+        "Allyship",
         "Diversity, Equity, and Inclusion",
         "Diversity, equity, and inclusion",
-        "Diversity training"
+        "Diversity training",
+        "Tokenism",
+        "Workplace harassment"
     ],
     "Affirmative action": [
+        "Age segregation",
         "Disability rights movement",
+        "Discouraged worker",
         "Diversity, equity, and inclusion",
         "Diversity training",
-        "Internship"
+        "Social privilege",
+        "Taste-based discrimination",
+        "Tokenism",
+        "White privilege",
+        "Workplace harassment",
+        "Youth unemployment"
     ],
-    "Cultural diversity": [
-        "UNESCO Universal Declaration on Cultural Diversity",
-        "Universal Declaration on Cultural Diversity"
+    "Allyship": [
+        "Anti-bias curriculum",
+        "Diversity, equity, and inclusion"
     ],
     "Diversity, Equity, and Inclusion": [
+        "Corporate Equality Index",
         "DEI",
         "Diversity education",
         "Diversity training",
-        "Inclusion (disability rights)"
+        "Inclusion (disability rights)",
+        "Tokenism"
     ],
     "Diversity, equity, and inclusion": [
+        "Corporate Equality Index",
         "DEI",
         "Diversity education",
         "Diversity training",
-        "Inclusion (disability rights)"
+        "Inclusion (disability rights)",
+        "Tokenism"
     ],
-    "Diversity training": [],
+    "Diversity training": [
+        "Age segregation",
+        "Anti-bias curriculum",
+        "Social privilege",
+        "Taste-based discrimination",
+        "White privilege"
+    ],
+    "Tokenism": [],
+    "Workplace harassment": [
+        "Discouraged worker",
+        "Youth unemployment",
+        "Affirmative action",
+        "Diversity (business)"
+    ],
+    "Age segregation": [
+        "Emiratisation",
+        "Social privilege",
+        "Taste-based discrimination",
+        "White privilege"
+    ],
     "Disability rights movement": [
         "Council for Canadians with Disabilities",
         "Disability Pride Parades",
         "Disability in the arts",
         "Employment equity",
         "Inclusion (disability rights)",
-        "Social movement",
-        "Ticket to Work"
+        "Social privilege",
+        "Taste-based discrimination",
+        "White privilege"
     ],
-    "Internship": [
-        "Interning",
-        "Work experience",
+    "Discouraged worker": [
+        "Youth unemployment",
+        "Affirmative action",
+        "Workplace harassment"
+    ],
+    "Social privilege": [
+        "Dominant culture",
+        "Privilege (social inequality)",
+        "Privilege hazard",
+        "Systemic racism",
+        "White privilege"
+    ],
+    "Taste-based discrimination": [
+        "White privilege"
+    ],
+    "White privilege": [
+        "Dominant culture",
+        "Institutional racism",
+        "White Privilege"
+    ],
+    "Youth unemployment": [
         "Affirmative action"
     ],
-    "UNESCO Universal Declaration on Cultural Diversity": [],
-    "Universal Declaration on Cultural Diversity": [],
+    "Anti-bias curriculum": [
+        "Institutional racism"
+    ],
+    "Censorship": [
+        "Activism",
+        "Alternative media",
+        "Censorship in Cuba",
+        "Conspiracy of silence (expression)"
+    ],
+    "Cross-cultural": [
+        "Dominant culture"
+    ],
+    "Dominant culture": [],
     "DEI": [
         "Diversity education",
         "Inclusion (disability rights)"
@@ -57,7 +119,13 @@
         "Disability in the arts",
         "Disability rights",
         "Neurodiversity Celebration Week",
-        "Neurodiversity and labor rights",
-        "Ticket to Work"
+        "Neurodiversity and labor rights"
+    ],
+    "Criticism of copyright": [
+        "Opposition to copyright"
+    ],
+    "Public participation": [
+        "Participatory GIS",
+        "Public participation geographic information system"
     ]
 }
