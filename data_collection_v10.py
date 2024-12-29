@@ -184,7 +184,7 @@ def bfs_scrape(start_page, max_depth=3, content_file='content.json', link_file='
                             linked_page = wikipedia.WikipediaPage(link)
                             
                             # Vérifier si le lien est pertinent
-                            if is_relevant_based_on_top_tokens(top_tokens, linked_page.summary, link, base_threshold=6):
+                            if is_relevant_based_on_top_tokens(top_tokens, linked_page.summary, link, base_threshold=5):
                                 # Stocker le lien pertinent
                                 store_links(current_page, link, link_storage, link_file)
                                 # Stocker directement le contenu de la page liée
@@ -218,12 +218,14 @@ import time
 if __name__ == "__main__":
     while True:
         try:
-            bfs_scrape("Diversity (business)", max_depth=3, content_file='content2.json', link_file='links2.json', queue_file='queue2.json', current_link_file='current_link2.json')
+            bfs_scrape("Diversity (business)", max_depth=3, content_file='contentA.json', link_file='linksA.json', queue_file='queueA.json', current_link_file='current_linkA.json')
+            print("Scraping terminé avec succès. Fin du programme.")
+            break  # Sortir de la boucle si le scraping est terminé avec succès
 
         except Exception as e:
             print(f"Erreur fatale : {e}")
-            print("Redémarrage du script dans 15 secondes...")
-            time.sleep(15)
+            print("Redémarrage du script dans 10 secondes...")
+            time.sleep(10)
         except KeyboardInterrupt:
             print("Arrêt manuel détecté. Fin du programme.")
             break
