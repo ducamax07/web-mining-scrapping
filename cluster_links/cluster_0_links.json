@@ -1,0 +1,133 @@
+{
+    "Company": [
+        "Corporation",
+        "Firm",
+        "Sole proprietorship",
+        "United Kingdom company law",
+        "Voluntary association"
+    ],
+    "Mergers and acquisitions": [
+        "Cash flow statement",
+        "Corporate advisory",
+        "Proxy fight"
+    ],
+    "Sole proprietorship": [
+        "Benefit corporation",
+        "Corporate law",
+        "Corporation",
+        "Registered agent",
+        "United Kingdom company law"
+    ],
+    "Employee stock ownership": [
+        "Employee stock option",
+        "Employee stock ownership plan",
+        "Share Incentive Plan"
+    ],
+    "Executive compensation": [
+        "Agency cost",
+        "Corporation",
+        "Employee stock option",
+        "High Pay Commission"
+    ],
+    "Group insurance": [],
+    "Corporation": [
+        "Benefit corporation",
+        "Corp.",
+        "Corporate",
+        "Corporate law",
+        "Corporate promoter",
+        "Corporate services",
+        "Registered agent",
+        "United Kingdom company law",
+        "Voluntary association",
+        "Vorstand"
+    ],
+    "Corporations": [
+        "Benefit corporation",
+        "Corp.",
+        "Corporate",
+        "Corporate law",
+        "Corporate promoter",
+        "Corporate services",
+        "Registered agent",
+        "United Kingdom company law",
+        "Voluntary association",
+        "Vorstand"
+    ],
+    "Voluntary association": [
+        "Mutual-benefit nonprofit corporation"
+    ],
+    "Corporate": [
+        "Benefit corporation",
+        "Corp.",
+        "Corporate law",
+        "Corporate promoter",
+        "Corporate services",
+        "Registered agent",
+        "United Kingdom company law",
+        "Vorstand"
+    ],
+    "Employee stock option": [
+        "Employee stock ownership program"
+    ],
+    "Corporate law": [
+        "Benefit corporation",
+        "Business form",
+        "Registered agent",
+        "Shareholder activism",
+        "The Modern Corporation and Private Property",
+        "United Kingdom company law"
+    ],
+    "Firm": [
+        "United Kingdom company law"
+    ],
+    "United Kingdom company law": [
+        "Companies law",
+        "Company promoter",
+        "Company promoters",
+        "Dodge v. Ford Motor Company",
+        "Employee share schemes",
+        "Executive pay",
+        "History of company law",
+        "Sole trader",
+        "The Modern Corporation and Private Property",
+        "UK company law",
+        "Vorstand",
+        "Workplace participation in the United Kingdom"
+    ],
+    "Benefit corporation": [
+        "Corporate entity",
+        "Dodge v. Ford Motor Co.",
+        "Registered agent"
+    ],
+    "Employee-owned corporation": [
+        "Employee stock option",
+        "Employee stock ownership plan",
+        "Share Incentive Plan"
+    ],
+    "Employee stock ownership plan": [
+        "Employee stock option",
+        "Share Incentive Plan"
+    ],
+    "Merger and acquisition": [
+        "Cash flow statement",
+        "Corporate advisory",
+        "Proxy fight"
+    ],
+    "Corporate acquisition": [
+        "Cash flow statement",
+        "Corporate advisory",
+        "Proxy fight"
+    ],
+    "Cash flow statement": [
+        "Net Working Capital"
+    ],
+    "Corporate advisory": [
+        "Proxy fight"
+    ],
+    "Agency cost": [
+        "Dodge v. Ford Motor Co."
+    ],
+    "High Pay Commission": [],
+    "Activist shareholders": []
+}
