@@ -1,0 +1,981 @@
+{
+    "Diversity training": [
+        "Griggs v. Duke Power Co.",
+        "Taste-based discrimination"
+    ],
+    "Job": [
+        "Cooperative",
+        "Human work",
+        "Labor union",
+        "Minimum wage",
+        "Occupational safety and health",
+        "Profession",
+        "Seniority",
+        "Trade union"
+    ],
+    "Probation (workplace)": [
+        "Cooperative",
+        "Dead-end job",
+        "Discouraged worker",
+        "Grey-collar",
+        "Internship",
+        "Layoff",
+        "Minimum wage",
+        "Occupational safety and health",
+        "Profession",
+        "Salary",
+        "Shift work",
+        "Sunday scaries",
+        "Temporary work",
+        "Trade union",
+        "Wage",
+        "Workplace health promotion"
+    ],
+    "Salary": [
+        "Collective bargaining",
+        "Cooperative",
+        "Dead-end job",
+        "Discouraged worker",
+        "Grey-collar",
+        "Internship",
+        "Layoff",
+        "Minimum wage",
+        "Occupational safety and health",
+        "Profession",
+        "Shift work",
+        "Sunday scaries",
+        "Temporary work",
+        "Trade unions",
+        "Wage",
+        "Workplace health promotion"
+    ],
+    "Trade union": [
+        "Collective bargaining",
+        "Community unionism",
+        "Cooperative",
+        "Featherbedding",
+        "Industrial action",
+        "Industrial democracy",
+        "Labor spying in the United States",
+        "Labour Union",
+        "Lockout (industry)",
+        "Members-only unionism",
+        "Minimum wage",
+        "Occupational safety and health",
+        "Precarious work",
+        "Trade unions in Qatar",
+        "Union busting",
+        "Wage",
+        "Work (human activity)",
+        "Workers' self-management"
+    ],
+    "Workplace health promotion": [
+        "Occupational safety and health",
+        "Sanitation worker"
+    ],
+    "Cooperative": [
+        "Co-op",
+        "Industrial democracy",
+        "Co-op",
+        "Industrial democracy",
+        "José María Arizmendiarrieta",
+        "Mondragon Corporation",
+        "Mondragón Cooperative Corporation",
+        "Workers' self-management"
+    ],
+    "Dead-end job": [
+        "Cleaner",
+        "Contingent work",
+        "Cooperative",
+        "Corporate ladder",
+        "Discouraged worker",
+        "Employee benefits",
+        "Epilepsy and employment",
+        "Gender pay gap",
+        "Grey-collar",
+        "Internship",
+        "Job (role)",
+        "Layoff",
+        "List of countries by unemployment rate",
+        "Minimum wage",
+        "Occupational safety and health",
+        "Performance-related pay",
+        "Permanent employment",
+        "Pink slip (employment)",
+        "Profession",
+        "Shift work",
+        "Sick leave",
+        "Sunday scaries",
+        "Temporary employment",
+        "Temporary work",
+        "Termination of employment",
+        "Wage",
+        "Work accident"
+    ],
+    "Discouraged worker": [
+        "Contingent work",
+        "Cooperative",
+        "Employee benefits",
+        "Epilepsy and employment",
+        "Gender pay gap",
+        "Grey-collar",
+        "Internship",
+        "Layoff",
+        "List of countries by unemployment rate",
+        "Minimum wage",
+        "Occupational safety and health",
+        "Performance-related pay",
+        "Permanent employment",
+        "Pink slip (employment)",
+        "Profession",
+        "Shift work",
+        "Sick leave",
+        "Sunday scaries",
+        "Temporary work",
+        "Termination of employment",
+        "Wage",
+        "Work accident"
+    ],
+    "Grey-collar": [
+        "Contingent work",
+        "Cooperative",
+        "Employee benefits",
+        "Epilepsy and employment",
+        "Gender pay gap",
+        "Internship",
+        "Janitor",
+        "Layoff",
+        "List of countries by unemployment rate",
+        "Manual labour",
+        "Minimum wage",
+        "Occupational safety and health",
+        "Performance-related pay",
+        "Permanent employment",
+        "Pink slip (employment)",
+        "Profession",
+        "Shift work",
+        "Sick leave",
+        "Sunday scaries",
+        "Temporary work",
+        "Termination of employment",
+        "Wage",
+        "Work accident"
+    ],
+    "Internship": [
+        "Contingent work",
+        "Cooperative",
+        "Employee benefits",
+        "Epilepsy and employment",
+        "Gender pay gap",
+        "Interning",
+        "Layoff",
+        "List of countries by unemployment rate",
+        "Minimum wage",
+        "Occupational safety and health",
+        "Performance-related pay",
+        "Permanent employment",
+        "Pink slip (employment)",
+        "Profession",
+        "Shift work",
+        "Sick leave",
+        "Sunday scaries",
+        "Temporary work",
+        "Termination of employment",
+        "Wage",
+        "Work accident",
+        "Work experience"
+    ],
+    "Layoff": [
+        "Contingent work",
+        "Cooperative",
+        "Employee benefits",
+        "Epilepsy and employment",
+        "Gender pay gap",
+        "Involuntary termination of employment",
+        "List of countries by unemployment rate",
+        "Minimum wage",
+        "Occupational safety and health",
+        "Performance-related pay",
+        "Permanent employment",
+        "Pink slip (employment)",
+        "Profession",
+        "Shift work",
+        "Sick leave",
+        "Sunday scaries",
+        "Temporary work",
+        "Termination of employment",
+        "UK labour law",
+        "Wage",
+        "Work accident"
+    ],
+    "Minimum wage": [
+        "Collective bargaining",
+        "Contingent work",
+        "Cooperative",
+        "Cost of labor",
+        "Employee benefits",
+        "Epilepsy and employment",
+        "Gender pay gap",
+        "List of countries by unemployment rate",
+        "Lockout (industry)",
+        "Occupational safety and health",
+        "Pen-down strike",
+        "Performance-related pay",
+        "Permanent employment",
+        "Pink slip (employment)",
+        "Profession",
+        "Shift work",
+        "Sick leave",
+        "Sunday scaries",
+        "Sweatshop",
+        "Temporary work",
+        "Termination of employment",
+        "Trade unions",
+        "U.S. labor law",
+        "Union busting",
+        "Wage",
+        "Wages",
+        "Work accident"
+    ],
+    "Occupational safety and health": [
+        "Collective bargaining",
+        "Contingent work",
+        "Cooperative",
+        "Employee benefits",
+        "Epilepsy and employment",
+        "Gender pay gap",
+        "Health code",
+        "List of countries by unemployment rate",
+        "Lockout (industry)",
+        "Occupational medicine",
+        "Pen-down strike",
+        "Performance-related pay",
+        "Permanent employment",
+        "Pink slip (employment)",
+        "Profession",
+        "Safety training",
+        "Sanitation worker",
+        "Shift work",
+        "Sick leave",
+        "Sunday scaries",
+        "Temporary work",
+        "Termination of employment",
+        "Union busting",
+        "Wage",
+        "Work (human activity)",
+        "Work accident",
+        "Workplace impact of artificial intelligence"
+    ],
+    "Profession": [
+        "Work (human activity)"
+    ],
+    "Shift work": [
+        "Collective bargaining",
+        "Contingent work",
+        "Cooperative",
+        "Day shifts",
+        "Employee benefits",
+        "Epilepsy and employment",
+        "Gender pay gap",
+        "List of countries by unemployment rate",
+        "Lockout (industry)",
+        "Pen-down strike",
+        "Performance-related pay",
+        "Permanent employment",
+        "Pink slip (employment)",
+        "Second shift",
+        "Shift-based hiring",
+        "Shift based hiring",
+        "Sick leave",
+        "Sunday scaries",
+        "Temporary work",
+        "Termination of employment",
+        "Union busting",
+        "Wage",
+        "Work accident",
+        "Working nights"
+    ],
+    "Sunday scaries": [
+        "Bare minimum Monday",
+        "Contingent work",
+        "Cooperative",
+        "Employee benefits",
+        "Epilepsy and employment",
+        "Gender pay gap",
+        "List of countries by unemployment rate",
+        "Loud quitting",
+        "Performance-related pay",
+        "Permanent employment",
+        "Pink slip (employment)",
+        "Resenteeism",
+        "Sick leave",
+        "Temporary work",
+        "Termination of employment",
+        "Wage",
+        "Work (human activity)",
+        "Work accident"
+    ],
+    "Taste-based discrimination": [
+        "Gender pay gap"
+    ],
+    "Temporary work": [
+        "Contingent work",
+        "Contingent workforce",
+        "Cooperative",
+        "Employee benefit",
+        "Employee benefits",
+        "Epilepsy and employment",
+        "Freelance",
+        "Freelance marketplace",
+        "Gender pay gap",
+        "List of countries by unemployment rate",
+        "Performance-related pay",
+        "Permanent employment",
+        "Permatemp",
+        "Pink slip (employment)",
+        "Precarious work",
+        "Sick leave",
+        "Termination of employment",
+        "Wage",
+        "Wages",
+        "Work accident"
+    ],
+    "Wage": [
+        "Collective bargaining",
+        "Compensation of employees",
+        "Contingent work",
+        "Cooperative",
+        "Efficiency wage",
+        "Employee benefit",
+        "Employee benefits",
+        "Epilepsy and employment",
+        "Gender pay gap",
+        "Labor union",
+        "List of countries by unemployment rate",
+        "Performance-related pay",
+        "Permanent employment",
+        "Pink slip (employment)",
+        "Seniority",
+        "Sick leave",
+        "Termination of employment",
+        "Work (human activity)",
+        "Work accident"
+    ],
+    "Diversity education": [
+        "Gender pay gap",
+        "Griggs v. Duke Power Co."
+    ],
+    "Griggs v. Duke Power Co.": [
+        "US labor law"
+    ],
+    "American Management Association": [],
+    "Labour (human activity)": [
+        "Housekeeping",
+        "Human work",
+        "Labor union",
+        "Manual labor",
+        "Seniority",
+        "Sick leave",
+        "Workwear"
+    ],
+    "Human work": [
+        "Housekeeping",
+        "Labor union",
+        "Manual labor",
+        "Seniority",
+        "Sick leave",
+        "Workwear"
+    ],
+    "Labor union": [
+        "Collective bargaining",
+        "Community unionism",
+        "Company union",
+        "Contingent work",
+        "Employee benefits",
+        "Featherbedding",
+        "Grievance (labour)",
+        "Industrial action",
+        "Industrial democracy",
+        "Labor spying in the United States",
+        "Labour Union",
+        "Lockout (industry)",
+        "Members-only unionism",
+        "Pen-down strike",
+        "Precarious work",
+        "Sick leave",
+        "Trade unions in Qatar",
+        "Trade unions in the United States",
+        "Union busting",
+        "Union organizer",
+        "Work (human activity)",
+        "Workers' self-management"
+    ],
+    "Seniority": [],
+    "Work (human activity)": [
+        "Housekeeping",
+        "Manual labor",
+        "Sick leave",
+        "Workwear"
+    ],
+    "Precarious work": [
+        "Collective bargaining",
+        "Community unionism",
+        "Company union",
+        "Contingent work",
+        "Featherbedding",
+        "Grievance (labour)",
+        "Industrial action",
+        "Labor spying in the United States",
+        "Members-only unionism",
+        "Pen-down strike",
+        "Union busting",
+        "Union organizer"
+    ],
+    "Demotion": [
+        "Laid off"
+    ],
+    "Collective bargaining": [
+        "Community unionism",
+        "Company union",
+        "Contingent work",
+        "Featherbedding",
+        "Grievance (labour)",
+        "Industrial action",
+        "International labour standards",
+        "Labor spying in the United States",
+        "Lockout (industry)",
+        "Members-only unionism",
+        "Pen-down strike",
+        "Sick leave",
+        "Union busting",
+        "Union organizer"
+    ],
+    "Trade unions": [
+        "Community unionism",
+        "Company union",
+        "Contingent work",
+        "Employee benefits",
+        "Featherbedding",
+        "Grievance (labour)",
+        "Industrial action",
+        "Industrial democracy",
+        "Labor spying in the United States",
+        "Labour Union",
+        "Lockout (industry)",
+        "Members-only unionism",
+        "Pen-down strike",
+        "Sick leave",
+        "Trade unions in Qatar",
+        "Trade unions in the United States",
+        "Union busting",
+        "Union organizer",
+        "Workers' self-management"
+    ],
+    "Community unionism": [
+        "Company union",
+        "Contingent work",
+        "Featherbedding",
+        "Grievance (labour)",
+        "Industrial action",
+        "Labor spying in the United States",
+        "Labour unions",
+        "Members-only unionism",
+        "Pen-down strike",
+        "Union busting",
+        "Union organizer",
+        "Workers' self-management"
+    ],
+    "Featherbedding": [
+        "Company union",
+        "Contingent work",
+        "Grievance (labour)",
+        "Industrial action",
+        "Labor spying in the United States",
+        "Members-only unionism",
+        "Pen-down strike",
+        "Union busting",
+        "Union organizer"
+    ],
+    "Industrial action": [
+        "Company union",
+        "Contingent work",
+        "Grievance (labour)",
+        "Labor spying in the United States",
+        "Lockout (industry)",
+        "Members-only unionism",
+        "Pen-down strike",
+        "Sick leave",
+        "Union busting",
+        "Union organizer"
+    ],
+    "Industrial democracy": [
+        "Collective Bargaining",
+        "Tripartism",
+        "UK labour law",
+        "Workers' self-management",
+        "Works council"
+    ],
+    "Labor spying in the United States": [
+        "Company union",
+        "Contingent work",
+        "Criticism of Wal-Mart",
+        "Grievance (labour)",
+        "History of union busting in the United States",
+        "Lockout (industry)",
+        "Members-only unionism",
+        "Pen-down strike",
+        "Union busting",
+        "Union organizer"
+    ],
+    "Labour Union": [
+        "Company union",
+        "Contingent work",
+        "Employee benefits",
+        "Grievance (labour)",
+        "Lockout (industry)",
+        "Members-only unionism",
+        "Pen-down strike",
+        "Sick leave",
+        "Trade unions in Qatar",
+        "Trade unions in the United States",
+        "Union busting",
+        "Union organizer",
+        "Workers' self-management"
+    ],
+    "Lockout (industry)": [
+        "Pen-down strike",
+        "Recovered factory",
+        "Sick leave",
+        "US labor law",
+        "Union busting"
+    ],
+    "Members-only unionism": [
+        "Company union",
+        "Contingent work",
+        "Grievance (labour)",
+        "Pen-down strike",
+        "Union busting",
+        "Union organizer",
+        "Volkswagen worker organizations"
+    ],
+    "Union busting": [
+        "Company union",
+        "Contingent work",
+        "Grievance (labour)",
+        "History of union busting in the United States",
+        "Labor spies",
+        "Merit Shop",
+        "Opposition to trade unions",
+        "Pen-down strike",
+        "Sick leave",
+        "Termination of employment",
+        "Union organizer",
+        "Works council"
+    ],
+    "Workers' self-management": [
+        "Co-operatives",
+        "Mondragon Cooperative Corporation",
+        "Mondragón Corporation",
+        "Recovered factory",
+        "Works council"
+    ],
+    "Great Resignation": [
+        "Bare minimum Monday",
+        "Contingent work",
+        "Employee benefits",
+        "Epilepsy and employment",
+        "Gender pay gap",
+        "List of countries by unemployment rate",
+        "Live quitting",
+        "Loud quitting",
+        "Performance-related pay",
+        "Permanent employment",
+        "Pink slip (employment)",
+        "Resenteeism",
+        "Restaurant Opportunities Center",
+        "Sick leave",
+        "Termination of employment",
+        "Work accident"
+    ],
+    "Sanitation worker": [
+        "Janitor",
+        "Occupational medicine"
+    ],
+    "Employment discrimination law in the United Kingdom": [
+        "British labour law",
+        "Griggs v Duke Power Co",
+        "Social Chapter",
+        "UK employment equality law",
+        "UK labour law",
+        "United Kingdom employment discrimination law",
+        "United Kingdom labour law"
+    ],
+    "Cleaner": [
+        "House cleaning",
+        "Housekeeping",
+        "Janitor"
+    ],
+    "Contingent work": [
+        "Casual employment",
+        "Casual work",
+        "Company union",
+        "Employee benefits",
+        "Epilepsy and employment",
+        "Freelancer",
+        "Gender pay gap",
+        "Grievance (labour)",
+        "List of countries by unemployment rate",
+        "Pen-down strike",
+        "Performance-related pay",
+        "Permanent employment",
+        "Permatemp",
+        "Pink slip (employment)",
+        "Sick leave",
+        "Termination of employment",
+        "Union organizer",
+        "Work accident"
+    ],
+    "Employee benefits": [
+        "Epilepsy and employment",
+        "Gender pay gap",
+        "List of countries by unemployment rate",
+        "Performance-related pay",
+        "Permanent employment",
+        "Perq",
+        "Pink slip (employment)",
+        "Sick leave",
+        "Termination of employment",
+        "Work accident"
+    ],
+    "Epilepsy and employment": [
+        "Gender pay gap",
+        "List of countries by unemployment rate",
+        "Performance-related pay",
+        "Permanent employment",
+        "Pink slip (employment)",
+        "Sick leave",
+        "Termination of employment",
+        "Work accident"
+    ],
+    "Gender pay gap": [
+        "List of countries by unemployment rate",
+        "Performance-related pay",
+        "Permanent employment",
+        "Pink slip (employment)",
+        "Sick leave",
+        "Termination of employment",
+        "Work accident"
+    ],
+    "Job (role)": [
+        "Housekeeping",
+        "Manual labor",
+        "Sick leave",
+        "Workwear"
+    ],
+    "List of countries by unemployment rate": [
+        "List of sovereign states by unemployment rate",
+        "Performance-related pay",
+        "Permanent employment",
+        "Pink slip (employment)",
+        "Sick leave",
+        "Termination of employment",
+        "Work accident"
+    ],
+    "Performance-related pay": [
+        "Compensation of employees",
+        "Permanent employment",
+        "Pink slip (employment)",
+        "Sick leave",
+        "Termination of employment",
+        "Work accident"
+    ],
+    "Permanent employment": [
+        "Pink slip (employment)",
+        "Sick leave",
+        "Sick time",
+        "Termination of employment",
+        "Work accident"
+    ],
+    "Pink slip (employment)": [
+        "Sick leave",
+        "Work accident"
+    ],
+    "Sick leave": [
+        "Employee benefit",
+        "List of statutory minimum employment leave by country",
+        "Termination of employment",
+        "Work accident"
+    ],
+    "Temporary employment": [
+        "Contingent workforce",
+        "Employee benefit",
+        "Freelance",
+        "Freelance marketplace",
+        "Permatemp",
+        "Termination of employment",
+        "Wages",
+        "Work accident"
+    ],
+    "Termination of employment": [
+        "Work accident"
+    ],
+    "Work accident": [],
+    "Equal employment opportunity": [],
+    "Janitor": [
+        "House cleaning",
+        "Housekeeping"
+    ],
+    "Manual labour": [],
+    "Interning": [
+        "Work experience"
+    ],
+    "UK labour law": [
+        "Collectively bargaining",
+        "Conduct of Employment Agencies and Employment Businesses Regulations 2003",
+        "European labour law",
+        "Griggs v Duke Power Co",
+        "Health and safety",
+        "Hill v CA Parsons & Co Ltd",
+        "International labour law",
+        "Labour law of the United Kingdom",
+        "Redundancy pay",
+        "Safe system of work",
+        "Social Chapter",
+        "TICER 1999",
+        "Transnational Information and Consultation of Employees Regulations 1999",
+        "Transnational work council",
+        "UK employment equality law",
+        "US labor law",
+        "United Kingdom employment discrimination law",
+        "United Kingdom employment equality law",
+        "United States labor law",
+        "Wages",
+        "Work council",
+        "Works council"
+    ],
+    "Cost of labor": [
+        "Compensation of employees",
+        "Efficiency wage",
+        "Employee benefit"
+    ],
+    "Pen-down strike": [
+        "Company union",
+        "Grievance (labour)",
+        "Union organizer"
+    ],
+    "Sweatshop": [
+        "Sweating system",
+        "Union organizer"
+    ],
+    "U.S. labor law": [
+        "Change to Win Federation",
+        "Company union",
+        "Coverage by collective agreement",
+        "Disparate treatment",
+        "European labour law",
+        "Federal Labor Relations Act of 1978",
+        "Federal Service Labor-Management Relations Statute",
+        "International labor law",
+        "International labor standards",
+        "International labour law",
+        "Labor unions",
+        "Labor unions in the US",
+        "Labor unions in the United States",
+        "Layoffs",
+        "List of minimum annual leave by country",
+        "Teamwork for Employees and Managers Act of 1995",
+        "Trade unions in the United States",
+        "UK employment discrimination law",
+        "US labor law",
+        "Work council",
+        "Work councils",
+        "Workplace Democracy Act",
+        "Workplace Democracy Act of 1999"
+    ],
+    "Wages": [
+        "Compensation of employees",
+        "Efficiency wage",
+        "Employee benefit"
+    ],
+    "Health code": [
+        "Occupational medicine",
+        "Safety training",
+        "Workplace impact of artificial intelligence"
+    ],
+    "Occupational medicine": [
+        "Occupational Health and Safety",
+        "Occupational health and safety"
+    ],
+    "Safety training": [
+        "Workplace impact of artificial intelligence"
+    ],
+    "Workplace impact of artificial intelligence": [
+        "Deskilling",
+        "Workwear"
+    ],
+    "Day shifts": [
+        "Second shift",
+        "Shift-based hiring",
+        "Shift based hiring",
+        "Working nights"
+    ],
+    "Second shift": [
+        "Shift-based hiring",
+        "Shift based hiring",
+        "Working nights"
+    ],
+    "Bare minimum Monday": [
+        "Loud quitting",
+        "Resenteeism"
+    ],
+    "Loud quitting": [
+        "Resenteeism"
+    ],
+    "Resenteeism": [
+        "Great resignation"
+    ],
+    "Contingent workforce": [
+        "Casual employment",
+        "Casual work",
+        "Company union",
+        "Freelancer",
+        "Grievance (labour)",
+        "Permatemp",
+        "Union organizer"
+    ],
+    "Employee benefit": [
+        "Perq"
+    ],
+    "Freelance": [
+        "Casual employment"
+    ],
+    "Freelance marketplace": [
+        "Casual employment"
+    ],
+    "Permatemp": [
+        "Staffing firm"
+    ],
+    "Compensation of employees": [],
+    "US labor law": [
+        "Change to Win Federation",
+        "Company union",
+        "Coverage by collective agreement",
+        "Disparate treatment",
+        "European labour law",
+        "Federal Labor Relations Act of 1978",
+        "Federal Service Labor-Management Relations Statute",
+        "International labor law",
+        "International labor standards",
+        "International labour law",
+        "Labor unions",
+        "Labor unions in the US",
+        "Labor unions in the United States",
+        "Layoffs",
+        "List of minimum annual leave by country",
+        "Teamwork for Employees and Managers Act of 1995",
+        "Trade unions in the United States",
+        "UK employment discrimination law",
+        "Work council",
+        "Work councils",
+        "Workplace Democracy Act",
+        "Workplace Democracy Act of 1999"
+    ],
+    "Paid sick days": [
+        "List of statutory minimum employment leave by country"
+    ],
+    "Workwear": [],
+    "Industrial sociology": [
+        "Deskilling"
+    ],
+    "Bonus payment": [
+        "Pay for performance (human resources)"
+    ],
+    "Housekeeping": [
+        "Occupational health and safety"
+    ],
+    "Co-op": [
+        "José María Arizmendiarrieta",
+        "Mondragon Corporation",
+        "Mondragón Cooperative Corporation"
+    ],
+    "José María Arizmendiarrieta": [
+        "Mondragon Corporation"
+    ],
+    "Mondragon Corporation": [
+        "Co-operative",
+        "Worker self management"
+    ],
+    "Mondragón Cooperative Corporation": [
+        "Co-operative",
+        "Worker self management"
+    ],
+    "International labour law": [
+        "European labour law"
+    ],
+    "Manual labor": [],
+    "Freelancer": [
+        "Casual employment"
+    ],
+    "Company union": [
+        "Grievance (labour)",
+        "Teamwork for Employees and Managers Act of 1995",
+        "Union organizer",
+        "United States labor law"
+    ],
+    "Grievance (labour)": [
+        "Union organizer"
+    ],
+    "Trade unions in the United States": [
+        "Labor unions",
+        "Opposition to trade unions",
+        "Strategic Organizing Center",
+        "United States labor law",
+        "Workplace Democracy Act"
+    ],
+    "Union organizer": [
+        "Change to Win Federation",
+        "Labor Unions in the United States",
+        "Labor spies",
+        "Union-busting"
+    ],
+    "Ministry of social affairs": [
+        "International labor standards",
+        "Social protection"
+    ],
+    "Industrial Sociology": [
+        "Deskilling"
+    ],
+    "International labour standards": [
+        "European labour law"
+    ],
+    "Mondragon Cooperative Corporation": [
+        "Co-operative",
+        "Worker self management"
+    ],
+    "Perquisites": [
+        "Perq"
+    ],
+    "Tripartism": [
+        "Liberal corporatism"
+    ],
+    "Criticism of Wal-Mart": [
+        "Labor spies",
+        "Wake Up Wal-Mart"
+    ],
+    "History of union busting in the United States": [
+        "Labor spies",
+        "Opposition to trade unions",
+        "Peter B. Robb",
+        "Union threat model"
+    ],
+    "Recovered factory": [
+        "Co-operatives",
+        "Mondragón Corporation"
+    ],
+    "Volkswagen worker organizations": [],
+    "Mondragón Corporation": [
+        "Co-operative",
+        "Worker self management"
+    ],
+    "Live quitting": []
+}

@@ -1,0 +1,908 @@
+{
+    "Emotions in the workplace": [
+        "Emotional intelligence",
+        "Employee assistance program",
+        "Employee engagement",
+        "Employee recognition",
+        "Generations in the workforce",
+        "Happiness at work",
+        "Job turnover",
+        "Organizational conflict",
+        "Organizational culture",
+        "Positive psychology in the workplace",
+        "Supervisor",
+        "Turnover (employment)",
+        "Workplace politics"
+    ],
+    "Employee assistance program": [
+        "Presenteeism"
+    ],
+    "Employee engagement": [
+        "Employee recognition",
+        "Employee retention",
+        "Generations in the workforce",
+        "Happiness at work",
+        "Human resources",
+        "Management",
+        "Organizational commitment",
+        "Organizational conflict",
+        "Organizational culture",
+        "Positive psychology in the workplace",
+        "Realistic job preview",
+        "Turnover (employment)",
+        "Work engagement",
+        "Workplace politics"
+    ],
+    "Employee recognition": [
+        "Employee Appreciation Day",
+        "Generations in the workforce",
+        "Happiness at work",
+        "Organizational commitment",
+        "Organizational conflict",
+        "Organizational culture",
+        "Positive psychology in the workplace",
+        "Turnover (employment)",
+        "Work engagement",
+        "Workplace politics"
+    ],
+    "Happiness at work": [
+        "Employee turnover",
+        "Management",
+        "Organisational culture",
+        "Organizational conflict",
+        "Organizational culture",
+        "Positive psychology in the workplace",
+        "Turnover (employment)",
+        "Workplace politics"
+    ],
+    "Human resources": [
+        "Change management",
+        "Chief human resources officer",
+        "Employee retention",
+        "Human resource management",
+        "Manpower",
+        "Organizational conflict",
+        "Organizational culture",
+        "Performance management",
+        "Personnel Administration",
+        "Talent management",
+        "Workplace politics"
+    ],
+    "Organizational conflict": [
+        "Change management",
+        "Chief human resources officer",
+        "Human resource management",
+        "Management",
+        "Organizational commitment",
+        "Organizational culture",
+        "Organizational diagnostics",
+        "Organizational ethics",
+        "Organizational justice",
+        "Organizational performance",
+        "Organizational theory",
+        "Outline of organizational theory",
+        "Performance management",
+        "Positive psychology in the workplace",
+        "Talent management",
+        "Turnover (employment)",
+        "Workplace politics"
+    ],
+    "Organizational culture": [
+        "Business culture",
+        "Change management",
+        "Chief human resources officer",
+        "Cross-cultural capital",
+        "Cross-cultural leadership",
+        "Daniel R. Denison",
+        "Employee performance",
+        "Geert Hofstede",
+        "Human resource management",
+        "Management style",
+        "Managers",
+        "Organization theory",
+        "Organizational commitment",
+        "Organizational diagnostics",
+        "Organizational ethics",
+        "Organizational justice",
+        "Organizational performance",
+        "Organizational theory",
+        "Outline of organizational theory",
+        "Performance management",
+        "Presenteeism",
+        "Realistic job preview",
+        "Safety culture",
+        "Talent management",
+        "Turnover (employment)",
+        "Uncertainty avoidance"
+    ],
+    "Positive psychology in the workplace": [
+        "Emotional intelligence",
+        "Employee retention",
+        "Job Demands-Resources model",
+        "Turnover (employment)",
+        "Work engagement",
+        "Workplace politics"
+    ],
+    "Promotion (rank)": [],
+    "Team diversity": [],
+    "Turnover (employment)": [
+        "Adaptive performance",
+        "Employee retention",
+        "Organizational commitment",
+        "Organizational justice",
+        "Personality–job fit theory",
+        "Presenteeism",
+        "Realistic job preview",
+        "Supervisor",
+        "Workplace politics"
+    ],
+    "Employee assistantship program": [
+        "Presenteeism"
+    ],
+    "Workplace conflict": [
+        "Change management",
+        "Chief human resources officer",
+        "Human resource management",
+        "Management",
+        "Organizational commitment",
+        "Organizational diagnostics",
+        "Organizational ethics",
+        "Organizational justice",
+        "Organizational performance",
+        "Organizational theory",
+        "Outline of organizational theory",
+        "Performance management",
+        "Talent management"
+    ],
+    "Organizational commitment": [
+        "Exit interview",
+        "High commitment management",
+        "Industrial and organizational psychology",
+        "Job satisfaction",
+        "Mentorship",
+        "Organization development",
+        "Organizational diagnostics",
+        "Organizational engineering",
+        "Organizational ethics",
+        "Organizational justice",
+        "Organizational performance",
+        "Organizational theory",
+        "Outline of organizational theory",
+        "Person-environment fit",
+        "Personality–job fit theory",
+        "Person–environment fit",
+        "Presenteeism",
+        "Realistic job preview",
+        "Remote work",
+        "Sport psychology",
+        "Supervisor",
+        "Workplace bullying"
+    ],
+    "Personality–job fit theory": [
+        "Exit interview",
+        "Industrial and organizational psychology",
+        "Job satisfaction",
+        "Mentorship",
+        "Person-environment fit",
+        "Person–environment fit",
+        "Presenteeism",
+        "Realistic job preview",
+        "Remote work",
+        "Supervisor",
+        "Trait activation theory",
+        "Workplace bullying"
+    ],
+    "Presenteeism": [
+        "Remote work"
+    ],
+    "Realistic job preview": [
+        "Company culture",
+        "Exit interview",
+        "Human resource management",
+        "Job satisfaction",
+        "Mentorship",
+        "Performance management",
+        "Person–environment fit",
+        "Remote work",
+        "Supervisor",
+        "Workplace bullying"
+    ],
+    "Supervisor": [
+        "Exit interview",
+        "Human resource management",
+        "Job satisfaction",
+        "Management",
+        "Mentorship",
+        "Person–environment fit",
+        "Remote work",
+        "Workplace bullying"
+    ],
+    "Cross-cultural capital": [
+        "Cross-cultural leadership",
+        "Cultural intelligence",
+        "Safety culture"
+    ],
+    "Cross-cultural leadership": [
+        "Hofstede",
+        "Management",
+        "Power distance",
+        "Uncertainty avoidance"
+    ],
+    "Personal network": [
+        "Mentorship"
+    ],
+    "Safety culture": [
+        "Industrial and organizational psychology",
+        "Just culture",
+        "Psychosocial hazard",
+        "Quality of working life"
+    ],
+    "Training and development": [
+        "Human resource management",
+        "Industrial and organizational psychology",
+        "Organization development",
+        "Talent management"
+    ],
+    "Emotional intelligence": [
+        "Problem solving",
+        "Transformational leadership"
+    ],
+    "Job turnover": [
+        "Adaptive performance",
+        "Employee retention",
+        "Exit interview",
+        "Job satisfaction",
+        "Mentorship",
+        "Organizational justice",
+        "Person–environment fit",
+        "Quality of working life",
+        "Remote work",
+        "Workplace bullying"
+    ],
+    "Employee retention": [
+        "Job satisfaction",
+        "Positive organizational behavior"
+    ],
+    "Management": [
+        "Business process reengineering",
+        "Change management",
+        "Chief human resources officer",
+        "Cog's Ladder",
+        "Human resource management",
+        "Management by objectives",
+        "Management by walking around",
+        "Management style",
+        "Manager",
+        "Managerial grid model",
+        "Mentoring",
+        "Organization development",
+        "Organizational behavior management",
+        "Organizational engineering",
+        "Organizational theory",
+        "Performance management",
+        "Strategic thinking",
+        "Talent management",
+        "Team leader",
+        "Virtual management"
+    ],
+    "Work engagement": [
+        "Adaptive performance",
+        "Work motivation"
+    ],
+    "Employee turnover": [
+        "Adaptive performance",
+        "Exit interview",
+        "Job satisfaction",
+        "Mentorship",
+        "Organizational justice",
+        "Person–environment fit",
+        "Quality of working life",
+        "Remote work",
+        "Workplace bullying"
+    ],
+    "Organisational culture": [
+        "Business culture",
+        "Change management",
+        "Chief human resources officer",
+        "Cultural intelligence",
+        "Daniel R. Denison",
+        "Employee performance",
+        "Fail fast (business)",
+        "Geert Hofstede",
+        "Gerard Egan",
+        "Hofstede's cultural dimensions theory",
+        "Human resource management",
+        "Industrial and organizational psychology",
+        "Job satisfaction",
+        "Management style",
+        "Managers",
+        "Organization development",
+        "Organization theory",
+        "Organizational diagnostics",
+        "Organizational engineering",
+        "Organizational ethics",
+        "Organizational justice",
+        "Organizational performance",
+        "Organizational psychology",
+        "Organizational theory",
+        "Outline of organizational theory",
+        "Performance management",
+        "Power distance",
+        "Talent management",
+        "Three circles model",
+        "Uncertainty avoidance",
+        "Workplace bullying"
+    ],
+    "Change management": [
+        "Business process reengineering",
+        "Human resource management",
+        "Industrial and Organizational Psychology",
+        "Management by objectives",
+        "Management style",
+        "Organization development",
+        "Organizational behavior management",
+        "Organizational development",
+        "Performance management",
+        "Quality circle",
+        "Talent management",
+        "Team",
+        "Virtual management"
+    ],
+    "Chief human resources officer": [
+        "Chief learning officer",
+        "Compensation and benefits",
+        "Employee value proposition",
+        "Human resource management",
+        "Talent management"
+    ],
+    "Human resource management": [
+        "Employee performance management",
+        "Human relations movement",
+        "Human resource policies",
+        "Industrial/organizational psychology",
+        "Industrial and organizational psychology",
+        "Management by objectives",
+        "Management style",
+        "Organization development",
+        "Organizational behavior management",
+        "Organizational engineering",
+        "Organizational theory",
+        "Performance management",
+        "Talent management",
+        "Virtual management"
+    ],
+    "Manpower": [
+        "Compensation and benefits",
+        "Industrial and organizational psychology",
+        "Organization development",
+        "Organizational engineering",
+        "Performance management",
+        "Personnel Administration",
+        "Talent management"
+    ],
+    "Performance management": [
+        "Electronic performance support systems",
+        "Industrial and organizational psychology",
+        "Management by objectives",
+        "Management style",
+        "Operational performance management",
+        "Organization development",
+        "Organizational behavior management",
+        "Organizational development",
+        "Organizational diagnostics",
+        "Organizational engineering",
+        "Organizational ethics",
+        "Organizational justice",
+        "Organizational performance",
+        "Organizational theory",
+        "Outline of organizational theory",
+        "Talent management",
+        "Virtual management"
+    ],
+    "Personnel Administration": [
+        "Employee performance management",
+        "Human relations movement",
+        "Human resource policies",
+        "Industrial/organizational psychology",
+        "Industrial and organizational psychology",
+        "Management by objectives",
+        "Management style",
+        "Organization development",
+        "Organizational behavior management",
+        "Organizational engineering",
+        "Organizational theory",
+        "Talent management",
+        "Virtual management"
+    ],
+    "Talent management": [
+        "Chief learning officer",
+        "Management by objectives",
+        "Management style",
+        "Organization development",
+        "Organizational behavior management",
+        "Organizational engineering",
+        "Strategic Workforce Planning",
+        "Virtual management"
+    ],
+    "Managerial": [
+        "Business process reengineering",
+        "Cog's Ladder",
+        "Management by objectives",
+        "Management by walking around",
+        "Management style",
+        "Manager",
+        "Managerial grid model",
+        "Mentoring",
+        "Organization development",
+        "Organizational behavior management",
+        "Organizational engineering",
+        "Organizational theory",
+        "Strategic thinking",
+        "Team leader",
+        "Virtual management"
+    ],
+    "Organizational diagnostics": [
+        "Industrial and organizational psychology",
+        "Managing change",
+        "Organization development",
+        "Organizational development",
+        "Organizational engineering",
+        "Organizational ethics",
+        "Organizational justice",
+        "Organizational performance",
+        "Organizational theory",
+        "Outline of organizational theory"
+    ],
+    "Organizational ethics": [
+        "Human Resource Management",
+        "Human Resources Development",
+        "Industrial and organizational psychology",
+        "Organization development",
+        "Organizational development",
+        "Organizational engineering",
+        "Organizational justice",
+        "Organizational performance",
+        "Organizational theory",
+        "Outline of organizational theory",
+        "Team"
+    ],
+    "Organizational justice": [
+        "Industrial and organizational psychology",
+        "Job satisfaction",
+        "Organization development",
+        "Organizational engineering",
+        "Organizational performance",
+        "Organizational theory",
+        "Outline of organizational theory"
+    ],
+    "Organizational performance": [
+        "Electronic performance support systems",
+        "Industrial and organizational psychology",
+        "Management by objectives",
+        "Management style",
+        "Operational performance management",
+        "Organization development",
+        "Organizational behavior management",
+        "Organizational development",
+        "Organizational engineering",
+        "Organizational theory",
+        "Outline of organizational theory",
+        "Virtual management"
+    ],
+    "Organizational theory": [
+        "Human relations movement",
+        "Leadership style",
+        "Outline of organizational theory"
+    ],
+    "Outline of organizational theory": [
+        "Fail fast (business)",
+        "Industrial and organizational psychology",
+        "Learning organization",
+        "Organic organisation",
+        "Organization development",
+        "Organizational analysis",
+        "Organizational behavior management",
+        "Organizational engineering",
+        "Organizational identity",
+        "Sociotechnical system",
+        "Trait activation theory"
+    ],
+    "Business culture": [
+        "Cultural intelligence",
+        "Daniel R. Denison",
+        "Employee performance",
+        "Fail fast (business)",
+        "Geert Hofstede",
+        "Gerard Egan",
+        "Hofstede's cultural dimensions theory",
+        "Industrial and organizational psychology",
+        "Job satisfaction",
+        "Management style",
+        "Managers",
+        "Organization development",
+        "Organization theory",
+        "Organizational engineering",
+        "Organizational psychology",
+        "Power distance",
+        "Three circles model",
+        "Uncertainty avoidance",
+        "Workplace bullying"
+    ],
+    "Daniel R. Denison": [
+        "Organizational psychology"
+    ],
+    "Employee performance": [
+        "Electronic performance support systems",
+        "Industrial and organizational psychology",
+        "Management by objectives",
+        "Management style",
+        "Operational performance management",
+        "Organization development",
+        "Organizational behavior management",
+        "Organizational development",
+        "Organizational engineering",
+        "Virtual management"
+    ],
+    "Geert Hofstede": [
+        "Hofstede",
+        "Hofstede's cultural dimensions theory",
+        "Power distance",
+        "Uncertainty avoidance"
+    ],
+    "Management style": [
+        "Leadership style",
+        "Management by objectives",
+        "Management by wandering around",
+        "Organization development",
+        "Organizational behavior management",
+        "Virtual management"
+    ],
+    "Managers": [
+        "Business process reengineering",
+        "Cog's Ladder",
+        "Management by objectives",
+        "Management by walking around",
+        "Manager",
+        "Managerial grid model",
+        "Mentoring",
+        "Organization development",
+        "Organizational behavior management",
+        "Organizational engineering",
+        "Strategic thinking",
+        "Team leader",
+        "Virtual management"
+    ],
+    "Organization theory": [
+        "Human relations movement",
+        "Leadership style"
+    ],
+    "Uncertainty avoidance": [
+        "Hofstede's cultural dimensions theory"
+    ],
+    "Adaptive performance": [
+        "Team composition",
+        "Transformational leadership"
+    ],
+    "Exit interview": [
+        "Job satisfaction",
+        "Mentorship",
+        "Person–environment fit",
+        "Remote work",
+        "Workplace bullying"
+    ],
+    "Job satisfaction": [
+        "Core self-evaluations",
+        "Corporate culture",
+        "Employee value proposition",
+        "Industrial and organizational psychology",
+        "Job analysis",
+        "Job rotation",
+        "Job shadow",
+        "Mentorship",
+        "Organizational Justice",
+        "Person-environment fit",
+        "Personality-Job Fit Theory",
+        "Person–environment fit",
+        "Quality of working life",
+        "Remote work",
+        "Sport psychology",
+        "Workplace bullying"
+    ],
+    "Mentorship": [
+        "Industrial and organizational psychology",
+        "Mentor",
+        "Organization development",
+        "Organizational engineering",
+        "Person–environment fit",
+        "Protégé",
+        "Remote work",
+        "Workplace bullying"
+    ],
+    "Person–environment fit": [
+        "Industrial and organizational psychology",
+        "Organizational psychology",
+        "Personality-Job Fit Theory",
+        "Remote work",
+        "Workplace bullying"
+    ],
+    "Remote work": [
+        "Journal of Management Information Systems",
+        "Sociotechnical system",
+        "Turnover intention",
+        "Virtual management",
+        "Virtual team",
+        "WFH",
+        "Work design",
+        "Work from home",
+        "Work motivation",
+        "Workplace bullying"
+    ],
+    "Workplace bullying": [
+        "Employee assistance programs",
+        "Industrial/organizational psychology",
+        "Industrial and organizational psychology",
+        "Just culture",
+        "Manfred F.R. Kets de Vries",
+        "Mushroom management",
+        "Quality of working life"
+    ],
+    "Power distance": [
+        "Hofstede's cultural dimensions theory"
+    ],
+    "Industrial and organizational psychology": [
+        "Fail fast (business)",
+        "Human relations movement",
+        "Human resources development",
+        "Individual assessment",
+        "Individual psychological assessment",
+        "Job analysis",
+        "Job crafting",
+        "Job rotation",
+        "Organization development",
+        "Organizational analysis",
+        "Organizational development",
+        "Organizational engineering",
+        "Person-environment fit",
+        "Problem-solving",
+        "Quality of working life",
+        "Safety climate",
+        "Sport psychology",
+        "Transformational leadership",
+        "Work design",
+        "Work motivation"
+    ],
+    "Job Shadow": [
+        "Job analysis",
+        "Job rotation",
+        "On-the-job training"
+    ],
+    "On-the-job training": [
+        "Manager",
+        "Mentor"
+    ],
+    "Psychosocial hazard": [
+        "Job rotation",
+        "Quality of working life",
+        "Work design"
+    ],
+    "Quality of working life": [],
+    "High commitment management": [
+        "Human relations movement"
+    ],
+    "Organization development": [
+        "Enterprise performance management",
+        "Human relations movement",
+        "Leadership style",
+        "Management by objectives",
+        "Organizational behavior management",
+        "Organizational engineering",
+        "Organizational identity",
+        "Team",
+        "Virtual management"
+    ],
+    "Organizational engineering": [
+        "Corporate culture",
+        "Organizational development"
+    ],
+    "Person-environment fit": [
+        "Organizational psychology",
+        "Personality-Job Fit Theory"
+    ],
+    "Sport psychology": [],
+    "Company culture": [
+        "Cultural intelligence",
+        "Fail fast (business)",
+        "Gerard Egan",
+        "Hofstede's cultural dimensions theory",
+        "Organizational psychology",
+        "Three circles model"
+    ],
+    "Direct support professional": [],
+    "Job crafting": [
+        "Job demands-resources model",
+        "Job design",
+        "Jobless employed",
+        "Quick quitting"
+    ],
+    "Jobless employed": [
+        "Quick quitting",
+        "Work culture"
+    ],
+    "Quick quitting": [],
+    "Cultural intelligence": [],
+    "Negotiation": [
+        "Conflict style inventory",
+        "Integrative negotiation",
+        "Problem solving"
+    ],
+    "Hofstede": [
+        "Hofstede's cultural dimensions theory"
+    ],
+    "Just culture": [
+        "Learning organization"
+    ],
+    "21st century skills": [
+        "Problem solving",
+        "Teamwork"
+    ],
+    "Human resources management": [
+        "Employee performance management",
+        "Human relations movement",
+        "Human resource policies",
+        "Industrial/organizational psychology",
+        "Management by objectives",
+        "Organizational behavior management",
+        "Virtual management"
+    ],
+    "Problem solving": [
+        "Knowledge sharing",
+        "Problem",
+        "Teamwork"
+    ],
+    "Transformational leadership": [
+        "Servant leadership"
+    ],
+    "Human relations movement": [
+        "Organizational development"
+    ],
+    "Business process reengineering": [],
+    "Management by objectives": [
+        "Management styles",
+        "Organizational behavior management",
+        "SMART criteria",
+        "Virtual management"
+    ],
+    "Manager": [
+        "Managerial grid model",
+        "Mentoring",
+        "Organizational behavior management",
+        "Strategic thinking",
+        "Team leader",
+        "Virtual management"
+    ],
+    "Managerial grid model": [
+        "Leadership style",
+        "Strategic thinking",
+        "Teamwork",
+        "Theory X",
+        "Theory Y"
+    ],
+    "Mentoring": [
+        "Mentor",
+        "Protégé"
+    ],
+    "Organizational behavior management": [
+        "Virtual management"
+    ],
+    "Team leader": [
+        "Team",
+        "Work motivation"
+    ],
+    "Virtual management": [
+        "Teamwork",
+        "Virtual team"
+    ],
+    "Work motivation": [
+        "SMART criteria",
+        "Work design"
+    ],
+    "Fail fast (business)": [
+        "Organizational psychology",
+        "Three circles model"
+    ],
+    "Hofstede's cultural dimensions theory": [
+        "Trompenaars's model of national culture differences"
+    ],
+    "Organizational psychology": [
+        "Human resources development",
+        "Individual assessment",
+        "Individual psychological assessment",
+        "Job analysis",
+        "Job rotation",
+        "Organizational analysis",
+        "Organizational development",
+        "Problem-solving",
+        "Safety climate",
+        "Work design"
+    ],
+    "Business process re-engineering": [],
+    "Industrial and Organizational Psychology": [
+        "Human resources development",
+        "Individual assessment",
+        "Individual psychological assessment",
+        "Job analysis",
+        "Job rotation",
+        "Organizational analysis",
+        "Organizational development",
+        "Problem-solving",
+        "Safety climate",
+        "Work design"
+    ],
+    "Organizational development": [
+        "Enterprise performance management",
+        "Leadership style",
+        "Organizational identity",
+        "Team"
+    ],
+    "Quality circle": [
+        "Participatory management"
+    ],
+    "Team": [
+        "Human Relations Movement",
+        "Team composition",
+        "Team management",
+        "Teamwork",
+        "Virtual team"
+    ],
+    "Chief learning officer": [
+        "Human Resources"
+    ],
+    "Compensation and benefits": [],
+    "Employee value proposition": [
+        "Workforce planning"
+    ],
+    "Employee performance management": [
+        "Electronic performance support systems",
+        "Operational performance management"
+    ],
+    "Human resource policies": [],
+    "Industrial/organizational psychology": [
+        "Human resources development",
+        "Individual assessment",
+        "Individual psychological assessment",
+        "Job analysis",
+        "Job rotation",
+        "Organizational analysis",
+        "Problem-solving",
+        "Safety climate",
+        "Work design"
+    ],
+    "Electronic performance support systems": [],
+    "Operational performance management": [],
+    "Virtual team": [
+        "Teamwork",
+        "Work design"
+    ],
+    "Leadership style": [
+        "Servant leadership"
+    ],
+    "Learning organization": [
+        "Knowledge organization",
+        "Knowledge sharing"
+    ],
+    "Organizational analysis": [
+        "McKinsey 7S Framework",
+        "Sociotechnical systems"
+    ],
+    "Sociotechnical system": [
+        "Job design",
+        "Job rotation",
+        "Work design"
+    ],
+    "Participative management": [
+        "Management styles"
+    ],
+    "Participatory management": [
+        "Management styles"
+    ]
+}

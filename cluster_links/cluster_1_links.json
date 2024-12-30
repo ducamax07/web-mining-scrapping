@@ -1,0 +1,666 @@
+{
+    "Absenteeism": [],
+    "Career counseling": [],
+    "Employment counsellor": [
+        "Psychologist",
+        "Social exclusion"
+    ],
+    "Sexism": [
+        "Anti-sexism",
+        "Gender discrimination",
+        "Learning environment",
+        "Sex discrimination",
+        "Sexual harassment",
+        "Social construction of gender",
+        "Social exclusion",
+        "Social privilege",
+        "Sociology"
+    ],
+    "Sexual harassment": [
+        "Retirement",
+        "Sex discrimination",
+        "Social exclusion",
+        "Social privilege"
+    ],
+    "Cross-cultural": [
+        "Bennett scale",
+        "Cross cultural sensitivity",
+        "Ethnography",
+        "Intercultural communication",
+        "Legal culture",
+        "Relational mobility",
+        "Statistical"
+    ],
+    "Cross cultural sensitivity": [
+        "Bennett scale",
+        "Demographic",
+        "Ethnicity",
+        "Indigenous peoples",
+        "Intercultural communication",
+        "Legal culture",
+        "Marginalisation",
+        "Relational mobility"
+    ],
+    "Legal culture": [
+        "Bennett scale",
+        "Ethnicity",
+        "Intercultural communication",
+        "Relational mobility"
+    ],
+    "Relational mobility": [
+        "Attribution (psychology)",
+        "Interpersonal relations",
+        "Interpersonal relationship",
+        "Self-enhancement",
+        "Social environment",
+        "Social exclusion",
+        "Sociology",
+        "Survey (human research)"
+    ],
+    "Inclusion (education)": [
+        "Activities of daily living",
+        "Adult education",
+        "Educational inequality",
+        "Health education",
+        "List of disability-related terms with negative connotations",
+        "Occupational therapy",
+        "Social exclusion"
+    ],
+    "Interpersonal relationship": [
+        "Abnormal psychology",
+        "Acquaintance",
+        "Community psychology",
+        "Companionship",
+        "Comparative psychology",
+        "Dominance hierarchy",
+        "First date",
+        "Human relations",
+        "Humanistic psychology",
+        "Impact of prostitution on mental health",
+        "Marriage",
+        "Media psychology",
+        "Positive psychology",
+        "Social context",
+        "Social environment",
+        "Social work",
+        "Sociology"
+    ],
+    "Social context": [
+        "Demography",
+        "Ethnography",
+        "Milieu",
+        "Social psychology (sociology)",
+        "Sociology",
+        "Survey (human research)"
+    ],
+    "Stressor": [
+        "Social stress"
+    ],
+    "Diversity ideologies": [
+        "Common ingroup identity"
+    ],
+    "Neurodiversity and labor rights": [
+        "Developmental coordination disorder",
+        "Employment of autistic people"
+    ],
+    "Mental wellness": [
+        "Abnormal psychology",
+        "Community psychology",
+        "Comparative psychology",
+        "Health education",
+        "History of mental healthcare",
+        "Humanistic psychology",
+        "Indigenous peoples",
+        "Media psychology",
+        "Mental health in the United States",
+        "Mindfulness (psychology)",
+        "Occupational therapy",
+        "Population health",
+        "Positive psychology",
+        "Psychologist",
+        "Race and health",
+        "Self-report inventory",
+        "Social cognitive theory",
+        "Social stress",
+        "Social work",
+        "Sociological"
+    ],
+    "Mental health": [
+        "Abnormal psychology",
+        "Community psychology",
+        "Comparative psychology",
+        "Health education",
+        "History of mental healthcare",
+        "Humanistic psychology",
+        "Indigenous peoples",
+        "Media psychology",
+        "Mental health in the United States",
+        "Mindfulness (psychology)",
+        "Occupational therapy",
+        "Population health",
+        "Positive psychology",
+        "Psychologist",
+        "Race and health",
+        "Self-report inventory",
+        "Social cognitive theory",
+        "Social stress",
+        "Social work",
+        "Sociological"
+    ],
+    "Population health": [
+        "Health education",
+        "Psychosocial stress",
+        "Race and health",
+        "Social cognitive theory"
+    ],
+    "Retirement": [],
+    "Activities of daily living": [
+        "List of disability-related terms that developed negative connotations",
+        "List of disability-related terms with negative connotations",
+        "Occupational therapy"
+    ],
+    "List of disability-related terms that developed negative connotations": [
+        "Occupational therapy"
+    ],
+    "List of disability-related terms with negative connotations": [
+        "Occupational therapy"
+    ],
+    "Occupational therapy": [
+        "Allied health professions",
+        "Occupational injustice",
+        "Social work"
+    ],
+    "Social exclusion": [
+        "Caste system in India",
+        "Community psychology",
+        "Marginalisation",
+        "Prosocial behavior",
+        "Race and health",
+        "Social privilege",
+        "Social support",
+        "Social work",
+        "Sociology",
+        "Urban planning"
+    ],
+    "Social privilege": [
+        "Caste system in India",
+        "Ethnic group",
+        "Nationality",
+        "Privilege (social inequality)",
+        "Privilege hazard",
+        "Sociologist"
+    ],
+    "Psychologist": [
+        "Abnormal psychology",
+        "Community psychology",
+        "Comparative psychology",
+        "Humanistic psychology",
+        "Licensed Professional Counselor",
+        "Licensed professional counselor",
+        "Media psychology",
+        "Positive psychology",
+        "Self-report inventory",
+        "Social work"
+    ],
+    "Marriage": [
+        "Married",
+        "Matrimony",
+        "Role model",
+        "Temporary marriage"
+    ],
+    "Sexual discrimination": [
+        "Anti-sexism",
+        "Gender discrimination",
+        "Learning environment",
+        "Sex discrimination",
+        "Social construction of gender",
+        "Sociology"
+    ],
+    "Social services": [
+        "Abnormal psychology",
+        "Demography",
+        "Geography",
+        "Health care in the United States",
+        "Human services",
+        "Psychiatric rehabilitation",
+        "School social worker",
+        "Social work",
+        "Sociology",
+        "Urban planning"
+    ],
+    "Sociology": [
+        "Abnormal psychology",
+        "Demography",
+        "Ethnicities",
+        "Ethnography",
+        "Geography",
+        "Longitudinal study",
+        "Mores",
+        "Social environment",
+        "Social psychology (sociology)",
+        "Social work",
+        "Survey (human research)",
+        "Survey research",
+        "Urban planning"
+    ],
+    "Caste system in India": [
+        "Castes in India",
+        "Ethnographic",
+        "Geneticist"
+    ],
+    "Health education": [
+        "Adult education",
+        "Emotional health",
+        "Patient opinion leader",
+        "Race and health",
+        "Social cognitive theory"
+    ],
+    "Occupational injustice": [],
+    "Race and health": [
+        "Ethnic group",
+        "Ethnicity",
+        "Ethnicity and health",
+        "Medical racism",
+        "Race and genetics",
+        "Social cognitive theory"
+    ],
+    "Social cognitive theory": [
+        "Abnormal psychology",
+        "Community psychology",
+        "Comparative psychology",
+        "Humanistic psychology",
+        "Media psychology",
+        "Positive psychology"
+    ],
+    "Privilege (social inequality)": [
+        "Ethnic group",
+        "Nationality",
+        "Privilege hazard",
+        "Sociologist"
+    ],
+    "Abnormal psychology": [
+        "Community psychology",
+        "Comparative psychology",
+        "Demography",
+        "Geography",
+        "Humanistic Psychology",
+        "Humanistic psychology",
+        "Media psychology",
+        "Positive psychology",
+        "Self-report inventory",
+        "Social environment",
+        "Social work",
+        "Urban planning"
+    ],
+    "Community psychology": [
+        "Comparative psychology",
+        "Ethnography",
+        "Humanistic psychology",
+        "Media psychology",
+        "Multilevel model",
+        "Positive psychology",
+        "Prosocial behavior",
+        "Self-report inventory",
+        "Social support",
+        "Social work",
+        "Urban planning"
+    ],
+    "Comparative psychology": [
+        "Ethnicity",
+        "Humanistic psychology",
+        "John B. Calhoun",
+        "Media psychology",
+        "Positive psychology",
+        "Self-report inventory"
+    ],
+    "Humanistic psychology": [
+        "Media psychology",
+        "Mindfulness",
+        "Positive psychology",
+        "Self-report inventory",
+        "Social environment",
+        "Social work"
+    ],
+    "Media psychology": [
+        "Internet addiction disorder"
+    ],
+    "Positive psychology": [
+        "Focus group",
+        "Hierarchical linear modeling",
+        "Mindfulness",
+        "Prosocial behavior",
+        "Psychological intervention",
+        "Self-enhancement",
+        "Self-report inventory"
+    ],
+    "Self-report inventory": [],
+    "Social work": [
+        "Allied health professions",
+        "Behavior management",
+        "Demography",
+        "Geography",
+        "Human services",
+        "Indigenous peoples",
+        "Psychiatric rehabilitation",
+        "Psychosocial rehabilitation",
+        "Recovery approach",
+        "School social worker",
+        "Sociotherapy",
+        "Urban development",
+        "Urban planning"
+    ],
+    "Demographic": [
+        "Ethnicity",
+        "Geography",
+        "Human migration",
+        "Longitudinal study",
+        "Nationality",
+        "Statistical",
+        "Statistics",
+        "Survey (human research)",
+        "Survey sampling",
+        "Urban planning"
+    ],
+    "Anti-sexism": [
+        "Gender discrimination",
+        "Learning environment",
+        "Sex discrimination",
+        "Social construction of gender"
+    ],
+    "Gender discrimination": [
+        "Learning environment",
+        "Sex discrimination",
+        "Social construction of gender"
+    ],
+    "Learning environment": [],
+    "Sex discrimination": [
+        "Social construction of gender"
+    ],
+    "Social construction of gender": [
+        "Behavioral contagion",
+        "Demography",
+        "Gender performativity",
+        "Pluralistic ignorance"
+    ],
+    "Bennett scale": [
+        "Cultural sensitivity",
+        "Intercultural communication"
+    ],
+    "Ethnography": [
+        "Anthropology of institutions",
+        "Demography",
+        "Ethnic group",
+        "Ethnic groups",
+        "Ethnic identity development",
+        "Ethnic origin",
+        "Ethnicity",
+        "Ethnoburb",
+        "Geography",
+        "Indigenous peoples",
+        "Mores",
+        "Nationality",
+        "Nutritional anthropology",
+        "Social environment",
+        "Social psychology (sociology)",
+        "Survey (human research)",
+        "Urban planning"
+    ],
+    "Intercultural communication": [
+        "Cultural schema theory",
+        "Cultural sensitivity",
+        "Interpersonal communication"
+    ],
+    "Statistical": [
+        "Demography",
+        "Geography",
+        "Multilevel model",
+        "Survey sampling"
+    ],
+    "Ethnicity": [
+        "Anthropology of institutions",
+        "Ethnic group",
+        "Ethnic identity development",
+        "Ethnic origin",
+        "Ethnicities",
+        "Ethnoburb",
+        "Indigenous peoples",
+        "Mores",
+        "Nationality",
+        "Nutritional anthropology"
+    ],
+    "Indigenous peoples": [
+        "Ethnic group",
+        "Ethnic identity development",
+        "Ethnic origin",
+        "Ethnoburb",
+        "First nations",
+        "First peoples",
+        "Indigenous studies",
+        "Mores",
+        "Nationality",
+        "Racism against indigenous peoples"
+    ],
+    "Marginalisation": [
+        "Prosocial behavior",
+        "Social support",
+        "Urban planning"
+    ],
+    "Dominance hierarchy": [
+        "Alpha female",
+        "Alpha male",
+        "Eusocial mammals",
+        "Eusociality",
+        "Insect societies",
+        "Worker caste"
+    ],
+    "Indigenous culture": [
+        "Ethnic group",
+        "Ethnic identity development",
+        "Ethnic origin",
+        "Ethnoburb",
+        "First nations",
+        "First peoples",
+        "Indigenous studies",
+        "Mores",
+        "Nationality",
+        "Racism against indigenous peoples"
+    ],
+    "Internet addiction": [
+        "Addiction recovery groups",
+        "Longitudinal study"
+    ],
+    "Peer group": [
+        "Longitudinal studies",
+        "Longitudinal study",
+        "Prosocial behaviors"
+    ],
+    "Interpersonal relations": [
+        "Acquaintance",
+        "Companionship",
+        "First date",
+        "Human relations",
+        "Impact of prostitution on mental health",
+        "Social environment"
+    ],
+    "Self-enhancement": [
+        "Self-handicapping"
+    ],
+    "Social environment": [
+        "Demography",
+        "Milieu",
+        "Social psychology (sociology)",
+        "Survey (human research)"
+    ],
+    "Survey (human research)": [
+        "Demography",
+        "Longitudinal study",
+        "Psychologists",
+        "Survey sampling"
+    ],
+    "Religious identity": [
+        "Ethnic identity",
+        "Sociologist"
+    ],
+    "Employment of autistic people": [
+        "Developmental coordination disorder",
+        "Intellectual giftedness"
+    ],
+    "Adult education": [],
+    "Educational inequality": [
+        "Focus group",
+        "Racial inequality in education",
+        "Structural inequality in education"
+    ],
+    "Intellectual giftedness": [
+        "Dyspraxia",
+        "Gifted",
+        "Longitudinal studies"
+    ],
+    "Acquaintance": [
+        "Companionship",
+        "First date",
+        "Human relations",
+        "Impact of prostitution on mental health"
+    ],
+    "Companionship": [
+        "First date",
+        "Human relations",
+        "Impact of prostitution on mental health"
+    ],
+    "Human relations": [
+        "Impact of prostitution on mental health"
+    ],
+    "Demographic groups": [
+        "Geography",
+        "Human migration",
+        "Longitudinal study",
+        "Nationality",
+        "Statistics",
+        "Survey sampling",
+        "Urban planning"
+    ],
+    "Demography": [
+        "Geography",
+        "Human migration",
+        "Longitudinal study",
+        "Nationality",
+        "Statistics",
+        "Survey sampling",
+        "Urban planning"
+    ],
+    "Milieu": [
+        "Social psychology (sociology)"
+    ],
+    "Social psychology (sociology)": [
+        "Labeling theory"
+    ],
+    "Social stress": [
+        "Behavioral contagion",
+        "Longitudinal study",
+        "Pluralistic ignorance",
+        "Social inclusion",
+        "Social support"
+    ],
+    "Business statistics": [
+        "Geography",
+        "Multilevel model",
+        "Survey sampling"
+    ],
+    "Geography": [
+        "Demographics",
+        "Urban planning"
+    ],
+    "Interpersonal communication": [
+        "Attribution theory",
+        "Coordinated Management of Meaning",
+        "Coordinated management of meaning",
+        "Pedagogical communication"
+    ],
+    "Urban planning": [
+        "Development planning",
+        "Urban development"
+    ],
+    "Statistics": [
+        "Multilevel model",
+        "Survey sampling"
+    ],
+    "Social support": [
+        "Prosocial behavior",
+        "Psychiatric rehabilitation",
+        "Supported housing"
+    ],
+    "Inclusiveness": [
+        "Prosocial behavior"
+    ],
+    "Sociologist": [
+        "Ethnicities",
+        "Longitudinal study",
+        "Mores",
+        "Survey research"
+    ],
+    "Inclusion (value and practice)": [
+        "Prosocial behavior"
+    ],
+    "Nationality": [
+        "Ethnic group",
+        "Ethnic identity development",
+        "Ethnic origin",
+        "Ethnoburb",
+        "Integration of immigrants",
+        "Mores"
+    ],
+    "Ethnicities": [
+        "Anthropology of institutions",
+        "Ethnic group",
+        "Ethnic identity development",
+        "Ethnic origin",
+        "Ethnoburb",
+        "Mores",
+        "Nutritional anthropology"
+    ],
+    "Ethnic group": [
+        "Anthropology of institutions",
+        "Ethnic identity development",
+        "Ethnic origin",
+        "Ethnoburb",
+        "Mores",
+        "Nutritional anthropology"
+    ],
+    "Developmental coordination disorder": [
+        "Speech error"
+    ],
+    "Focus group": [
+        "Cultural sensitivity",
+        "Focus Group"
+    ],
+    "Participatory GIS": [
+        "Culturally sensitive"
+    ],
+    "Public participation geographic information system": [
+        "Culturally sensitive"
+    ],
+    "Impact of the COVID-19 pandemic on people with disabilities": [],
+    "History of mental healthcare": [
+        "Mental health in the United States",
+        "Mindfulness (psychology)",
+        "Sociological"
+    ],
+    "Mental health in the United States": [
+        "Allied health professions",
+        "Marginalised communities"
+    ],
+    "Mindfulness (psychology)": [
+        "Psychological intervention"
+    ],
+    "Sociological": [
+        "Longitudinal study",
+        "Mores",
+        "Survey research"
+    ],
+    "Psychosocial stress": [
+        "Behavioral contagion",
+        "Longitudinal study",
+        "Pluralistic ignorance",
+        "Social inclusion"
+    ]
+}
