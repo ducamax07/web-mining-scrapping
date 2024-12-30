@@ -17,7 +17,6 @@ stop_words = list(set(stopwords.words('english'))) + ["'s"]
 stem = nltk.stem.SnowballStemmer("english")
 
 # Fonctions utilitaires
-
 def extract_tokens(text):
     text = text.lower()
     text = re.sub(r'[^a-z0-9\s]', ' ', text)
@@ -28,7 +27,7 @@ def extract_tokens(text):
     return tokens
 
 
-def get_top_tokens(content, n=20):
+def get_top_tokens(content, n=25):  # Modification ici à 25 tokens
     tokens = extract_tokens(content)
     token_counts = {}
     for token in tokens:
@@ -36,29 +35,6 @@ def get_top_tokens(content, n=20):
     sorted_tokens = sorted(token_counts.items(), key=lambda item: item[1], reverse=True)
     return set(item[0] for item in sorted_tokens[:n])
 
-
-def clear_current_link(file_path, current_page):
-    if os.path.exists(file_path):
-        data = load_data(file_path)
-        if current_page in data:
-            del data[current_page]
-            save_data(file_path, data)
-
-
-
-def calculate_dynamic_threshold(page_summary, base_threshold=5):
-    text_length = len(page_summary.split())
-    return base_threshold + (text_length // 100)
-
-
-def is_relevant_based_on_top_tokens(top_tokens, linked_summary, base_threshold=5):
-    linked_tokens = extract_tokens(linked_summary)
-    unique_linked_tokens = set([token for token in linked_tokens if token in top_tokens])
-    dynamic_threshold = calculate_dynamic_threshold(linked_summary, base_threshold)
-    return len(unique_linked_tokens) >= dynamic_threshold
-
-
-# Gestion des fichiers JSON
 
 def save_data(file_path, data):
     with open(file_path, 'w', encoding='utf-8') as file:
@@ -88,28 +64,25 @@ def bfs_scrape(start_page, max_depth=3,
                content_file='contentA.json', 
                link_file='linksA.json', 
                queue_file='queueA.json', 
-               current_link_file='current_linkA.json', 
                explored_file='exploredA.json'):
 
     visited = set()
-    queue = load_data(queue_file) if os.path.exists(queue_file) else [(start_page, 0)]
-    explored_pages = load_explored_pages(explored_file)  # Charger les pages explorées
+    queue = [(start_page, 0)]  # Recommencer depuis le début
+    explored_pages = load_explored_pages(explored_file)
 
-    content_storage = load_data(content_file)
-    link_storage = load_data(link_file)
+    content_storage = {}
+    link_storage = {}
 
-    # Obtenir les top tokens de la page de départ
     main_page = wikipedia.WikipediaPage(start_page)
-    top_tokens = get_top_tokens(main_page.content, n=20)
+    top_tokens = get_top_tokens(main_page.content, n=25)  # Modification ici
 
     while queue:
         current_page, depth = queue.pop(0)
-        save_data(queue_file, queue)
 
         if depth > max_depth:
             continue
 
-        # Ignorer si déjà exploré
+        # Ignorer les pages déjà explorées sans les vérifier
         if current_page in explored_pages:
             print(f"Page déjà explorée : {current_page}")
             continue
@@ -122,31 +95,15 @@ def bfs_scrape(start_page, max_depth=3,
             print(f"Scraping: {current_page} (Depth {depth})")
             page = wikipedia.WikipediaPage(current_page)
 
-            if is_relevant_based_on_top_tokens(top_tokens, page.summary):
-                save_data(content_file, content_storage)
-                
-                for link in page.links:
-                    if link not in visited and link not in explored_pages:
-                        try:
-                            linked_page = wikipedia.WikipediaPage(link)
-                            if is_relevant_based_on_top_tokens(top_tokens, linked_page.summary):
-                                print(f"Page validée : {link}")
-                                save_data(link_file, link_storage)
-                                content_storage[link] = linked_page.content
-                                link_storage.setdefault(current_page, []).append(link)
-                                queue.append((link, depth + 1))
-                                save_data(queue_file, queue)
-                        except wikipedia.exceptions.DisambiguationError:
-                            print(f"DisambiguationError sur {link}. Ignoré.")
-                        except wikipedia.exceptions.PageError:
-                            print(f"PageError : {link} n'existe pas.")
-                        except Exception as e:
-                            print(f"Erreur inattendue sur {link}: {e}")
+            # Sauvegarder directement les données car validité ignorée
+            content_storage[current_page] = page.content
+            for link in page.links:
+                if link not in visited and link not in explored_pages:
+                    queue.append((link, depth + 1))
 
-                # Nettoyer le current_link après avoir traité la page
-                clear_current_link(current_link_file, current_page)
-                explored_pages.add(current_page)
-                save_explored_pages(explored_file, explored_pages)
+            # Ajouter la page comme explorée
+            explored_pages.add(current_page)
+            save_explored_pages(explored_file, explored_pages)
 
         except wikipedia.exceptions.DisambiguationError:
             print(f"DisambiguationError sur {current_page}. Ignoré.")
@@ -155,6 +112,9 @@ def bfs_scrape(start_page, max_depth=3,
         except Exception as e:
             print(f"Erreur inattendue sur {current_page}: {e}")
 
+    # Sauvegarder les données collectées
+    save_data(content_file, content_storage)
+    save_data(link_file, link_storage)
     print(f"Scraping terminé. Visité {len(visited)} pages.")
 
 
