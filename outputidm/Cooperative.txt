@@ -1,0 +1,1377 @@
+Document de base: Cooperative
+A cooperative (also known as co-operative, co-op, or coop) is "an autonomous association of persons united voluntarily to meet their common economic, social and cultural needs and aspirations through a jointly owned and democratically-controlled enterprise". Cooperatives are democratically controlled by their members, with each member having one vote in electing the board of directors. They differ from collectives in that they are generally built from the bottom-up, rather than the top-down.
+Cooperatives may include:
+
+Worker cooperatives: businesses owned and managed by the people who work there
+Consumer cooperatives: businesses owned and managed by the people who consume goods and/or services provided by the cooperative
+Producer cooperatives: businesses where producers pool their output for their common benefit
+eg. Agricultural cooperatives
+Purchasing cooperatives where members pool their purchasing power
+Multi-stakeholder or hybrid cooperatives that share ownership between different stakeholder groups. For example, care cooperatives where ownership is shared between both care-givers and receivers. Stakeholders might also include non-profits or investors.
+Second- and third-tier cooperatives whose members are other cooperatives
+Platform cooperatives that use a cooperatively owned and governed website, mobile app or a protocol to facilitate the sale of goods and services.
+The Research published by the Worldwatch Institute found that in 2012 approximately one billion people in 96 countries had become members of at least one cooperative. The turnover of the largest three hundred cooperatives in the world reached $2.2 trillion.
+Worker cooperatives are typically more productive and economically resilient than many other forms of enterprise, with twice the number of co-operatives (80%) surviving their first five years compared with other business ownership models (44%) according to data from United Kingdom. The largest worker owned cooperative in the world, the Mondragon Corporation (founded by Catholic priest José María Arizmendiarrieta), has been in continuous operation since 1956.
+Cooperatives frequently have social goals, which they aim to accomplish by investing a proportion of trading profits back into their communities. As an example of this, in 2013, retail co-operatives in the UK invested 6.9% of their pre-tax profits in the communities in which they trade, compared to 2.4% for rival supermarkets.
+Since 2002, cooperatives have been distinguishable on the Internet through the use of a .coop domain. In 2014, the International Co-operative Alliance (ICA) introduced the Cooperative Marque, meaning ICA cooperatives and WOCCU credit unions can also be identified through a coop ethical consumerism label.
+
+
+== Origins and history ==
+
+Cooperation dates back as far as human beings have been organizing for mutual benefits. Tribes were organized as cooperative structures, allocating jobs and resources among each other, only trading with the external communities. In alpine environments, trade could only be maintained in organized cooperatives to achieve a useful condition of artificial roads such as Viamala in 1472. Pre-industrial Europe is home to the first cooperatives from an industrial context. The roots of the cooperative movement can be traced to multiple influences and extend worldwide. In the English-speaking world, post-feudal forms of cooperation between workers and owners that are expressed today as "profit sharing" and "surplus sharing" arrangements existed as far back as 1795. The key ideological influence on the Anglosphere branch of the cooperative movement, however, was a rejection of the charity principles that underpinned welfare reforms when the British government radically revised its Poor Laws in 1834. As both state and church institutions began to routinely distinguish between the 'deserving' and 'undeserving' poor, a movement of friendly societies grew throughout the British Empire based on the principle of mutuality, committed to self-help in the welfare of working people.
+
+In 1761, the Fenwick Weavers' Society was formed in Fenwick, East Ayrshire, Scotland to sell discounted oatmeal to local workers. Its services expanded to include assistance with savings and loans, emigration and education. In 1810, Welsh social reformer Robert Owen, from Newtown in mid-Wales, and his partners purchased the New Lanark mill from Owen's father-in-law, David Dale, and proceeded to introduce better labour standards, including discounted retail shops where profits were passed on to his employees. Owen left New Lanark to pursue other forms of cooperative organization and develop coop ideas through writing and lecture. Cooperative communities were set up in Glasgow, Indiana and Hampshire, although ultimately unsuccessful. In 1828, William King set up a newspaper, The Cooperator, to promote Owen's thinking, having already set up a cooperative store in Brighton.
+Also in 1810, Rev. Henry Duncan of the Ruthwell Presbyterian Church in Dumfriesshire, Scotland founded a friendly society to create a cooperative depository institution at which his poorest parishioners could hold savings accounts accruing interest for sickness and old-age, which was the first established savings bank that would be merged into the Trustee Savings Bank between 1970 and 1985. The Rochdale Society of Equitable Pioneers, founded in 1844, is usually considered the first successful cooperative enterprise, used as a model for modern coops, following the 'Rochdale Principles'. A group of 28 weavers and other artisans in Rochdale, England set up the society to open their own store selling food items they could not otherwise afford. Within ten years there were over a thousand cooperative societies in the United Kingdom.
+
+"Spolok Gazdovský" (The Association of Administrators or The Association of Farmers) founded in 1845 by Samuel Jurkovič, was the first cooperative in Europe (Credit union). The cooperative provided a cheap loan from funds generated by regular savings for members of the cooperative. Members of cooperative had to commit to a moral life and had to plant two trees in a public place every year. Despite the short duration of its existence, until 1851, it thus formed the basis of the cooperative movement in Slovakia. Slovak national thinker Ľudovít Štúr said about the association: "We would very much like such excellent constitutions to be established throughout our region. They would help to rescue people from evil and misery. A beautiful, great idea, a beautiful excellent constitution!"
+Other events such as the founding of a friendly society by the Tolpuddle Martyrs in 1832 were key occasions in the creation of organized labor and consumer movements.
+Friendly Societies established forums through which one member, one vote was practiced in organisation decision-making. The principles challenged the idea that a person should be an owner of property before being granted a political voice. Throughout the second half of the nineteenth century (and then repeatedly every twenty years or so) there was a surge in the number of cooperative organisations, both in commercial practice and civil society, operating to advance democracy and universal suffrage as a political principle. Friendly Societies and consumer cooperatives became the dominant form of organization among working people in Anglosphere industrial societies prior to the rise of trade unions and industrial factories. Weinbren reports that by the end of the 19th century, over 80% of British working age men and 90% of Australian working age men were members of one or more Friendly Society.
+From the mid-nineteenth century, mutual organisations embraced these ideas in economic enterprises, firstly among tradespeople, and later in cooperative stores, educational institutes, financial institutions and industrial enterprises. The common thread (enacted in different ways, and subject to the constraints of various systems of national law) is the principle that an enterprise or association should be owned and controlled by the people it serves, and share any surpluses on the basis of each member's cooperative contribution (as a producer, labourer or consumer) rather than their capacity to invest financial capital.
+The International Co-operative Alliance was the first international association formed (1895) by the cooperative movement. It includes the World Council of Credit Unions. The International Cooperative Alliance was founded in London, England on 19 August 1895 during the 1st Cooperative Congress. In attendance were delegates from cooperatives from Argentina, Australia, Belgium, England, Denmark, France, Germany, Holland, India, Italy, Switzerland, Serbia, and the US. A second organization formed later in Germany: the International Raiffeisen Union. In the United States, the National Cooperative Business Association (NCBA CLUSA; the abbreviation of the organization retains the initials of its former name, Cooperative League of the USA) serves as the sector's oldest national membership association. It is dedicated to ensuring that cooperative businesses have the same opportunities as other businesses operating in the country and that consumers have access to cooperatives in the marketplace.
+In 1945 Artturi Ilmari Virtanen received the Nobel Prize in Chemistry for his invention of the AIV silage. This invention improved milk production and created a method of preserving butter, the AIV salt, which led to increased Finnish butter exports. He had started his career in chemistry in Valio, a cooperative of dairy farmers in which he headed the research department for 50 years and where all his major inventions were first put to practice.
+Cooperative banks were first to adopt online banking. Stanford Federal Credit Union was the first financial institution to offer online internet banking services to all of its members in October 1994. In 1996 OP Financial Group, also a cooperative bank, became the second online bank in the world and the first in Europe.
+By 2004 a new association focused on worker co-ops was founded, the United States Federation of Worker Cooperatives.
+The cooperative movement has been fueled globally by ideas of economic democracy. Economic democracy is a socioeconomic philosophy that suggests an expansion of decision-making power from a small minority of corporate shareholders to a larger majority of public stakeholders. There are many different approaches to thinking about and building economic democracy. Anarchists are committed to libertarian socialism and have focused on local organization, including locally managed cooperatives, linked through confederations of unions, cooperatives and communities. Marxists, who as socialists have likewise held and worked for the goal of democratizing productive and reproductive relationships, often placed a greater strategic emphasis on confronting the larger scales of human organization. As they viewed the capitalist class to be politically, militarily and culturally mobilized for the purpose of maintaining an exploitable working class, they fought in the early 20th century to appropriate from the capitalist class the society's collective political capacity in the form of the state. Though they regard the state as an unnecessarily oppressive institution, Marxists considered appropriating national and international-scale capitalist institutions and resources (such as the state) to be an important first pillar in creating conditions favorable to solidaristic economies. With the declining influence of the USSR after the 1960s, socialist strategies pluralized, though economic democratizers have not as yet established a fundamental challenge to the hegemony of global neoliberal capitalism.
+
+
+== Meaning ==
+
+
+=== Identity ===
+
+
+==== Co-op principles and values ====
+Many cooperatives follow the seven Rochdale Principles:
+
+Voluntary and open membership
+Democratic member control, with each member having one vote.
+Economic participation by members
+Autonomy and independence
+Education, training and information
+Cooperation among cooperatives
+Concern for community
+
+
+==== Co-op Marque and domain ====
+
+Since 2002, ICA cooperatives and WOCCU credit unions could be distinguished by use of a .coop domain. In 2014, ICA introduced the Global Cooperative Marque for use by ICAs Cooperative members and by WOCCU's Credit Union members so they can be further identified by their coop ethical consumerism label. The marque is used today by thousands of cooperatives in more than a hundred countries.
+The .coop domain and Co-operative Marque were designed as a new symbol of the global cooperative movement and its collective identity in the digital age. The Co-operative Marque and domain is reserved just for co-operatives, credit unions and organisations that support co-operatives; is distinguished by its ethical badge that subscribes to the seven ICA Cooperative Principles and Co-op Values. Co-ops can be identified on the Internet through the use of the .coop suffix of internet addresses. Organizations using .coop domain names must adhere to the basic co-op values.
+
+
+=== Cooperatives as legal entities ===
+
+A cooperative is a legal entity owned and democratically controlled by its members. Members often have a close association with the enterprise as producers or consumers of its products or services, or as its employees. The legal entities have a range of social characteristics. Membership is open, meaning that anyone who satisfies certain non-discriminatory conditions may join. Economic benefits are distributed proportionally to each member's level of participation in the cooperative, for instance, by a dividend on sales or purchases, rather than according to capital invested. Cooperatives may be classified as either worker, consumer, producer, purchasing or housing cooperatives. They are distinguished from other forms of incorporation in that profit-making or economic stability are balanced by the interests of the community.
+There are specific forms of incorporation for cooperatives in some countries, e.g. Finland and Australia. Cooperatives may take the form of companies limited by shares or by guarantee, partnerships or unincorporated associations. In the UK they may also use the industrial and provident society structure. In the US, cooperatives are often organized as non-capital stock corporations under state-specific cooperative laws. Cooperatives often share their earnings with the membership as dividends, which are divided among the members according to their participation in the enterprise, such as patronage, instead of according to the value of their capital shareholdings (as is done by a joint stock company).
+
+
+=== Cooperative share capital ===
+The cooperative share capital or co-operative share capital (in short cooperative capital or co-operative capital) is the form of capital that the cooperative accumulates from the paid participation shares of its members. The total amount of participation shares the paid to the cooperative constitutes the cooperative capital. The co-operative share capital is usually non-withdrawable and indivisible to the cooperative members.
+
+
+== Types of cooperatives ==
+
+The top 300 largest cooperatives were listed in 2007 by the International Co-operative Alliance. 80% were involved in either agriculture, finance, or retail and more than half were in the United States, Italy, or France.
+
+
+=== Consumers' cooperative ===
+
+A consumers' cooperative is a business owned by its customers. Members vote on major decisions and elect the board of directors from among their own number. The first of these was set up in 1844 in the North-West of England by 28 weavers who wanted to sell food at a lower price than the local shops.
+
+
+==== Retail cooperative ====
+Retail cooperatives are retailers, such as grocery stores, owned by their customers. They should not be confused with retailers' cooperatives, whose members are retailers rather than consumers. In Singapore, Italy, and Finland the company with the largest market share in the grocery store sector is a consumer owned cooperative. In Switzerland both the largest and the second largest retailer are consumer owned cooperatives.
+
+
+==== Housing cooperative ====
+
+A housing cooperative is a legal mechanism for ownership of housing where residents either own shares (share capital co-op) reflecting their equity in the cooperative's real estate or have membership and occupancy rights in a not-for-profit cooperative (non-share capital co-op), and they underwrite their housing through paying subscriptions or rent.
+Housing cooperatives come in three basic equity structures
+
+In market-rate housing cooperatives, members may sell their shares in the cooperative whenever they like for whatever price the market will bear, much like any other residential property. Market-rate co-ops are very common in New York City.
+Limited equity housing cooperatives, which are often used by affordable housing developers, allow members to own some equity in their home, but limit the sale price of their membership share to that which they paid.
+Group equity or zero-equity housing cooperatives do not allow members to own equity in their residences and often have rental agreements well below market rates.
+Members of a building cooperative (in Britain known as a self-build housing cooperative) pool resources to build housing, normally using a high proportion of their own labor. When the building is finished, each member is the sole owner of a homestead, and the cooperative may be dissolved.
+This collective effort was at the origin of many of Britain's building societies, which however, developed into "permanent" mutual savings and loan organisations, a term which persisted in some of their names (such as the former Leeds Permanent). Nowadays such self-building may be financed using a step-by-step mortgage which is released in stages as the building is completed. The term may also refer to worker cooperatives in the building trade.
+
+
+==== Utility cooperative ====
+
+A utility cooperative is a type of consumers' cooperative that is tasked with the delivery of a public utility such as electricity, water or telecommunications services to its members. Profits are either reinvested into infrastructure or distributed to members in the form of "patronage" or "capital credits", which are essentially dividends paid on a member's investment into the cooperative. In the United States, many cooperatives were formed to provide rural electrical and telephone service as part of the New Deal. See Rural Utilities Service.
+In the case of electricity, cooperatives are generally either generation and transmission (G&T) co-ops that create and send power via the transmission grid or local distribution co-ops that gather electricity from a variety of sources and send it along to homes and businesses.
+In Tanzania, it has been proven that the cooperative method is helpful in water distribution. When the people are involved with their own water, they care more because the quality of their work has a direct effect on the quality of their water.
+
+
+==== Credit unions, cooperative banking and cooperative insurance ====
+
+Credit unions are cooperative financial institutions owned and controlled by their members. Credit unions provide to its members the same services as banks but are considered not-for-profit organizations and adhere to cooperative principles.
+Credit unions originated in mid-19th-century Germany through the efforts of pioneers Franz Herman Schulze'Delitzsch and Friedrich Wilhelm Raiffeisen. The concept of financial cooperatives crossed the Atlantic at the turn of the 20th century, when the caisse populaire movement was started by Alphonse Desjardins in Quebec, Canada. In 1900, from his home in Lévis, he opened North America's first credit union, marking the beginning of the Mouvement Desjardins. Eight years later, Desjardins provided guidance for the first credit union in the United States, where there are now about 7,950 active status federally insured credit unions, with almost 90 million members and more than $679 billion on deposit.
+Financial cooperatives hold a significant market share in Europe and Latin America, as well as a few countries in Sub-Saharan Africa. They also have a strong presence in Asia, Australia, and the United States. According to the World Council of Credit Unions (WOCCU), there were 68,882 financial cooperatives in 109 countries in 2016, serving more than 235 million members, with total assets exceeding 1.7 trillion dollars. The WOCCU's data do not include some major financial cooperative networks in Europe, such as Germany, Finland, France, Denmark, and Italy. In many high-income economies, financial cooperatives hold significant market shares of the banking sector.
+According to the European Association of Cooperative Banks, the market share of cooperative banks in the Small and Medium Enterprises (SMEs) credit market by the end of 2016 was 37% in Finland, 45% in France, 33% in Germany, 43% in the Netherlands, and 22% in Canada. In Germany, Volksbanken-Raiffeisen banks have a market share of approximately 21% of domestic credit and domestic deposits. In the Netherlands, Rabobank holds 34% of deposits, and in France cooperative banks (Crédit Agricole, Crédit Mutuel and BPCE Group) possess more than 59% of domestic credit and 61% of domestic deposits. In Finland, OP financial group holds 35% and 38% of domestic credit and deposits, respectively, and in Canada, Desjardins holds around 42% of domestic deposits and 22% of domestic credit.
+There are many types of cooperative financial institutions with different names across the world, including financial cooperatives ('cooperativa financiera' is the Spanish term used in Latin America), cooperative banks, credit unions, and savings and credit cooperatives ('cooperativa de ahorro y crédito' in Spanish or 'coopérative d'épargne et de credit' in French-speaking countries).
+Cooperative banking networks, which were nationalized in Eastern Europe, continued as cooperative institutions. In Poland, the SKOK (Spółdzielcze Kasy Oszczędnościowo-Kredytowe) network grew to serve over 1 million members via 13,000 branches, and was larger than the country's largest conventional bank.
+In the Scandinavia, there is a clear distinction between mutual savings banks (Sparbank) and true credit unions (Andelsbank).
+The oldest cooperative banks in Europe, based on the ideas of Friedrich Raiffeisen, are joined in the 'Urgenossen'.
+
+
+==== Community co-operative ====
+A community cooperative is owned and governed by members of a local geographical community. It is established to meet the community's needs by providing goods or services that are not available or affordable through traditional market channels. This is distinct from meeting individuals' needs as individuals.
+The aim of a community cooperative is often to create a more equitable and sustainable economy that serves the needs of local residents, rather than generating profits for external shareholders. By working together and pooling resources, members can often achieve economies of scale, negotiate better prices, and develop services that better meet the needs of their community. Community cooperatives can also help to build social capital and foster a sense of community ownership and pride. They have been successful vehicles for rural development in the Gaeltacht in Ireland and the Highlands and Islands of Scotland.
+
+
+=== Worker cooperative ===
+
+A worker cooperative or producer cooperative is a cooperative owned and democratically controlled by its "worker-owners". In a pure worker cooperative, only the workers own shares of the business on a one person, one vote basis, though hybrid forms exist in which consumers, community members or investors also own some shares (though these shares may or may not have voting power). In practice, control by worker-owners may be exercised through individual, collective or majority ownership by the workforce, or the retention of individual, collective or majority voting rights. A worker cooperative, therefore, has the characteristic that the majority of its workforce owns shares, and the majority of shares are owned by the workforce. Membership is not always compulsory for employees, but generally, only employees can become members either directly (as shareholders) or indirectly through membership of a trust that owns the company.
+The impact of political ideology on practice constrains the development of cooperatives in different countries. In India, there is a form of workers' cooperative which insists on compulsory membership for all employees and compulsory employment for all members. That is the form of the Indian Coffee Houses. This system was advocated by the Indian communist leader A. K. Gopalan. In places like the UK, common ownership (indivisible collective ownership) was popular in the 1970s. Cooperative Societies only became legal in Britain after the passing of Slaney's Act in 1852. In 1865 there were 651 registered societies with a total membership of well over 200,000. There are now more than 400 worker cooperatives in the UK, Suma Wholefoods being the largest example with a turnover of £24 million. There also exist some pseudo-cooperatives, such as the John Lewis Partnership, where profits are distributed to the workers, but at the discretion of a senior elected board.
+
+
+==== Business and employment cooperative ====
+Business and employment cooperatives (BECs) are a subset of worker cooperatives that represent a new approach to providing support to the creation of new businesses. Like other business creation support schemes, BEC's enable budding entrepreneurs to experiment with their business idea while benefiting from a secure income. The innovation BECs introduce is that once the businesses are established, the entrepreneurs are not forced to leave and set up independently, but can stay and become full members of the cooperative. The micro-enterprises then combine to form one multi-activity enterprise whose members provide a mutually supportive environment for each other. BECs thus provide budding business people with an easy transition from inactivity to self-employment, but in a collective framework. They open up new horizons for people who have ambition but who lack the skills or confidence needed to set off entirely on their own – or who simply want to carry on an independent economic activity but within a supportive group context.
+
+
+=== Purchasing cooperative ===
+
+A "purchasing cooperative" is a type of cooperative arrangement, often among businesses, to agree to aggregate demand to get lower prices from selected suppliers. Retailers' cooperatives are a form of purchasing cooperative.
+Major purchasing cooperatives include Best Western, ACE Hardware and CCA Global Partners.
+Agricultural service cooperatives provide various services to their individual farming members, and to agricultural production cooperatives, where production resources such as land or machinery are pooled and members farm jointly.
+Agricultural supply cooperatives aggregate purchases, storage, and distribution of farm inputs for their members. By taking advantage of volume discounts and using other economies of scale, supply cooperatives bring down members' costs. Supply cooperatives may provide seeds, fertilizers, chemicals, fuel, and farm machinery. Some supply cooperatives also operate machinery pools that provide mechanical field services (e.g., plowing, harvesting) to their members. Examples include the American cranberry-and-grapefruit cooperative Ocean Spray, collective farms in socialist states and the kibbutzim in Israel.
+
+
+=== Producer cooperative ===
+Producer cooperatives have producers as their members and provide services involved in moving a product from the point of production to the point of consumption. Unlike worker cooperatives, they allow businesses with multiple employees to join. Agricultural cooperatives and fishery cooperatives are such examples.
+Agricultural marketing cooperatives operate a series of interconnected activities involving planning production, growing and harvesting, grading, packing, transport, storage, food processing, distribution and sale. Agricultural marketing cooperatives are often formed to promote specific commodities.
+Commercially successful agricultural marketing cooperatives include India's Amul (dairy products), which is the world's largest producer of milk and milk products, Dairy Farmers of America (dairy products) in the United States, and Malaysia's FELDA (palm oil).
+Producer cooperatives may also be organized by small businesses for pooling their savings and accessing capital, for acquiring supplies and services, or for marketing products and services.
+Producer cooperatives among urban artisans were developed in the mid-19th-century in Germany by Franz Hermann Schulze-Delitzsch, who also promoted changes to the legal system (the Prussian Genossenschaftsgesetz of 1867) that facilitated such cooperatives. At about the same time, Friedrich Wilhelm Raiffeisen developed similar cooperatives among rural people.
+
+
+=== Multi-stakeholder cooperatives ===
+Multi-stakeholder cooperatives include representation from different stakeholder groups, such as both consumers and workers.
+
+
+==== Social cooperative ====
+
+Cooperatives traditionally combine social benefit interests with capitalistic property-right interests. Cooperatives achieve a mix of social and capital purposes by democratically governing distribution questions by and between equal but not controlling members. Democratic oversight of decisions to equitably distribute assets and other benefits means capital ownership is arranged in a way for social benefit inside the organization. External societal benefit is also encouraged by incorporating the operating-principle of cooperation between co-operatives. In the final year of the 20th century, cooperatives banded together to establish a number of social enterprise agencies that have moved to adopt the multi-stakeholder cooperative model. In the years 1994–2009 the EU and its member nations gradually revised national accounting systems to "make visible" the increasing contribution of social economy organizations.
+A particularly successful form of multi-stakeholder cooperative is the Italian "social cooperative", of which some 11,000 exist. "Type A" social cooperatives bring together providers and beneficiaries of a social service as members. "Type B" social cooperatives bring together permanent workers and previously unemployed people who wish to integrate into the labor market. They are legally defined as follows:
+
+no more than 80% of profits may be distributed, interest is limited to the bond rate, and dissolution is altruistic (assets may not be distributed)
+the cooperative has legal personality and limited liability
+the objective is the general benefit of the community and the social integration of citizens
+those of type B integrate disadvantaged people into the labour market. The categories of disadvantage they target may include physical and mental disability, drug and alcohol addiction, developmental disorders and problems with the law. They do not include other factors of disadvantage such as unemployment, race, sexual orientation or abuse.
+type A cooperatives provide health, social or educational services
+various categories of stakeholder may become members, including paid employees, beneficiaries, volunteers (up to 50% of members), financial investors and public institutions. In type B cooperatives at least 30% of the members must be from the disadvantaged target groups
+voting is one person one vote
+
+
+==== SCIC ====
+The SCIC – Société coopérative d'intérêt collective (co-operative society of collective interest) is a type of multi-stakeholder co-operative structure introduced in France in 1982. A SCIC must have at least three different categories of members, including users and employees. Other stakeholder groups that may be represented are volunteers, public authorities and other individual or corporate supporters. Voting is on a 'one member, one vote' basis, though voting in colleges is also provided for under certain circumstances.
+SCICs must have a 'general interest' objective. Public bodies can subscribe for up to 20% of the capital. The status allows an association to convert into a co-operative without having to change its legal form. The relative rigidity of the structure, combined with the government's failure to grant tax relief, has limited its take-up.
+
+
+==== Multi-stakeholding in retailing ====
+Multi-stakeholder co-operatives also exist in the retail sector. An example is Färm, a Belgian wholefood retailing cooperative founded in 2015 which favours organic and local produce. It operates 16 shops, of which 11 are in Brussels.
+Categories of members:
+The cooperative brings together all the participants in the food chain from farm to fork, represented by six different categories of members:
+
+A Investors: the people providing the financial means necessary to achieve the enterprise's ambitions, currently four of the project's founders. This category holds 94% of the shares but only exercises 50% of the votes. The board will consider applications from people wishing to invest in excess of €25,000;
+B Managers: the members of Färm's management;
+C Workers: members of staff working at Färm, who currently number 36;
+D Sympathisers: clients and people who want to support the project without having a contractual or commercial relationship with it. Anyone can become part of this category by buying shares worth a minimum of €105 (currently 5 shares of €21), and a maximum of €5,000. As of September 2020 the cooperative was not accepting new members;
+E Suppliers and producers: there is no obligation to hold shares in order to collaborate commercially with Färm, but the enterprise finds it nice that the two groups support each other;
+F Supporters: self-employed people who have opened a store under the Färm brand.
+Governance
+Each member has one vote. The members elect the board of 10 at the annual general meeting. Each category of members has at least one board member to represent them.
+An innovative governance provision ensure that no one group of members can dominate the others. In practice board decisions are taken by consensus. In the event of a vote, each director has one vote, and except where the cooperative's registered or internal rules provide otherwise, decisions are taken by simple majority of those present or represented. But in the event of a tie, if the votes of a group of voters all belong to the same category, the votes of the other categories prevail.
+To ensure that members are committed to the cooperative's values, vision and objectives, to guarantee its long-term finance and to limit financial speculation, shares are not transferable for a period of four years.
+Members receive a 2% discount on purchases.
+
+
+==== New generation cooperative ====
+New generation cooperatives (NGCs) are an adaptation of traditional cooperative structures to modern, capital intensive industries. They are sometimes described as a hybrid between traditional co-ops and limited liability companies or public benefit corporations. They were first developed in California and spread and flourished in the US Mid-West in the 1990s. They are now common in Canada where they operate primarily in agriculture and food services, where their primary purpose is to add value to primary products. For example, producing ethanol from corn, pasta from durum wheat, or gourmet cheese from goat's milk.
+
+
+=== Other ===
+
+
+==== Platform cooperative ====
+
+A platform cooperative, or platform co-op, is a cooperatively owned, democratically governed business that establishes a computing platform, and uses a protocol, website or mobile app to facilitate the sale of goods and services. Platform cooperatives are an alternative to venture capital-funded platforms insofar as they are owned and governed by those who depend on them most—workers, users, and other relevant stakeholders. Proponents of platform cooperativism claim that, by ensuring the financial and social value of a platform circulate among these participants, platform cooperatives will bring about a more equitable and fair digitally mediated economy in contrast with the extractive models of corporate intermediaries. Platform cooperatives differ from traditional cooperatives not only due to their use of digital technologies, but also by their contribution to the commons for the purpose of fostering an equitable social and economic landscape.
+
+
+==== Volunteer cooperative ====
+A volunteer cooperative is a cooperative that is run by and for a network of volunteers, for the benefit of a defined membership or the general public, to achieve some goal. Depending on the structure, it may be a collective or mutual organization, which is operated according to the principles of cooperative governance. The most basic form of volunteer-run cooperative is a voluntary association. A lodge or social club may be organized on this basis. A volunteer-run co-op is distinguished from a worker cooperative in that the latter is by definition employee-owned, whereas the volunteer cooperative is typically a non-stock corporation, volunteer-run consumer co-op or service organization, in which workers and beneficiaries jointly participate in management decisions and receive discounts on the basis of sweat equity.
+
+
+=== Federal or secondary cooperative ===
+
+In some cases, cooperative societies find it advantageous to form cooperative federations in which all of the members are themselves cooperatives. Historically, these have predominantly come in the form of cooperative wholesale societies, and cooperative unions. Cooperative federations are a means through which cooperative societies can fulfill the sixth Rochdale Principle, cooperation among cooperatives, with the ICA noting that "Cooperatives serve their members most effectively and strengthen the cooperative movement by working together through local, regional and international structures."
+
+
+==== Cooperative union ====
+A second common form of cooperative federation is a cooperative union, whose objective (according to Gide) is "to develop the spirit of solidarity among societies and... in a word, to exercise the functions of a government whose authority, it is needless to say, is purely moral." Co-operatives UK and the International Cooperative Alliance are examples of such arrangements.
+
+
+==== Cooperative political movements ====
+
+In some countries with a strong cooperative sector, such as the UK, cooperatives may find it advantageous to form political groupings to represent their interests. The British Co-operative Party, the Canadian Cooperative Commonwealth Federation and United Farmers of Alberta are prime examples of such arrangements.
+
+
+===== UK =====
+The British cooperative movement formed the Co-operative Party in the early 20th century to represent members of consumers' cooperatives in Parliament, which was the first of its kind. The Co-operative Party now has a permanent electoral pact with the Labour Party meaning someone cannot be a member if they support a party other than Labour. Plaid Cymru also run a credit union that is constituted as a co-operative, called the 'Plaid Cymru Credit Union'. UK cooperatives retain a strong market share in food retail, insurance, banking, funeral services, and the travel industry in many parts of the country, although this is still significantly lower than other business models.
+Former leader of the British Labour Party Jeremy Corbyn has publicly expressed support for worker cooperatives.
+
+
+== Working conditions ==
+Cooperatives have been traditionally seen as an alternative to the traditional business model, in which a capitalist has the private ownership of the monetary capital and of the means of production and workers have to sell their labor force to the capitalist to earn a salary.
+Cooperatives are often said to offer better working conditions than regular firms. This is demonstrated by the fact that cooperatives have a lower turnover rate (rate of workers leaving a firm) compared to regular firms. However, cooperatives do not always show improved working conditions compared to traditional businesses. In fact, the different nature of cooperatives imply that the nature of the working conditions within the cooperatives is also different.
+According to Kunle Akingbola, working conditions are "the core elements of work  relationships determined by the social, psychological, and physical factors that influence the workplace and the interaction that employees experience at work" and "typically include the nature of employment, working hours, job characteristics, compensation, work interactions, physical work environment, and written and unwritten work expectations".
+According to Pam a Pam, a cooperative has good working conditions when it has stable contracts, working days consistent with the volume of tasks, and offers a higher salary than the established in the collective agreement of the sector.
+
+
+=== Wages ===
+In 2021, Hanson and Purushinkaya performed a survey on working conditions of cooperatives in the US, in which cooperativists expressed that they were making wages above the minimum for good living conditions. According to the report, they received, on average, 3.52 $/hour more than at their previous job.
+Research shows that, in the US, the 77% of the cooperatives have a 1:1 or 2:1 top-to-bottom pay ratio, whereas the average large corporation in the US has a CEO-to-worker pay ratio of 303:1. This means that in worker's cooperatives there is much more distribution of wealth between the members of the cooperatives, which means that workers that are at the bottom of the organizational pyramid make more money than workers that are at the bottom of the pyramid but that are in conventional firms.
+Research also shows that the effect of output price changes on wage variations is positive for both conventional firms (CF) and cooperatives (WC), but larger in WCs than in CFs. This means that, because the distribution of wealth is much greater in WCs, an increase in the benefits of a WC usually is reflected in a proportional increase in the wages, whereas in CF this increase in the wages is much smaller (since the wealth is accumulated by people in the higher position, or is saved for new corporate investments).
+However, the fact that the wealth is distributed between the already hired workers has the downside of preventing the cooperatives of hiring more workers, thus having a rate of creation of new jobs that is lower than CF. However, in WC changes on output prices does not translate in more employment, whereas in CF it does (CF create less employment).
+Research shows that in times of crisis, employment and wages are more protected in WC than in conventional firms; since the focus of WCs is on protecting employment and because the workers that control the WC do not want to lose their jobs, WC are generally more willing to protect them. This does not happen so much in CF, where the focus is on maintaining the margin of benefits and not employment, which is considered a cost in times of crisis.
+Research also shows that the difference of wages between workers hired by the cooperative and workers that are members of the cooperative is small (a worker can work for the cooperative but not be a member of it). Two explanations have been proposed: the first one is that the spirit of cooperativism also extends to hired workers; and the second that sometimes employees are needed for highly skilled jobs, which provides them with strong bargaining power enabling them to defend their employment positions and to compensate for their lack of formal control rights over the firm.
+
+
+=== Stability of contracts ===
+The formation of cooperatives has been used many times to create jobs in economically depressed sites. The communalization of wealth in poor areas often allows them to make the first investment in capital, which allows them to set the cooperative and start having benefits, thus producing an inflow of wealth in the community, which then is redistributed within the members of the cooperatives. This scheme of using cooperatives to create wealth and job opportunities in depressed areas has been famously used, for example, by the Mondragon Corporation, which has provided long term stable jobs for the population of Mondragon (Euskadi) since the mid 50s.
+The focus that cooperatives have in protecting jobs is reflected in research. Hanson and Prushinkaya have showed that, in the US, turnover rates are lower in WC than in CF (the turnover rate is the percentage of employees leaving a company within a certain period of time). Jobs at workers' cooperatives tend to be longer term.
+There are several explanations for this: higher compensation and wages for workers; higher job satisfaction; greater adaptability to crisis and economic difficulties, etc.
+Research shows that WC show higher adaptability to crisis and economic hardships than CF. During negative demand shocks, WCs contain employment drop and allow a greater downward wage adjustment (the workers themselves decided to lower their own wages to keep the jobs). Another adaptability mechanism is the mutual support between WCs. The case of Cooperativa Mondragón is paradigmatic in this sense: during the 80s, some cooperatives were experiencing financial difficulties, and Mondragon redeployed workers in the struggling co-operatives to ones that were better off. Those who were not redeployed were given income assistance that equaled 80% of their salary. The central control structure of Mondragon allowed for this to happen. This would have been unlikely to happen in unorganized and autonomous co-operatives. This same scheme to save employment prevented Fagor cooperative workers from losing their jobs when Fagor went bankrupt: they were relocated to other cooperatives of the Mondragon group.
+
+
+=== Workload ===
+Overworking due to the need for competitiveness applies to cooperatives as well. Some authors argue that the limitation of working hours in a cooperative should only apply for non-members workers of the coop (hired workers), whereas member workers should be allowed to work as much as they want, allowing the cooperative to collectively take those kind of decisions if they only apply to member workers.
+
+
+=== Internal democracy ===
+According to Pam a Pam, having internal democracy is not limited to having communal spaces of debate and decision making, but also ensuring that the participation in those spaces is not limited by issues of positionality, privilege, or rank.
+For example, one of the basic issues with internal democracy is to make sure that every worker has access to all the information of the cooperative, and that is aware of every debate that is happening within the cooperative. It is important to make sure that all important decisions are taken in formal spaces, and avoid using informal spaces in which not everyone might be present to take those decisions.
+This issue of having access and voice in the formal spaces for decision making of the cooperative becomes more important the bigger the cooperative gets. Research shows that,  in larger cooperatives, member participation is lower than in smaller cooperatives, and there is a deterioration of internal democracy and working conditions for cooperative members and employees.
+Mark Kaswan describes William Thompson's theory concerning cooperatives as: "[T]he cooperative structure alters the socio-economic relations of their members, aligning their interests with one another on the basis of a strong principle of equality. It is this alignment of interests on the basis of equality that gives cooperatives their strongly democratic character." According to Kaswan himself, internal democracy is mostly defined by the type and the size of the cooperative.
+Mark Kaswan argues that the type of activity developed by a cooperative is one of the main factors that determines how democratic it is. For example, in worker cooperatives, the workers spend a lot of time in contact with each other, having a high level of both interaction and interdependency. In consumer's cooperatives, both the frequency and the intensity of the encounters is lower, thus reducing their democratic participation.
+The size of the cooperative is considered to be one of the most important factors for internal democracy. For example, Robert Dahl argues that, as paraphrased by Kaswan, "assembly-style direct democracy can only effectively function in fairly small organisations". Kaswan states: "Increasing size also increases the complexity of management. [...] This can lead to the problem of 'managerialism', or the development of powerful officials whose concerns and interests may be different from those of common members." If the manager is already a worker-member of the cooperative, the problem might be resolved; but if the manager is hired specifically for managerial purposes, some hierarchies can arise. The contradiction with the issue of size comes with the social impact of the cooperative: greater size usually means greater social impact, but also has a toll on internal democracy.
+
+
+==== Suggestions to improve internal democracy within a cooperative ====
+
+Facilitation of all meetings/assemblies is rotated among all members of the coop; training and coaching in facilitation will be provided.
+Permanent and external facilitation (from a specialized process work paradigm external coop) on emotions, conflicts of power, informal hierarchies.
+Any decision made by a coop member can be recalled if 50% of coop members request it.
+Create a space where members can propose improvements and a committee reviews and prioritizes them.
+Revise periodically how the flow of information goes, and see if there are individuals or segments of the coop excluded from this flow, for whatever reason (lack of proper access, unclear messages, technical jargon, excessive workload, etc.), and define collective measures to define what is relevant information (and what is not) and guarantee a full access to it.
+
+
+=== Legal status of cooperative workers: employees or employed? ===
+There is a legal debate on whether to consider being a member of a cooperative as a formal worker or not. For instance, it has been claimed that "the relationship of the worker-member with their cooperative should be considered as distinct from that of conventional wage-based dependent work and self-employed work". Some authors argue that cooperatives should have their own legal status differentiated from the legal status of a conventional firm, in order for them to get recognition and adapt the law to its unique features.
+In Argentina, lawyers have debated whether the relationship between members in the worker cooperative also constitute an employment relationship to which the rules governing pais dependent work are applicable. Some say yes, mainly based on the argument that participation in the management and direction is not incompatible with the condition of subordination and that the individual is subordinated to the majority vote. However, other interpretations say that the link between members and the worker cooperatives is not a labor relation. In many law cases it has been widely adopted that the size of the cooperative is decisive for this question since the personal contribution of members is more important in small cooperatives.
+In the US, the Internal Revenue Service determines whether a worker is an independent contractor by considering the degree that the worker:
+
+Receives less extensive instructions on the work to be done, but not how it should be done;
+Receives training from the business about required procedures and methods;
+Has significant investment in the work;
+Is not reimbursed for some business expenses;
+Has the opportunity to realize a profit or incur a loss;
+Receives benefits from the business;
+Has a written contract that shows the relationship the worker and business intend.
+The following factors are generally considered when determining whether an employment relationship exists under the FLSA:
+
+Is the worker performing work that is an integral part of the business?
+Do the worker's managerial skills affect the worker's opportunity for both profit and loss?
+What kinds of investment does the worker make in facilities and equipment compared to the employer?
+Does the worker exercise independent business judgement and initiative?
+Is the relationship with the employer indefinite, which suggests an ongoing employee relationship?
+What kind of control does the employer have about how the work is performed, pay amounts, hours worked, and whether the worker is free to also work for others and hire helpers?
+
+
+=== The problem of labour fraud ===
+However, the recognition of cooperatives as different entities than conventional firms sometimes creates a legal void that has been used regularly for labour fraud. For example, in Spain, cooperatives are not subjected to the sectoral collective agreements of each sector. In some cases, businesses take the form of a cooperative to avoid being subjected to collective agreements gained through trade unionism and syndicalism, thus being able to pay lower or have worse labor conditions than the ones stipulated in the collective agreement, while at the same time retaining the same power and salary pyramids.
+Many cooperatives are accused of being instruments to be used to lay off workers, to out-source and to exploit workers and small producers. The "cooperativatisation" of both public and private sector activities in some countries has been accompanied by a deterioration of working conditions. This is due both to the perversion of the cooperative form and to weak labour regulations applied to these kinds of work forms.
+Usually, the law establishes that a cooperative is required to have a minimum percentage of workers-owners (usually 33%). Cooperatives can hire workers that are not part of the cooperative, but the law usually establishes a maximum amount of time that they can work in the cooperative without being members of it; after that, cooperatives are legally obliged to make those workers part of the cooperative. Some cooperatives commit labour fraud because they either have a smaller percentage of cooperativised workers than mandated by law, or they have people working without becoming members for more time than legally allowed.
+In Spain, since the law does not subject cooperatives to the collective agreements or to the social security regulations, the following scheme has been used: if a business wants to pay less than what the sector agreement of its economic sector establishes, the business can create a cooperative, which is not subjected to it, hire all the workers using that cooperative, and then outsource the activity to this cooperative. In this way, instead of having to hire all the workers directly (thus having to pay the Social Security fees and the minimum wage established by the collective agreement), the company only has to use the cooperative as a shell company, and in this way it does not have to pay according to the agreement, and since the workers are hired by the cooperative and not by the company, they are not subject to the either the sector agreement or social security. This is the case, for example, of Spain's Servicarne Coop, hired by meat industries such as Coren and Sada, which according to the Audiencia Nacional "does not carry out a cooperative activity" and "has not been established with the purpose of fulfilling the objectives set forth in the Cooperatives Law [...] but only with the aim of obtaining certain benefits that are linked to it, creating a merely formal appearance of a cooperative", for example, to avoid paying the Social Security fees.
+Potential solutions to this fraudulent usage of workers' cooperatives have been suggested, such as covering the legal void that allows this to happen, creating cooperative federations that ensure the cooperative identity and its regular functioning, etc.
+
+
+=== Suggestions to improve workers' conditions within a cooperative ===
+
+Flexible scheduling.
+Remote work for all staff, with the possibility to do the full working week that way, but also putting some mandatory in-person moments for everyone (conflict resolution, first meetings with new employees, farewell for leaving employees, conflict resolution, strategically and/or politically relevant and/or difficult meetings, celebrations in the coop).
+All time on worker cooperative business is paid.
+Equal pay for all positions (assuming a balanced share of responsibility and job complexity).
+40 days of vacation (at least).
+Safe and regenerative working place. Applications based on biomimicry and biophilia to promote natural, healthy and diverse environments (different places for calmness, meditation, creativity, stimuli, team bond generation, individual reflection, exercise, connection with nature, water, plants, art, etc.).
+
+
+== Economic performance ==
+
+
+=== Job productivity ===
+In general terms, research shows that productivity in worker's cooperatives is higher than in conventional firms. For example, Fakhfakh et al. (2012) show that in several industries, conventional firms would produce more with their current levels of employment and capital when they adopted the employee-owned firms' way of organising.
+One explanation is that commitment to the cause causes more productivity. The fact that employees can participate in decision-making motivates them to be more involved with the objectives of the cooperative.
+Another explanation is that the collective work environment enhances job satisfaction, thus augmenting productivity. Research has shown that collectivists working in simulated collectivist cultures do in fact produce more cooperative behavior than do individualists (i.e., those low in collectivism) in these cultures. Furthermore, it has been argued that collectivists' ideological commitment to the group members yields higher levels of motivation. Consequently, in addition to making turnover less likely, high collectivism in the WC environment should translate to high performance.
+
+
+=== Economic stability ===
+
+Capital and the Debt Trap reports that "cooperatives tend to have a longer life than other types of enterprise, and thus a higher level of entrepreneurial sustainability". This resilience has been attributed to how cooperatives share risks and rewards between members, how they harness the ideas of many and how members have a tangible ownership stake in the business. Additionally, "cooperative banks build up counter-cyclical buffers that function well in case of a crisis," and are less likely to lead members and clients towards a debt trap (p. 216). This is explained by their more democratic governance that reduces perverse incentives and subsequent contributions to economic bubbles.
+
+
+==== In Europe ====
+A 2012 report published by CICOPA (Europe) showed that in France and Spain, worker cooperatives and social cooperatives "have been more resilient than conventional enterprises during the economic crisis".
+A 2013 report by ILO concluded that cooperative banks outperformed their competitors during the financial crisis of 2007–2008. The cooperative banking sector had 20% market share of the European banking sector, but accounted for only 7 percent of all the write-downs and losses between the third quarter of 2007 and the first quarter of 2011. Cooperative banks were also over-represented in lending to small and medium-sized businesses in all of the 10 countries included in the report.
+A 2017 report published by the Office for National Statistics found that, in the UK, the rate of survival of cooperatives after 5 years was 80 percent compared with only 41 percent for other enterprises. A further study found that after 10 years, 44 percent of cooperatives were still in operation, compared with only 20 percent for other enterprises.
+
+
+==== In North America ====
+
+
+===== In the United States of America =====
+
+In a 2007 study by the World Council of Credit Unions, the five-year survival rate of cooperatives in the United States was found to be 90% in comparison to 3–5% for traditional businesses. Credit unions, a type of cooperative bank, had five times lower failure rate than other banks during the financial crisis and more than doubled lending to small businesses between 2008 and 2016, from $30 billion to $60 billion, while lending to small businesses overall during the same period declined by around $100 billion. Public trust in credit unions stands at 60%, compared to 30% for big banks and small businesses are five times less likely to be dissatisfied with a credit union than with a big bank.
+
+
+===== In Canada =====
+
+A 2010 report by the Ministry of Economic Development, Innovation and Export in Québec found the five-year survival rate and ten-year survival rate of cooperatives in Québec to be 62% and 44% respectively compared to 35% and 20% for conventional firms. Another report by the BC-Alberta Social economy Research Alliance found that the three-year survival rate of cooperatives in Alberta to be 81.5% in comparison to 48% for traditional firms. Another report by the aforementioned Research Alliance found that in British Columbia, the five-year survival rates for cooperatives between 2000 and 2010 to be 66.6% in comparison to conventional businesses that had 43% and 39% in the years 1984 and 1993 respectively.
+
+
+== Cooperative financing ==
+The issue of finance in cooperativism is one of the most importance. Since the failure rates of cooperatives are lower than for conventional firms, the financing schemes used by them are at least as successful as for conventional firms.
+One of the success factors lies in the fact that cooperatives use a different arrange of financing schemes
+
+
+=== Self financing (social base) ===
+According to Gianluca Salvatore and Riccardo Bodini, self-financing schemes include the act and the practice of using one's own capital to provide funding for an enterprise. The main advantage of self-financing is that it sets the cooperative free from outside influence and debt, but the capacity to expand the coop might be constrained by the lack of capital.
+
+
+==== Capital by members ====
+
+This is the main form of financing in cooperatives. Usually, workers cooperatives do not only socialize the labor force, but also a part of the economical wealth of each member, that is put in a pool together with the rest of contributions, and that constitutes the capital of the cooperative. Usually, future members have to socialize a certain amount of money to the cooperative before they can become formal members.
+The most common way to do it all at once before joining the cooperative, but other financing schemes have been proposed. For example, some cooperatives do not ask for an initial investment, but rather require workers to work for a certain period of time, while retaining a percentage of the wage, until the worker has paid all the requirements and can become a formal member of the cooperative.
+Usually, when the worker decides to leave the cooperative, all the money invested will be returned to the worker.
+The amount required will vary depending on a lot of factors, such as for example:
+
+The type of cooperative: if it is a big industrial cooperative, the amount required will probably be higher than for a small services cooperative.
+The current budget of the cooperative: if a cooperative is already economically well established, probably the requirements will be lower. However, if the cooperative is still young and still requires a lot of investments, the initial requirement will be higher.
+
+
+==== Social loans ====
+Occasionally. if the situation requires it, workers of the cooperative can decide to put some more money as an investment, which can later be returned.
+
+
+=== Cooperative resources ===
+
+
+==== Gross profits ====
+If the cooperative is based on selling products or services, a part of the finance comes from the profits that they get from their activities.
+
+
+==== Proceeds from assets ====
+A cooperative can have different assets from which it can get money without having to sell those assets. For example, if the cooperative has money in the bank, and the bank gives interests, it can generate some more money. Or for example, if the cooperative owns a place and rents it, it can get some more money out of it.
+
+
+==== Balance sheet assets ====
+Assets can also be converted to money. For example, if the cooperative owns shares of another company, they can sell them and turn them into liquidity. Or if the cooperative owns a building, it can sell it. Different types of assets can be converted to liquidity with different levels of ease: for example, selling shares is easier and less time-consuming than selling land, which might take months. Thus, shares are much more easily converted to liquidity than land.
+
+
+=== Financial grants ===
+Financial grants, that are awards typically given by foundations or governments, can also be a source of financiation for cooperatives. They differ from loans in the fact that they under most conditions they do not have to be paid back. Some grants have waiting periods before the grantee can take full ownership of them.
+
+
+==== Donations ====
+
+They are usually in the form of cash, but can also be in the form of other assets. Donations are specially recommendable if the cooperative has a strong aim for social impact and mutual aid, in which case individual or collective donors might be interested in donating.
+
+
+==== Crowdfunding ====
+
+Crowdfunding is a way of sourcing money for a project by asking a large number of contributors to individually donate a small amount to it. In return, the backers may receive token rewards that increase in prestige as the size of the donation increases.
+A successful example of how to finance a workers cooperative with a crowdfunding is the case of the cooperative of the Collettivo di Fabbrica GKN – Insorgiamo!, who, after occupying and taking back the control of a GKN factory in Florence, they began a crowdfunding campaign to get the initial money needed to create a cooperative that included all the workers that previously worked there. They used that money to make the initial investments to reconvert the factory to manufacture bicycle parts, with a sustainability goal.
+
+
+==== Foundations and Governments financing ====
+Especially for SSE cooperatives, one way to get finance is getting grants from governments or private organizations. The latter are usually related to philanthropy. The difference with other types of grants is that they do not require any previous conditions of challenges that need to be achieved.
+
+
+==== Challenge grants ====
+
+Challenge grants are funds disbursed by governments, foundations and trusts on completion of challenge requirements. The challenge refers to the actions or results that must be achieved before money is released. The challenge could require a new solution to an existing problem that had been ignored. Additional requirements could be specified, from programme certification to member participation. An example of a challenge grant would be money that is given by a bank if the cooperative increases membership by a certain amount.
+
+
+=== Lending ===
+Lending or debt instruments provide borrowers with funding in exchange for repayment of this funding along with interest, based on predetermined timeframes and interest rate terms. The provision of funding might require guarantees.
+
+
+==== Concessional/Flexible Loans ====
+Concessional and flexible loans include special features such as no or low interest rates, extended repayment schedules, and interest rate modifications during the life of the loan.
+
+
+==== Crowdlending ====
+
+Crowd lending, also known as peer-to-peer lending, is the practice of lending money through online services that directly match lenders with borrowers. Lenders can earn higher returns compared to savings and investment products offered by banks, while borrowers can borrow money at lower interest rates.
+
+
+==== Social bonds ====
+For example, when the bank provides sums of money as donations or financing at competitive conditions in support of initiatives that favour social innovation.
+
+
+=== Equity investments ===
+
+An equity investment is money that is invested in a company by purchasing shares of that company in the stock market. Some cooperatives use that as a source of money. In cooperatives equity investments are usually not used, since it is something that is generally believed to go against the principles of cooperativism (the Rochdale Principles themselves limit the equity investments).
+
+
+==== Direct equity investment ====
+Direct capital contribution to a project without the guarantee of repayment; the return on a direct equity investment will depend on the performance of a project/company over the investment period.
+
+
+==== Financing members ====
+Especially at the start of a cooperative, this is used in some cases. It involves a person or a legal entity that, with a financial contribution, favours the establishment of a company and the carrying out of the social activity. Typically, they make part of the initial investment, and once the company is established, they resell all or part of the subscribed shares.
+
+
+==== Other forms of equity investments ====
+Other forms of equity investments used by cooperatives are: equity funds/mutual fund, quasi-equity, equity crowdfunding, social venture capital/impact investing, patient capital, etc.
+
+
+=== Redistribution of profit ===
+Through all these financial means, a cooperative can create a financial profit. The next set of critical financial decisions becomes how to distribute that profit. There are different forms of redistributing the benefit.
+
+
+==== Capital reinvestment ====
+Usually, growing the business is not the main goal of a cooperative (the main goal is to redistribute profit among its members), but sometimes it is necessary to reinvest a part of the profits in the form of new capital, which will allow the cooperative to expand its operations and increase profit in the future. This is especially true during the initial steps of the cooperative, in which its operations have to grow to the point in which they have regained the initial capital investment. The capital reinvestments are decided collectively through the democratic mechanisms that a cooperative has.
+
+
+==== Patronage refund ====
+Patronage refunds are the distribution of profits to the members of the cooperative, who have previously invested money in the form of capital by members and social loans.
+
+
+==== Dividends ====
+
+The Rochdale principles state that cooperatives should have limited return on equity investments, so its usual for most of the cooperatives to not use equity investments, and, if they do, pay few dividends to the shareholders. The main reason for which they do that is that distributing profits as dividends reduces the potential amount of patronage refunds.
+
+
+==== Unallocated Retained Earnings, or "cushion fund" ====
+Part of the benefits of a cooperative must be saved as a safe fund, which will allow the cooperative to face unexpected situations and crises if they appear.
+
+
+=== Redistribution of losses ===
+In case that a cooperative experiences a loss, there are alternatives to handle them in the most efficient way possible.
+
+
+==== Make use of the "cushion funds" ====
+If a cooperative has had profits at some point, it should have some savings, which it can use in times of economic losses. In this way, they can absorb the losses simply with the money they already had, not having to affect neither wages, employment, or stocks.
+
+
+==== Allocate the losses to the members ====
+This is one of the most common ways to allocate the losses. Making this decision involves the workers deliberating through the stablished democratic mechanisms on how are the losses going to be distributed among membership.
+We have already seen that, in times of economical hardships, cooperatives are more willing to reduce their wages rather than reduce employment, whereas conventional firms would rather fire some people and keep the same wages for the rest of them.
+
+
+== Job satisfaction ==
+Castel et al. (2011) performed research on job satisfaction in workers cooperatives, and said that job satisfaction is high in workers cooperatives and that social economy values are a source of job satisfaction. Within those types of organizations there are several intrinsic and extrinsic factors that perform in a very characteristic manner, and which are key for job satisfaction.
+The intrinsic factors are characteristics of the work itself, and Castel et al. proposes that cooperatives create job satisfaction because they usually involve:
+
+Reducing the gap between the conception and execution of tasks
+Increasing task significance (making work meaningful)
+Developing workers' skills
+Seeking to benefit the global environment and society while involving everyone
+The extrinsic factors that make work in coops satisfying are:
+
+A higher level of shared business culture
+Increased confidence in elected management
+Greater attention to working and employment conditions following the increased social responsibility of the company
+Collective decision-making.
+However, Castel et al. also points out that not all of the characteristics of workers cooperatives increase job satisfaction. In fact, they point out that some characteristics are perjudicial for mental health, such as the perceived increase in work pressure (some workers feel that since they are the owners of their means of production, they are pressured into working more by other colleagues), or the ambiguity of the relationship between other workers (everyone being in the same decision-making position can create conflicts among workers).
+Hanson and Prushinkaya (2021) conducted a survey that found similar results: they found that, in general, cooperativists state high job satisfaction, autonomy and voice, and professional development. They also found that the majority of individual respondents described their job security, job satisfaction, work effort, and the economic stability of the company as somewhat or much better than what they experienced in their last job. Also, a majority reported the quality of supervision, feedback, and training was superior in their co-op job. Their research also showed that within co-ops, training and skill-building matters for democratic governance: workers who received cooperative-specific training participated more in workplace decision making.
+Another research also shows that worker cooperatives are still beneficial for job satisfaction even if their activity is in no sense related to the social and solidarity economy or has no social purpose at all. According to Hyungsik Eum this is because "in worker cooperatives, worker-members have a sense of ownership of their own jobs and workplaces".
+
+
+== Women in cooperatives ==
+
+Since cooperatives are based on values like self-help, democracy, equality, equity, and solidarity, they can play a particularly strong role in empowering women, especially in developing countries. Cooperatives allow women who might have been isolated and working individually to band together and create economies of scale as well as increase their own bargaining power in the market. In statements in advance of International Women's Day in early 2013, President of the International Cooperative Alliance, Dame Pauline Green, said, "Cooperative businesses have done so much to help women onto the ladder of economic activity. With that comes community respect, political legitimacy and influence."
+However, despite the intended democratic structure of cooperatives and the values and benefits shared by members, due to traditional gender norms on the role of women, and other instilled cultural practices that sidestep attempted legal protections, women and other disadvantaged groups suffer a disproportionately low representation in cooperative membership around the world. Representation of women through active membership (showing up to meetings and voting), as well as in leadership and managerial positions is even lower.
+Some of the patriarchal behaviors that can be found in cooperatives involve the formal structures and hierarchy that conform} the cooperative:
+
+Non-open and non-democratic decision-making: democratic spaces are often co-opted by white men, who occupy most of the space, and tend to monopolize the leadership of those democratic spaces. This can result in women having less voice in the cooperative decision making, thus having their needs underrepresented.
+Exclusionary leadership: in some occasions, the management of cooperatives involves electing leaders for specific purposes. The under-representation of women in the democratic spaces can result in them having a smaller chance of being elected as representatives or leaders. Statistics show that women are still underrepresented in responsibility jobs in co-ops.
+Interpersonal relationships: patriarchal behavior can also be found in male colleagues, who often, for example, act in patronizing ways, or have distrust in women's capacity to perform certain jobs.
+Lesser wages for non-binary people: non-binary people tend to earn less money than cisgender, even in co-ops.
+The strongest manifestations of machismo in cooperatives are: 
+
+Manifestations of machismo that belittle, offend and detract from security and autonomy. They involve a higher level of degradation.
+Sexual violence: unfortunately, within workers cooperatives sexual violence happens sometimes. It is often hidden by the false supposition that in cooperatives everything is shared and done collectively, which might create an environment that might hide sexual violence. For example, under such a climate of trust and confidence, inappropriate pick-up lines, or sexist joke, could inadvertently pass as normal. In the most extreme cases, sexual aggressions or even rape is wrongly justified under the excuse of having trust and confidence in each other.
+
+
+== Cooperatives in socialist thought ==
+
+
+== Cooperatives in popular culture ==
+As of 2012, the number of memberships in cooperatives reached one billion, and so the organizational structure and movement has seeped into popular culture.
+However, in comparison with the number of co-operatives, they are rarely the subject of literature. Among these, Ken Follett mentions their role in working-class life during World War I in Fall of Giants (2010), the first volume of his Century Trilogy:
+
+"Where's our mam?"
+"Gone down the Co-op for a tin of jam."
+The local grocery was a co-operative store, sharing profits among its customers. Such shops were popular in South Wales, although no one knew how to pronounce Co-op, variations ranging from "cop" to "quorp".
+Less seriously, in Murder in the Collective, Barbara Wilson sets a murder mystery among radical printing collectives in Seattle, while Frances Madeson's 2007 comic novel Cooperative Village is set in the eponymous housing co-operative in New York.
+In the HBO drama television series The Wire, several drug dealers create a democratic alliance called the New Day Co-Op with the interests of cutting back on violence and increasing business.
+Co-opoly: The Game of Cooperatives is a popular board game by TESA Collective played around the world that challenges players to work together to start and run a cooperative and overcome major hurdles.
+Cooperatives feature prominently in the Martian economy in Kim Stanley Robinson's Mars trilogy and in a speculative future Earth economy in his novel The Ministry for the Future.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Bibliography ==
+
+
+== External links ==
+
+Venezuela's Cooperative Revolution from Dollars & Sense magazine
+United Nations 2012 International Year of Cooperatives (IYC)
+
+Document similaire: International Cooperative Alliance (Similarité: 0.5882)
+The International Cooperative Alliance (ICA) is a non-governmental cooperative organization  founded in 1895 to unite, represent and serve cooperatives worldwide. The ICA is the custodian of the internationally recognised definition, values and principles of a cooperative in the ICA Statement on the Cooperative Identity. The ICA represents 315 co-operative federation and organisations in 107 countries.
+The ICA provides a global voice and forum for knowledge, expertise and coordinated action for and about cooperatives. The members of the ICA are international and national cooperative organisations from all sectors of the economy, including agriculture, banking, consumer, fisheries, health, housing, insurance, industry and services. The ICA has members from more than 100 countries, and it is estimated to represent one billion individuals worldwide. Cooperatives are values-based businesses owned by their members. Whether they are customers, employees or residents, the members get an equal say in the business and a share of the profits.
+At the United Nations, the ICA participates in high-level discussions of relevance to cooperatives through its consultative status with the United Nations Economic and Social Council (ECOSOC), which it has had since 1946, the first non-governmental organisation to do so. The ICA also has individual partnership agreements with the Food and Agriculture Organization of the United Nations (FAO), the International Labour Organization (ILO), and participates in the UN Inter-Agency Task Force on Social and Solidarity Economy (UNTFSSE). Since 1971, the ICA has been a founding member of the Committee for the Promotion and Advancement of Cooperatives (COPAC), a UN multi-stakeholder partnership of global public and private institutions that promotes and advocates for people-centred, self-sustaining cooperative enterprises, guided by the principles of economic, social and environmental sustainable development.
+The ICA has been participating in the G20 Engagement Groups since 2014, having representatives in the taskforces and contributing actively to the discussions and preparation of documents. In 2020, the ICA created the Cooperative G20 Working Group to bring the cooperative movement's voices to the G20 Engagement Groups through their contribution in drafting policy papers, background materials, and advocacy documents to show their involvement and contribution in resolving issues addressed by the G20 Summit.
+In 2006 the ICA published the first major index of the world's largest cooperative and mutual enterprises, the ICA Global 300, which demonstrated the scale of the cooperative movement globally. Since 2011, together with European Research Institute on Cooperative and Social Enterprises (EURICSE), the ICA Global 300 has evolved into the World Cooperative Monitor, a project designed to collect robust economic, organizational, and social data about cooperatives worldwide. The publication reports on the world's largest cooperatives and mutuals, or groups of coop­eratives and mutuals, including rankings of the Top 300 and sectoral analysis. Since 2018, each edition has also a thematic focus, in 2022 it was dedicated to the digitalization and the cooperative identity.
+The ICA created in 2018 the International Cooperative Entrepreneurship Think Tank (ICETT) to boost cooperatives' entrepreneurial performance. Through innovative ideas, research, education, and cooperation, its members address the global challenges that cooperative enterprises are facing today.
+On the first Saturday of July each year, the ICA coordinates celebrations of International Day of Cooperatives.
+In December 2009, the United Nations declared 2012 as the International Year of Cooperatives.
+The ICA launched its 2020-2030 Strategic Plan, named “A People-Centred Path to a Second Cooperative Decade”, based on the earlier Blueprint for a Cooperative Decade, and providing strategic guidance to the ICA and its bodies for the 2020-2030 decade. This Strategic Plan is based on 22 months of preparatory work, including two surveys with the whole ICA membership, two consultations with the ICA bodies (Regions, Sectoral Organizations, Thematic Committees and Youth Network) and several days of meetings and written consultations within the ICA Board.
+
+
+== Structure ==
+The ICA consists of a 20-member governing board, a General Assembly, four regions (one each for Africa, Europe, Asia-Pacific, and Americas), eight sectoral organisations and five thematic committees.
+
+
+=== General Assembly ===
+The General Assembly is one of the ICA's governing bodies. It is the highest authority of the ICA, constituted of representatives from its member organisations. It is convened at least one a year with a possible extraordinary assembly being held if the Board were asked by more than one-fifth of the members,or by members who represent at least one-fifth of the total number of votes, or by the statutory auditor.
+
+
+=== ICA Regional Organisations ===
+ICA Asia-Pacific - based in New Delhi, India
+ICA Africa - based in Nairobi, Kenya
+Cooperatives Europe - based in Brussels, Belgium
+ICA Americas - based in San José, Costa Rica
+
+
+=== Sectoral Organisations ===
+International Cooperative Agricultural Organisation (ICAO)
+Consumer Cooperatives Worldwide (CCW)
+International Cooperative Fisheries Organisation (ICFO)
+International Health Cooperative Organisation (IHCO)
+International Cooperative Housing Organisation (ICA Housing)
+International Cooperative and Mutual Insurance Federation (ICMIF)
+International Organisation of Industrial, Artisanal and Service Producers' Cooperatives (CICOPA)
+International Cooperative Banking Association. (ICBA)
+
+
+=== Thematic Committees ===
+
+
+==== Committee on Cooperative Research ====
+The ICA Committee on Cooperative Research (ICA CCR) is a bridge between academic research and the cooperative world. The ICA CCR aims to raise awareness of cooperative research, particularly to managers and cooperators so that it can be applied effectively to current cooperative issues. One of the main activities of the CCR is the organisation of research conferences at the global and regional levels, including the biennial Global Research Conference. 
+
+
+==== Cooperative Law Committee ====
+The Cooperative Law Committee gives independent advice to the ICA on cooperative law, broadly defined to include all legal rules that shape the cooperative institution and regulate its operations. 
+
+
+==== International Cooperative Development Platform ====
+The International Cooperative Alliance Development Platform (ICADP) is the ICA Committee that brings together cooperative organisations active in international development. Its mission is to promote the cooperative model within international development policies and programs, as well as to enhance collaboration across regions both inside and outside the cooperative movement.ICADP serves as a forum for discussion and exchange of experiences and knowledge on international cooperative development. 
+
+
+==== Gender Equality Committee ====
+The Gender Equality Committee of the ICA (ICA GEC) is a catalyst for change to make gender equality a reality in all cooperatives and serves as a forum for the discussion and exchange of experiences and ideas on issues related to gender equality. It promotes equality between women and men and gender integration in the cooperative movement and society. 
+
+
+==== ICA Youth Committee (constituted 2021) ====
+The ICA's Youth Committee aims to help young cooperators from different countries to connect, share experiences and ideas, as well as to provide an environment where young cooperators can learn more about the wider cooperative movement. Involving young people from outside the movement through education and support is a key focus of the work of this network. The network also looks to empower young cooperators to engage with the rest of the movement to both raise the profile of youth issues and to ensure the youth perspective is presented during wider discussions.
+
+
+== Statement on the Cooperative Identity ==
+The Statement on the Cooperative Identity, promulgated by the ICA, defines and guides cooperatives worldwide. It contains the definition of a cooperative as a special form of organization, the values of cooperatives, and the currently accepted cooperative principles (the Rochdale Principles) that direct their behavior and operation. The Statement with the latest revision of the cooperative principles was adopted by ICA in 1995. 
+
+
+=== Consultation on the #CoopIdentity ===
+The 33rd World Cooperative Congress, with the theme Deepening Our Cooperative Identity, initiated a consultative process to explore cooperators' understanding of the Statement and to examine how well it has stood the test of time. 
+Following on from the Congress, the ICA Board set up the Cooperative Identity Advisory Group (CIAG) to continue the reflection and consultation on the cooperative identity. The Group comprises 23 persons from all ICA regions and is chaired by ICA board member Alexandra Wilson from Canada.
+On 13 May 2022, the ICA hosted a webinar to share the main takeaways from the 33rd World Cooperative Congress, promote the global consultation on the Statement on the Cooperative Identity, and bring together cooperators and the cooperatives branch of the International Labour organisation (ILO) ahead of the 110th Session of the International Labour Conference and the International Day of Cooperatives. 
+Up to 31 October, cooperators worldwide had a chance to answer a survey gathering opinions on whether the cooperative identity is well defined and understood. Cooperators in 136 different countries answered the survey. On 14 December 2022, the CIAG organised a webinar entitled 'Sharing the results of the survey on the Cooperative Identity', unveiling the findings of the survey. 
+Other seminars and online events to explore the cooperative identity will follow in 2023. From now to 2024–2025 when the consultation will conclude with decisions from the ICA General Assembly, the following steps are foreseen:
+
+The CIAG will reflect on the feedback and ideas garnered through the consultation process.
+The ICA Global Board will deliberate on the advice from CIAG and the Cooperative Identity Committee Board, reporting to ICA members.
+ICA members will make the final decision at one or more general assemblies.
+For more information, visit https://coopidentity.ica.coop/.
+
+
+== The flag ==
+ 
+ICA adopted its original rainbow flag in 1925, with the seven colors symbolizing unity in diversity and the power of light, enlightenment, and progress.
+
+The rainbow ICA flag is now superseded with the current version in plum background and a white ICA logo in the center.
+
+
+== The International Day of Cooperatives ==
+Marked by cooperatives worldwide since 1923 and officially proclaimed by the United Nations General Assembly on the centenary of the ICA in 1995, the International Day of Cooperatives (#CoopsDay) is celebrated annually on the first Saturday of July. 
+The aim of #CoopsDay is to increase awareness of cooperatives and promote the movement's ideas of international solidarity, economic efficiency, equality, and world peace. Since 1995, the ICA and the United Nations through Committee for the Promotion and Advancement of Cooperatives (COPAC) have jointly set the theme for the celebration of #CoopsDay.
+Through #CoopsDay, local, national and global policymakers, civil-society organisations and the public in general can learn about the contribution of cooperatives to a secure future for all.
+
+
+== Presidents ==
+1895: Earl Grey and Henry William Wolff
+1907: Earl Grey and William Maxwell
+1917: William Maxwell
+1921: G. J. D. C. Goedhart
+1927: Väinö Tanner
+1945: Robert Palmer
+1948: Harry Gill
+1955: Marcel Brot
+1960: Mauritz Bonow
+1975: Roger Kerinec
+1984: Lars Marcus
+1995: Graham Melmoth
+1997: Roberto Rodrigues
+2001: Ivano Barberini
+2009: Pauline Green
+2015: Monique F. Leroux
+2017: Ariel Guarco
+
+
+== Secretaries ==
+1895: Edward Owen Greening
+1902: Jesse Clement Gray
+1908: Hans Müller
+1913: Henry John May
+1939: Gertrude Polley
+1963: Position abolished
+Director-Generals
+
+until 2010: Iain Macdonald
+2010 - 2018: Charles Gould
+2018 - 2023: Bruno Roelants
+2024 - current: Jeroen Douglas
+
+
+== The Cooperative marque and .coop ==
+Since 2001, DotCooperation has united the cooperative community through a shared online identity and platform where cooperative organizations can participate, inform, educate, and pioneer a path for others to join and support the cooperative movement. 
+DotCooperation empowers cooperatives to participate and thrive in the digital economy with identity tools and resources. Identity tools include .coop domain names and the Cooperative Marque, sector domain names. Resources include the .coop Global Directory and the Digital Empowerment Learning Hub.
+DotCooperation is jointly owned by the International Cooperative Alliance (ICA) and NCBA-CLUSA (National Cooperative Business Association-CLUSA International), two non-profit organizations with a mission to develop the global cooperative movement.
+Every cooperative that uses a .coop domain name as the primary address for their website elevates their cooperative identity, principles, and purpose. It unites the cooperative movement online with a shared identity. It transforms an organization's value from a lone contributor to an active participant of a global online network of cooperatives. All cooperatives verify their identity when selecting a .coop domain name. 
+The Cooperative Marque is used by coops around the world to support the cooperative movement. It is used as a cooperative community badge, alongside your own brand identity. The Marque can be used on your mobile app, website, newsletters, email signature, publications, promotions, packaging, merchandise and signage.
+Together, .coop and the Cooperative Marque are symbols of the global cooperative movement and our collective identity. They differentiate your cooperative from a private or investor-owned business.
+
+
+== ICA World Cooperative Congress ==
+
+
+=== 1895 - London ===
+The first International Cooperative Congress was held on 19-23 August 1895 in London. Delegates from several countries were in attendance at the first World Cooperative Congress in London in 1895. Cooperators from countries including Argentina, Australia, Belgium, England, Denmark, France, Germany, Holland, India, Italy, Switzerland, Serbia, and the United States traveled to Britain to take part in a historic moment for the global cooperative movement.
+
+
+=== 1896 - Paris ===
+During the Congress, an international trade exhibition was set up in the premises of the Musée Social to foster collaboration between producer and consumer cooperatives in various countries.
+
+
+=== 1897 - Delft ===
+A resolution on women's participation in cooperatives was passed on this Congress, calling for cooperatives to delete rules which hindered women's admission to cooperatives on their election to committees and boards.
+
+
+=== 1900 - Paris ===
+On the paper that was presented in this Congress, it suggested to strengthen the communication between the Alliance and its members and it recommended sending fraternal delegates to other cooperative movements' Congresses.
+
+
+=== 1902 - Manchester ===
+During this Congress, delegates visited Rochdale, and a lecture on the Rochdale Pioneers was delivered during this visit.
+
+
+=== 1904 - Budapest ===
+The Congress discussed cooperatives' relations with the State because much of the Congress was concerned about how undeveloped cooperative movements could be assisted, either by the State or by stronger cooperative movements.
+
+
+=== 1907 - Cremona ===
+In this Congress, each country is invited to set up a Cooperative Wholesale Society and an International Committee of Cooperative Wholesale Societies for Joint-Buying.
+
+
+=== 1910 - Hamburg ===
+The Report of the Central Committee on the ICA's work gave information on the establishment of the monthly International Cooperative Bulletin in 1908; on membership expansion; on new publications; and on the establishment of the International Cooperative Library and of the Centre for the Collection and Supply of Lantern Slides.
+
+
+=== 1913 - Glasgow ===
+It was the last Congress to be held before the start of the First World War a year later. In this Congress, the ICA passed its most notable Peace Resolution, which set its attitudes not only to the coming war, but events way beyond.
+
+
+=== 1921 - Basel ===
+Great personal relations between the ICA leaders were maintained despite the length and bitterness of the war. The ICA Executive's concern to avoid political splits within the ICA caused it to take a strictly neutral line
+
+
+=== 1924 - Ghent ===
+An exhibition was set up in which cooperative movements from 32 countries participated. A sculpture was commissioned to depict a group of working men and women supporting the Globe and representing the act of cooperation. The silver version of this still remains in the ICA Head Office to the present day.
+
+
+=== 1927 - Stockholm ===
+A further aspect of this Congress was that it reflected the growing maturity and stability of the ICA. For example, there was an increase in the matters reported to Congress and questions which were handled by resolution. Both became part of the policy-making process of the ICA.
+
+
+=== 1930 - Vienna ===
+This was an important Congress because it initiated the 1930s review of Rochdale Principles.
+
+
+=== 1934 - London ===
+The Central Committee's Report contained a wealth of information on the work of the ICA in this Congress. The progress made in research, especially in collecting statistics, in issuing new publications, the success of special conferences on education and on the cooperative press and cooperative summer schools were reported on.
+
+
+=== 1937 - Paris ===
+The Cooperative Principles are reviewed and amended for the first time in this Congress.
+
+
+=== 1946 - Zürich ===
+In this period of time, the ICA made an attempt to gain recognition with pre-UN organisations such as the UN's Relief and Rehabilitation Agency (UNRRA), and the UN Conference on Food and Agriculture (FAO). In 1946, the ICA gain consultative status with the UN's economic and Social Council. 
+
+
+=== 1948 - Prague ===
+The Central Committee's report covered the years from 1946 to 1948 and contained a detailed account of ICA Relief and Rehabilitation Fund and its participation in the work of the United Nations bodies.
+
+
+=== 1951 - Copenhagen ===
+The main concerns in this Congress were the collaboration with the UN organisations and the duty of cooperative movement to reduce differences in standards of living and economic development between developed and less-developed countries.
+
+
+=== 1954 - Paris ===
+A new Housing Committee was established in this Congress. Equally new was the Liaison Committee of the ICA and the International Committee of Women's Guilds (ICWG).
+
+
+=== 1957 - Stockholm ===
+Three papers had been presented in this Congress. The first one is the Progress of International Techinal Assistance by David Owen, the second paper is the Role of Governments in Less-Developed Countries by W.J. Chessman, and the third paper is the Promotion of Cooperation in less Developed Countries by B.J. Patel.
+
+
+=== 1960 - Lausanne ===
+This Congress took place during a period marked by technological achievements, fear of a Third World War, the granting of independence to various countries, desire for economic development and higher standards of living, and the creation by the UN of its Special Fund for Economic Development.
+
+
+=== 1963 - Bournemouth ===
+One of the most important decisions taken by this Congress was introduced the resolution moved by Soviet Member Organisation, Centrosoyus. It was decided to constitute a Commission to reformulate the Fundamental Principles of Cooperation under modern conditions and to include them in Agenda for the 23rd ICA Congress.
+
+
+=== 1966 - Vienna ===
+On this Congress, the ICA declaration on International Cooperative Day had placed emphasis on the development, and the role of the Cooperative Movement in achieving economic and social progress.
+
+
+=== 1969 - Hamburg ===
+On this occasion of the 75th Anniversary of the ICA, the President recalled the successive stages of the ICA since 1895. In the report about the Development Programme, it was said that the ICA's Declaration on International Cooperative Day made an appraisal of UN Resolution 2459 and the collaboration of the ICA with the UN Specialised Agencies and other Organisations, particularly in South East Asia and Africa.
+
+
+=== 1972 - Warsaw ===
+Two main papers were presented in this Congress that was held in Warsaw, Poland: the first on the emergence of Multi-National Corporations, the second on the International Technical Assistance.
+
+
+=== 1976 - Paris ===
+Membership had increased since the last Congress, with 166 Member Organisations from 66 countries, representing more than 300 million people.
+
+
+=== 1980 - Moscow ===
+The Congress had decided to establish a Regional Office for West-Africa. The official inauguration took place one year later, in March 1981.
+
+
+=== 1984 - Hamburg ===
+In 1984, the ICA had 165 members plus 8 international cooperative organisations from 70 countries. The establishment of the Regional Office for West Africa had become operational in 1981 and served 16 countries.
+
+
+=== 1988 - Stockholm ===
+By 1988, Housing, Consumer, Agriculture and Banking Committees received secretarial services from a Liaison Officer.
+
+
+=== 1992 - Tokyo ===
+In the Secretariat Report, the Structure Committee had identified five priorities; promoting and defending values shared by the ICA Members, stimulating the interchange of ideas and collaboration, spreading information about the cooperative system, acting as a catalyst for cooperative development, and speaking on behalf of ICA members with international organisations and governmental authorities.
+
+
+=== 1995 - Manchester ===
+The ICA Statement on the Cooperative Identity was adopted on this Congress. This event added Cooperative Values and a seventh principle, "Concern for Community"
+
+
+=== 2012 - Manchester ===
+The United Nations General Assembly declared 2012 as the International Year of Cooperatives, honouring the contribution of cooperatives to socio-economic development, particularly their impact on poverty reduction, employment generation and social integration.
+
+
+=== 2021 - Seoul ===
+The 33rd World Cooperative Congress marked both the 125th anniversary of the ICA, which was founded in 1895 at its first Congress in London, and the 25th anniversary of the adoption of the ICA Statement on the Cooperative Identity. The Seoul Congress kicked off a consultative process aimed at finding out how well the Statement on the Cooperative Identity has stood the test of time. An exhibition and a history publication were launched at the occasion of the congress.  
+
+
+== References ==
+
+
+== External links ==
+The International Cooperative Alliance
+The story of the ICA flag
+
+Document similaire: Mondragon Cooperative Corporation (Similarité: 0.5837)
+The Mondragon Corporation is a corporation and federation of worker cooperatives based in the Basque region of Spain.
+It was founded in the town of Mondragón in 1956 by Father José María Arizmendiarrieta and a group of his students at a technical college he founded. Its first product was paraffin heaters.
+It is the seventh-largest Spanish company in terms of asset turnover and the leading business group in the Basque Country. At the end of 2016, it employed 74,117 people in 257 companies and organizations in four areas of activity: finance, industry, retail and knowledge. By 2019, 81,507 people were employed.
+In 2024, it had over 70,000 workers, 30,660 in the Basque Country, 29,340 in the rest of Spain and around 10,000 abroad.
+Mondragon cooperatives operate in accordance with the Statement on the Co-operative Identity maintained by the International Co-operative Alliance.
+
+
+== History ==
+In 1941, as a young Catholic priest, Arizmendiarrieta settled in Mondragón, a town with a population of 7,000 that had not yet recovered from the poverty, hunger, exile, and tension of the Spanish Civil War.
+In 1943, Arizmendiarrieta established a technical college which became a training ground for managers, engineers and skilled labour for local companies, and primarily for the co-operatives.
+Arizmendiarrieta spent a number of years educating young people about a form of humanism based on solidarity and participation, in harmony with Catholic social teaching, and the importance of acquiring the necessary technical knowledge before creating the first co-operative.
+In 1955, he selected five young people to establish the first company of the co-operative and industrial beginning of the Mondragon Corporation. The company was called Talleres Ulgor ("Ulgor workshops"), an acronym derived from the surnames of Usatorre, Larrañaga, Gorroñogoitia, Ormaechea, and Ortubay, known today as Fagor Electrodomésticos (Spanish for "Fagor electric appliances").
+In the first 15 years, many co-operatives were established, thanks to the autarky of the market and the awakening of the Spanish economy. During these years, also with the encouragement of Arizmendiarrieta, the Caja Laboral ("Labor savings bank", 1959) and the Social Welfare Body Lagun Aro ("Friend/help time", 1966 were established that played a key role. The first local group was created, Ularco. In 1969, Eroski was founded by merging ten small local consumer co-operatives.
+During the next 20 years, from 1970 to 1990, the dynamic continued, with a strong increase in new co-operatives promoted by Caja Laboral's Business Division, the promotion of co-operative associations, the formation of local groups, and the founding of the Ikerlan ("Research work") research centre in 1974.
+With Spain scheduled to join the European Economic Community in 1986, it was decided in 1984 to establish the "Mondragon Co-operative Group", the forerunner of the current corporation. In-service training for managers was strengthened by creating Otalora, dedicated to training, and the dissemination of co-operatives. The Group consisted of 23,130 workers at the end of 1990.
+
+
+=== International expansion ===
+On the international stage, the aim was to respond to growing globalisation, expanding abroad by establishing production plants in a number of countries. The first was the Copreci plant in Mexico in 1990, followed by many others: up to 73 by the end of 2008, and 122 at the end of 2013. The goals were to increase competitiveness and market share, bring component supply closer to customers' plants, especially in the automotive and domestic appliance sectors, and to strengthen employment in the Basque Country by promoting exports of co-operatives' products by means of new platforms.
+Between 2002 and 2007, Fagor and Eroski issued bonds (aportaciones subordinadas).
+While they were commercialized as safe deposits, the courts classed them as riskier debt instruments.
+When the yields fell during the financial crisis, bond-holders sued against the cooperatives.
+In 2008, the worker-owners of the cooperatives Ampo (metal casting) and Irizar (coaches) voted to leave the corporation.
+In October 2009, the United Steelworkers announced an agreement with Mondragon to create worker cooperatives in the United States. On 26 March 2012, the USW, Mondragon, and the Ohio Employee Ownership Center (OEOC) announced their detailed union co-op model.
+The industrial sector ended 2012 with a new record of €4 billion in international sales, beating sales figures from before the financial crisis of 2007–2008. Mondragon opened 11 new production subsidiaries. International sales that year accounted for 69% of all sales, a 26% increase from 2009 to 2012, and with 14,000 employees abroad. Mondragon's share in the BRIC markets increased to 20% compared to the previous year. In 2013, international sales grew by 6.7% and accounted for 71.1% of total sales.
+On 16 October 2013, domestic appliance company Fagor Electrodomésticos filed for bankruptcy under Spanish law to renegotiate €1,1 billion of debt, after suffering heavy losses during the eurocrisis and the 2008–2014 Spanish real estate crisis putting 5,600 employees at risk of losing their jobs. This was followed by the bankruptcy of the whole Fagor group on 6 November 2013. In July 2014, Fagor was bought by Catalonian company Cata for €42.5 million. Cata pledged to create 705 direct jobs in the Basque Country and to continue the brand names Fagor, Edesa, Aspes, and Splendid.
+In 2022, the worker-owners of ULMA Group (scaffolding) and Orona (elevators) voted to leave the corporation. Estimated impact of the leave is a workforce drop by 13% and a 15% cut of the group's sales.
+As successful cooperatives they were contributing 10% of their profit to a common fund supporting ailing cooperatives.
+They will not contribute to the solidarity fund but they will keep insuring their workers with Lagun Aro and collaborate with Mondragon Unibertsitatea and other cooperatives in the group.
+
+
+== Business culture ==
+Mondragon co-operatives are united by a humanist concept of business, a philosophy of participation and solidarity, and a shared business culture. The culture is rooted in a shared mission and a number of principles, corporate values and business policies.
+Over the years, these links have been embodied in a series of operating rules approved on a majority basis by the Co-operative Congresses, which regulate the activity of the Governing Bodies of the corporation (Standing Committee, General Council), the Grassroots Co-operatives and the Divisions they belong to, from the organisational, institutional and economic points of view as well as in terms of assets.
+
+This framework of business culture has been structured based on a common culture derived from the 10 Basic Co-operative Principles, in which Mondragon is rooted: Open Admission, Democratic Organisation, the Sovereignty of Labour, Instrumental and Subordinate Nature of Capital, Participatory Management, Payment Solidarity, Inter-cooperation, Social Transformation, Universality and Education.
+This philosophy is complemented by four corporate values: Co-operation, acting as owners and protagonists; Participation, which takes shape as a commitment to management; Social Responsibility, by means of the distribution of wealth based on solidarity; and Innovation, focusing on constant renewal in all areas.
+This business culture translates into compliance with a number of Basic Objectives (Customer Focus, Development, Innovation, Profitability, People in Co-operation and Involvement in the Community) and General Policies approved by the Co-operative Congress, which are taken on board at all the corporation's organisational levels and incorporated into the four-year strategic plans and the annual business plans of the individual co-operatives, divisions, and the corporation as a whole.
+
+
+=== Wage regulation ===
+At Mondragon, there are agreed-upon wage ratios between executive work and field or factory work which earns a minimum wage. These ratios range from 3:1 to 9:1 in different cooperatives and average 5:1. That is, the general manager of an average Mondragon cooperative earns no more than 5 times as much as the theoretical minimum wage paid in their cooperative. For most workers, this ratio is smaller because there are few Mondragon worker-owners that earn minimum wages, because most jobs are somewhat specialized and are classified at higher wage levels. The wage ratio of a cooperative is decided periodically by its worker-owners through a democratic vote.
+Compared to similar jobs at local industries, Mondragon managers' wages are considerably lower (as some companies pay their best paid managers hundreds of times more than the lowest-paid employee of the company) and equivalent for middle management, technical and professional levels. Lower wage levels are on average 13% higher than similar jobs at local businesses. Spain's progressive tax rate further reduces any disparity in pay. These comparatively low wages can make it very difficult to recruit managers from investor-owned firms.
+
+
+== Business sectors ==
+Mondragon Corporation operates in four areas: finance, industry, retail, and knowledge, with the latter distinguishing Mondragon from other business groups. In 2013, the corporation posted a total revenue of over €12 billion (roughly US$16 billion), and employed 74,061 workers, making it Spain's fourth-largest industrial and tenth-largest financial group.
+
+
+=== Finance ===
+This area includes the banking business of Laboral Kutxa (successor of Caja Laboral), the insurance company Seguros Lagun Aro, and the Voluntary Social Welfare Body Lagun Aro, which had an asset fund totaling €5,566 million at the end of 2014. The yield obtained from this fund is used to cover long-term retirement, widowhood, and invalidity benefits, complementary to those offered by the Spanish social security system.
+
+
+=== Industry ===
+The corporation's companies manufacture consumer goods, capital goods, industrial components, products, and systems for construction, and services. The latter includes very diverse business groups such as Abantail: Adaptive design optimization, Alecop: Engineering training, LKS Consultores: Attorneys etc., KREAN: Architects and engineers. MCCTelecom: Telecommunication engineering. Mondragon Lingua: Translation and language schools, Mondragon Sistemas: Automation, Industrial Computing and Telecommunications. Ondoan: Turnkey projects in the energy and environmental sector.
+In the leisure and sports area, it manufactures Orbea bicycles, exercise equipment and items for camping, garden and beach.
+
+In capital goods, Mondragon posted a turnover of €976 million in 2009 and is the leading Spanish manufacturer of machining (Danobat Group) and sheet metal forming (Fagor Arrasate Group) machine tools. These machines are complemented by automation and control products for machine tools, packaging machinery, machinery for automating assembly processes and processing wood, forklift trucks, electric transformers, integrated equipment for the catering industry, cold stores, and refrigeration equipment. Specifically focusing on the automotive sector, the corporation also manufactures a wide variety of dies, molds and tooling for casting iron and aluminium, and occupies a leading position in machinery for the casting sector.
+In Industrial Components, Mondragon posted a turnover of €1.5 billion in 2009, a sector in which it operates as an integrated supplier for the leading car manufacturers, offering from the design and development of a part to the industrialization and supply of components and assemblies. It has different business units such as brakes, axles, suspension, transmission, engines, aluminium wheel rims, fluid conduction, and other internal and external vehicle components. It also produces components for the main domestic appliance manufacturers in three business areas: white goods, home comfort, and electronics. And it manufactures flanges and pipe accessories for processing oil-gas, petrochemical plants and power generation, copper and aluminium electrical conductors, and components for conveyors.
+In construction, sales totaled €974 million in 2009. Mondragon has constructed buildings and important infrastructure projects. It designs and builds large metallic (URSSA), laminated wood and prefabricated concrete structures; supplies prefabricated parts in polymer concrete; offers solutions for formwork and structures (ULMA Group) as well as public works machinery and the industrialization of the construction process, including engineering and assembly services. The ORONA Group produces elevators.
+In services to business, sales totaled €248 million in 2008, including business consultancy services, architecture and engineering, property consulting, design and innovation (LKS Group), systems engineering for electromechanical installations, and integrated logistics engineering. It also offers a modern language service, manufactures educational equipment, and provides graphic arts services (mccgraphics S.Coop).
+In 2013, 71.1% of turnover came from international sales. Sales resulting from the export of products abroad and production generated in the 122 subsidiaries located in several different countries: China (15), France (17), Poland (8), Czech Republic (7), Mexico (8), Brazil (5), Germany (4), Italy (4), United Kingdom (3), Romania (3), United States (4), Turkey (2), Portugal (2), Slovakia (2), India (5), Thailand (1) and Morocco (1). Overall, in 2013 these 122 plants provided work for more than 11,000 people. The corporate industrial park in Kunshan, close to Shanghai houses seven subsidiaries. In 2012, it opened 11 new subsidiaries abroad, employing around 14,000 people. Its international sales that year marked a record number of 69% of its total sales (€5.8 billion, with a 2% fall compared to the previous year). Mondragon also participated in 91 international R&D projects.
+In 2014, the industrial cooperatives created 1,000 jobs, and internationalization continued with 125 production subsidiaries abroad – 3 more than the year before.
+
+
+=== Retail ===
+Mondragon runs Eroski, one of the leading retail groups all over Spain and in southern France, and maintains close contacts with the French group Les Mousquetaires and the German retailer Edeka, with whom it set up the Alidis international purchasing group in 2002. The worker-owners and consumer-members participate in the co-operative's decision-making bodies and management of Eroski. At the end of 2013, Eroski posted a turnover of €6.6 billion, operating 2.069 stores made up of 90 Eroski hypermarkets, 1,211 Eroski/center, Caprabo, Eroski/city, Aliprox, Familia, Onda and Cash & Carry supermarkets, 155 branches of Eroski travel agencies, 63 petrol stations, 39 Forum Sport stores and 221 IF perfume stores. In southern France Eroski had 4 hypermarkets, 16 supermarkets and 17 petrol stations, and 4 perfume stores in Andorra.
+Retail includes the food group Erkop, for catering, cleaning, stock-breeding, and horticulture with Auzo Lagun, a co-operative in group catering and cleaning of buildings and premises, and integrated service in the health sector.
+In 2008, worker-members voted to expand the cooperative transformation to the retail group as a whole, turning subsidiaries into co-operatives, and making salaried workers worker-members.
+
+
+=== Knowledge ===
+This area has a dual focus: education-training and innovation, which have both been key elements in the development of the corporation. Training-education is mainly linked to the dynamism of Mondragon University, the significant role that Politeknika Ikastegia Txorierri, Arizmendi Ikastola and Lea Artibai Ikastetxea play in their respective areas and the activity of the Management and Co-operative Development Centre Otalora.
+Mondragon University is a co-operative university, which combines the development of knowledge, skills, and values, and maintains close relations with business, especially Mondragon co-operatives. Technological innovation is generated through the co-operatives' own R&D departments, the Corporate Science and Technology Plan, the corporation's 12 technology centers and the Garaia Innovation Park.
+The 15 technology centers play a fundamental role in the development of the sectors of focus. In 2009 they employed 742 people and had a budget of €53.7 million. In 2013 its network of technology centers and R&D units provided employment for 1,700 people and the commitment to R&D&I matters amounted to 136 million Euros, 8.5% of added value. Mondragon has 479 families of Patents for Inventions, which accounts for 25% patents in the Basque Country, participating in more than 30 R&D cooperation projects at the European level.
+
+
+== Reactions ==
+In 2012, Richard D. Wolff, an American professor of economics, hailed the Mondragon set of enterprises, including the good wages it provides for employees, the empowerment of ordinary workers in decision making, and the measure of equality for female workers, as a major success and cited it as a working model of an alternative to the capitalist mode of production.
+In an April 2012 interview, Noam Chomsky said that, while Mondragon offers an alternative to capitalism, it was still embedded in a capitalist system which limits Mondragon's decisions:
+
+Take the most advanced case: Mondragon. It’s worker-owned, it’s not worker managed, although the management does come from the workforce often, but it’s in a market system and they still exploit workers in South America, and they do things that are harmful to the society as a whole and they have no choice. If you’re in a system where you must make a profit in order to survive, you're compelled to ignore negative externalities, effects on others.
+Vicenç Navarro wrote that, from a business perspective, Mondragon is successful in matching efficiency with solidarity and democracy. However, he writes that the number of employees who are not owners has increased more rapidly than worker-owners, to a point that in some companies, for example in the supermarket chains owned by Mondragon, the first is a much larger group than the second. In Navarro's view, this establishes a two-tier system – for example, in terms of whom to save in the case the company collapses. In the collapse of Fagor, the relocation of employees to other companies belonging to Mondragon favored those who were worker-owners, which may affect labor relations:
+
+Actually, one of the successes of Mondragon was its ability to create a sense of identity among the workers within the company, encouraging an environment of solidarity and collegiality among them, a feeling that also extended (although to a much lesser degree) to non-worker-owners. The connection felt by the latter group has somewhat weakened, however, exposing a vulnerable point for the cooperative.
+The Mondragon system is one of four case studies analyzed in Capital and the Debt Trap, which summarized evidence claiming that cooperatives tend to last longer and are less susceptible to perverse incentives and other problems of organizational governance than more traditionally managed organizations.
+The founders of Cooperation Jackson, a network of worker cooperatives in Jackson, Mississippi in the United States, cite Mondragon as a key inspiration.
+
+
+== Mondragon in fiction ==
+
+
+=== Works of Kim Stanley Robinson ===
+In 2312, a science fiction novel by Kim Stanley Robinson, the Mondragon Corporation has evolved into a planned economy system called the Mondragon Accord. The Mondragon Accord is controlled by means of a network of AIs running on quantum computers, and rules large parts of the Solar System, including Mercury and most of the moons of the gas giants; only part of Earth, and its colonies in space, retain remnants of capitalist economies, while Mars has withdrawn from the Accord in the century preceding the story. The Mondragon Corporation already appeared in Robinson's earlier Mars trilogy, as one of the Terran groups involved in the colonization and terraforming of Mars; the coop is also portrayed as the inspiration of both the bogdanovist movement  and the libertarian-leaning Praxis Corporation two of the main forces leading the revolution for the independence of Mars. In Robinson's book The Ministry for the Future, the Mondragon Corporation is introduced in chapter 58 as a model for a future, post-capitalist, cooperative economy.
+
+
+== See also ==
+
+Cecosesola, association of cooperatives in Venezuela
+Distributism
+Horizontalidad
+John Lewis Partnership
+List of worker cooperatives
+Workers' self-management
+
+
+== References ==
+
+
+== Further reading ==
+Azurmendi, Joxe 1984: El hombre cooperativo
+Spanish white goods company Fagor seeks protection from creditors (October 2013)
+Thousands of Fagor employees demand in Mondragon town to keep their jobs (October 2013)
+White-goods giant Fagor goes into administration (October 2013)
+Cooperation for Economic Success. The Mondragon Case (2011) in Analyse & Kritik, 33 (1), 157–170 . Ramon Flecha & Iñaqui Santa Cruz.http://www.analyse-und-kritik.net/en/abstracts_current.php#562
+Making Mondragon: The Growth and Dynamics of the Worker Cooperative Complex (1991), William Whyte. ISBN 0-87546-182-4
+We Build the Road as We Travel: Mondragon, A Cooperative Social System, Roy Morrison. ISBN 0-86571-173-9
+The Mondragon Cooperative Experience (1993), J. Ormachea.
+Cooperation at Work: The Mondragon Experience (1983), K. Bradely & A. Gelb.
+Values at Work: Employees participation meets market pressure at Mondragon (1999), G. Cheney.
+Mondragon: An economic analysis (1982), C. Logan & H. Thomas.
+The Myth of Mondragon: Cooperatives, Politics, and Working-Class Life in a Basque Town (1996), by Sharryn Kasmir, State University of New York Press.
+From Mondragon to America: Experiments in Community Economic Development (1997), by G. MacLeod, University College of Cape Breton Press. ISBN 0-920336-53-1
+"Jobs of Our Own: Building a Stakeholder Society" (1999), by Race Mathews, Pluto Press (Australia) and Comerford & Miller (London). ISBN 1-86403-064-X. US reprint 2009, The Distributist Review Press. ISBN 978-0-9679707-9-0.
+"Rag Radio: Carl Davidson on Mondragon and Workers' Cooperatives," The Rag Blog, September 15, 2011 Interview by Thorne Dreyer (44:05)
+Articles about the Mondragon Corporation on The Rag Blog
+
+Document similaire: Mondragón Cooperative Corporation (Similarité: 0.5837)
+The Mondragon Corporation is a corporation and federation of worker cooperatives based in the Basque region of Spain.
+It was founded in the town of Mondragón in 1956 by Father José María Arizmendiarrieta and a group of his students at a technical college he founded. Its first product was paraffin heaters.
+It is the seventh-largest Spanish company in terms of asset turnover and the leading business group in the Basque Country. At the end of 2016, it employed 74,117 people in 257 companies and organizations in four areas of activity: finance, industry, retail and knowledge. By 2019, 81,507 people were employed.
+In 2024, it had over 70,000 workers, 30,660 in the Basque Country, 29,340 in the rest of Spain and around 10,000 abroad.
+Mondragon cooperatives operate in accordance with the Statement on the Co-operative Identity maintained by the International Co-operative Alliance.
+
+
+== History ==
+In 1941, as a young Catholic priest, Arizmendiarrieta settled in Mondragón, a town with a population of 7,000 that had not yet recovered from the poverty, hunger, exile, and tension of the Spanish Civil War.
+In 1943, Arizmendiarrieta established a technical college which became a training ground for managers, engineers and skilled labour for local companies, and primarily for the co-operatives.
+Arizmendiarrieta spent a number of years educating young people about a form of humanism based on solidarity and participation, in harmony with Catholic social teaching, and the importance of acquiring the necessary technical knowledge before creating the first co-operative.
+In 1955, he selected five young people to establish the first company of the co-operative and industrial beginning of the Mondragon Corporation. The company was called Talleres Ulgor ("Ulgor workshops"), an acronym derived from the surnames of Usatorre, Larrañaga, Gorroñogoitia, Ormaechea, and Ortubay, known today as Fagor Electrodomésticos (Spanish for "Fagor electric appliances").
+In the first 15 years, many co-operatives were established, thanks to the autarky of the market and the awakening of the Spanish economy. During these years, also with the encouragement of Arizmendiarrieta, the Caja Laboral ("Labor savings bank", 1959) and the Social Welfare Body Lagun Aro ("Friend/help time", 1966 were established that played a key role. The first local group was created, Ularco. In 1969, Eroski was founded by merging ten small local consumer co-operatives.
+During the next 20 years, from 1970 to 1990, the dynamic continued, with a strong increase in new co-operatives promoted by Caja Laboral's Business Division, the promotion of co-operative associations, the formation of local groups, and the founding of the Ikerlan ("Research work") research centre in 1974.
+With Spain scheduled to join the European Economic Community in 1986, it was decided in 1984 to establish the "Mondragon Co-operative Group", the forerunner of the current corporation. In-service training for managers was strengthened by creating Otalora, dedicated to training, and the dissemination of co-operatives. The Group consisted of 23,130 workers at the end of 1990.
+
+
+=== International expansion ===
+On the international stage, the aim was to respond to growing globalisation, expanding abroad by establishing production plants in a number of countries. The first was the Copreci plant in Mexico in 1990, followed by many others: up to 73 by the end of 2008, and 122 at the end of 2013. The goals were to increase competitiveness and market share, bring component supply closer to customers' plants, especially in the automotive and domestic appliance sectors, and to strengthen employment in the Basque Country by promoting exports of co-operatives' products by means of new platforms.
+Between 2002 and 2007, Fagor and Eroski issued bonds (aportaciones subordinadas).
+While they were commercialized as safe deposits, the courts classed them as riskier debt instruments.
+When the yields fell during the financial crisis, bond-holders sued against the cooperatives.
+In 2008, the worker-owners of the cooperatives Ampo (metal casting) and Irizar (coaches) voted to leave the corporation.
+In October 2009, the United Steelworkers announced an agreement with Mondragon to create worker cooperatives in the United States. On 26 March 2012, the USW, Mondragon, and the Ohio Employee Ownership Center (OEOC) announced their detailed union co-op model.
+The industrial sector ended 2012 with a new record of €4 billion in international sales, beating sales figures from before the financial crisis of 2007–2008. Mondragon opened 11 new production subsidiaries. International sales that year accounted for 69% of all sales, a 26% increase from 2009 to 2012, and with 14,000 employees abroad. Mondragon's share in the BRIC markets increased to 20% compared to the previous year. In 2013, international sales grew by 6.7% and accounted for 71.1% of total sales.
+On 16 October 2013, domestic appliance company Fagor Electrodomésticos filed for bankruptcy under Spanish law to renegotiate €1,1 billion of debt, after suffering heavy losses during the eurocrisis and the 2008–2014 Spanish real estate crisis putting 5,600 employees at risk of losing their jobs. This was followed by the bankruptcy of the whole Fagor group on 6 November 2013. In July 2014, Fagor was bought by Catalonian company Cata for €42.5 million. Cata pledged to create 705 direct jobs in the Basque Country and to continue the brand names Fagor, Edesa, Aspes, and Splendid.
+In 2022, the worker-owners of ULMA Group (scaffolding) and Orona (elevators) voted to leave the corporation. Estimated impact of the leave is a workforce drop by 13% and a 15% cut of the group's sales.
+As successful cooperatives they were contributing 10% of their profit to a common fund supporting ailing cooperatives.
+They will not contribute to the solidarity fund but they will keep insuring their workers with Lagun Aro and collaborate with Mondragon Unibertsitatea and other cooperatives in the group.
+
+
+== Business culture ==
+Mondragon co-operatives are united by a humanist concept of business, a philosophy of participation and solidarity, and a shared business culture. The culture is rooted in a shared mission and a number of principles, corporate values and business policies.
+Over the years, these links have been embodied in a series of operating rules approved on a majority basis by the Co-operative Congresses, which regulate the activity of the Governing Bodies of the corporation (Standing Committee, General Council), the Grassroots Co-operatives and the Divisions they belong to, from the organisational, institutional and economic points of view as well as in terms of assets.
+
+This framework of business culture has been structured based on a common culture derived from the 10 Basic Co-operative Principles, in which Mondragon is rooted: Open Admission, Democratic Organisation, the Sovereignty of Labour, Instrumental and Subordinate Nature of Capital, Participatory Management, Payment Solidarity, Inter-cooperation, Social Transformation, Universality and Education.
+This philosophy is complemented by four corporate values: Co-operation, acting as owners and protagonists; Participation, which takes shape as a commitment to management; Social Responsibility, by means of the distribution of wealth based on solidarity; and Innovation, focusing on constant renewal in all areas.
+This business culture translates into compliance with a number of Basic Objectives (Customer Focus, Development, Innovation, Profitability, People in Co-operation and Involvement in the Community) and General Policies approved by the Co-operative Congress, which are taken on board at all the corporation's organisational levels and incorporated into the four-year strategic plans and the annual business plans of the individual co-operatives, divisions, and the corporation as a whole.
+
+
+=== Wage regulation ===
+At Mondragon, there are agreed-upon wage ratios between executive work and field or factory work which earns a minimum wage. These ratios range from 3:1 to 9:1 in different cooperatives and average 5:1. That is, the general manager of an average Mondragon cooperative earns no more than 5 times as much as the theoretical minimum wage paid in their cooperative. For most workers, this ratio is smaller because there are few Mondragon worker-owners that earn minimum wages, because most jobs are somewhat specialized and are classified at higher wage levels. The wage ratio of a cooperative is decided periodically by its worker-owners through a democratic vote.
+Compared to similar jobs at local industries, Mondragon managers' wages are considerably lower (as some companies pay their best paid managers hundreds of times more than the lowest-paid employee of the company) and equivalent for middle management, technical and professional levels. Lower wage levels are on average 13% higher than similar jobs at local businesses. Spain's progressive tax rate further reduces any disparity in pay. These comparatively low wages can make it very difficult to recruit managers from investor-owned firms.
+
+
+== Business sectors ==
+Mondragon Corporation operates in four areas: finance, industry, retail, and knowledge, with the latter distinguishing Mondragon from other business groups. In 2013, the corporation posted a total revenue of over €12 billion (roughly US$16 billion), and employed 74,061 workers, making it Spain's fourth-largest industrial and tenth-largest financial group.
+
+
+=== Finance ===
+This area includes the banking business of Laboral Kutxa (successor of Caja Laboral), the insurance company Seguros Lagun Aro, and the Voluntary Social Welfare Body Lagun Aro, which had an asset fund totaling €5,566 million at the end of 2014. The yield obtained from this fund is used to cover long-term retirement, widowhood, and invalidity benefits, complementary to those offered by the Spanish social security system.
+
+
+=== Industry ===
+The corporation's companies manufacture consumer goods, capital goods, industrial components, products, and systems for construction, and services. The latter includes very diverse business groups such as Abantail: Adaptive design optimization, Alecop: Engineering training, LKS Consultores: Attorneys etc., KREAN: Architects and engineers. MCCTelecom: Telecommunication engineering. Mondragon Lingua: Translation and language schools, Mondragon Sistemas: Automation, Industrial Computing and Telecommunications. Ondoan: Turnkey projects in the energy and environmental sector.
+In the leisure and sports area, it manufactures Orbea bicycles, exercise equipment and items for camping, garden and beach.
+
+In capital goods, Mondragon posted a turnover of €976 million in 2009 and is the leading Spanish manufacturer of machining (Danobat Group) and sheet metal forming (Fagor Arrasate Group) machine tools. These machines are complemented by automation and control products for machine tools, packaging machinery, machinery for automating assembly processes and processing wood, forklift trucks, electric transformers, integrated equipment for the catering industry, cold stores, and refrigeration equipment. Specifically focusing on the automotive sector, the corporation also manufactures a wide variety of dies, molds and tooling for casting iron and aluminium, and occupies a leading position in machinery for the casting sector.
+In Industrial Components, Mondragon posted a turnover of €1.5 billion in 2009, a sector in which it operates as an integrated supplier for the leading car manufacturers, offering from the design and development of a part to the industrialization and supply of components and assemblies. It has different business units such as brakes, axles, suspension, transmission, engines, aluminium wheel rims, fluid conduction, and other internal and external vehicle components. It also produces components for the main domestic appliance manufacturers in three business areas: white goods, home comfort, and electronics. And it manufactures flanges and pipe accessories for processing oil-gas, petrochemical plants and power generation, copper and aluminium electrical conductors, and components for conveyors.
+In construction, sales totaled €974 million in 2009. Mondragon has constructed buildings and important infrastructure projects. It designs and builds large metallic (URSSA), laminated wood and prefabricated concrete structures; supplies prefabricated parts in polymer concrete; offers solutions for formwork and structures (ULMA Group) as well as public works machinery and the industrialization of the construction process, including engineering and assembly services. The ORONA Group produces elevators.
+In services to business, sales totaled €248 million in 2008, including business consultancy services, architecture and engineering, property consulting, design and innovation (LKS Group), systems engineering for electromechanical installations, and integrated logistics engineering. It also offers a modern language service, manufactures educational equipment, and provides graphic arts services (mccgraphics S.Coop).
+In 2013, 71.1% of turnover came from international sales. Sales resulting from the export of products abroad and production generated in the 122 subsidiaries located in several different countries: China (15), France (17), Poland (8), Czech Republic (7), Mexico (8), Brazil (5), Germany (4), Italy (4), United Kingdom (3), Romania (3), United States (4), Turkey (2), Portugal (2), Slovakia (2), India (5), Thailand (1) and Morocco (1). Overall, in 2013 these 122 plants provided work for more than 11,000 people. The corporate industrial park in Kunshan, close to Shanghai houses seven subsidiaries. In 2012, it opened 11 new subsidiaries abroad, employing around 14,000 people. Its international sales that year marked a record number of 69% of its total sales (€5.8 billion, with a 2% fall compared to the previous year). Mondragon also participated in 91 international R&D projects.
+In 2014, the industrial cooperatives created 1,000 jobs, and internationalization continued with 125 production subsidiaries abroad – 3 more than the year before.
+
+
+=== Retail ===
+Mondragon runs Eroski, one of the leading retail groups all over Spain and in southern France, and maintains close contacts with the French group Les Mousquetaires and the German retailer Edeka, with whom it set up the Alidis international purchasing group in 2002. The worker-owners and consumer-members participate in the co-operative's decision-making bodies and management of Eroski. At the end of 2013, Eroski posted a turnover of €6.6 billion, operating 2.069 stores made up of 90 Eroski hypermarkets, 1,211 Eroski/center, Caprabo, Eroski/city, Aliprox, Familia, Onda and Cash & Carry supermarkets, 155 branches of Eroski travel agencies, 63 petrol stations, 39 Forum Sport stores and 221 IF perfume stores. In southern France Eroski had 4 hypermarkets, 16 supermarkets and 17 petrol stations, and 4 perfume stores in Andorra.
+Retail includes the food group Erkop, for catering, cleaning, stock-breeding, and horticulture with Auzo Lagun, a co-operative in group catering and cleaning of buildings and premises, and integrated service in the health sector.
+In 2008, worker-members voted to expand the cooperative transformation to the retail group as a whole, turning subsidiaries into co-operatives, and making salaried workers worker-members.
+
+
+=== Knowledge ===
+This area has a dual focus: education-training and innovation, which have both been key elements in the development of the corporation. Training-education is mainly linked to the dynamism of Mondragon University, the significant role that Politeknika Ikastegia Txorierri, Arizmendi Ikastola and Lea Artibai Ikastetxea play in their respective areas and the activity of the Management and Co-operative Development Centre Otalora.
+Mondragon University is a co-operative university, which combines the development of knowledge, skills, and values, and maintains close relations with business, especially Mondragon co-operatives. Technological innovation is generated through the co-operatives' own R&D departments, the Corporate Science and Technology Plan, the corporation's 12 technology centers and the Garaia Innovation Park.
+The 15 technology centers play a fundamental role in the development of the sectors of focus. In 2009 they employed 742 people and had a budget of €53.7 million. In 2013 its network of technology centers and R&D units provided employment for 1,700 people and the commitment to R&D&I matters amounted to 136 million Euros, 8.5% of added value. Mondragon has 479 families of Patents for Inventions, which accounts for 25% patents in the Basque Country, participating in more than 30 R&D cooperation projects at the European level.
+
+
+== Reactions ==
+In 2012, Richard D. Wolff, an American professor of economics, hailed the Mondragon set of enterprises, including the good wages it provides for employees, the empowerment of ordinary workers in decision making, and the measure of equality for female workers, as a major success and cited it as a working model of an alternative to the capitalist mode of production.
+In an April 2012 interview, Noam Chomsky said that, while Mondragon offers an alternative to capitalism, it was still embedded in a capitalist system which limits Mondragon's decisions:
+
+Take the most advanced case: Mondragon. It’s worker-owned, it’s not worker managed, although the management does come from the workforce often, but it’s in a market system and they still exploit workers in South America, and they do things that are harmful to the society as a whole and they have no choice. If you’re in a system where you must make a profit in order to survive, you're compelled to ignore negative externalities, effects on others.
+Vicenç Navarro wrote that, from a business perspective, Mondragon is successful in matching efficiency with solidarity and democracy. However, he writes that the number of employees who are not owners has increased more rapidly than worker-owners, to a point that in some companies, for example in the supermarket chains owned by Mondragon, the first is a much larger group than the second. In Navarro's view, this establishes a two-tier system – for example, in terms of whom to save in the case the company collapses. In the collapse of Fagor, the relocation of employees to other companies belonging to Mondragon favored those who were worker-owners, which may affect labor relations:
+
+Actually, one of the successes of Mondragon was its ability to create a sense of identity among the workers within the company, encouraging an environment of solidarity and collegiality among them, a feeling that also extended (although to a much lesser degree) to non-worker-owners. The connection felt by the latter group has somewhat weakened, however, exposing a vulnerable point for the cooperative.
+The Mondragon system is one of four case studies analyzed in Capital and the Debt Trap, which summarized evidence claiming that cooperatives tend to last longer and are less susceptible to perverse incentives and other problems of organizational governance than more traditionally managed organizations.
+The founders of Cooperation Jackson, a network of worker cooperatives in Jackson, Mississippi in the United States, cite Mondragon as a key inspiration.
+
+
+== Mondragon in fiction ==
+
+
+=== Works of Kim Stanley Robinson ===
+In 2312, a science fiction novel by Kim Stanley Robinson, the Mondragon Corporation has evolved into a planned economy system called the Mondragon Accord. The Mondragon Accord is controlled by means of a network of AIs running on quantum computers, and rules large parts of the Solar System, including Mercury and most of the moons of the gas giants; only part of Earth, and its colonies in space, retain remnants of capitalist economies, while Mars has withdrawn from the Accord in the century preceding the story. The Mondragon Corporation already appeared in Robinson's earlier Mars trilogy, as one of the Terran groups involved in the colonization and terraforming of Mars; the coop is also portrayed as the inspiration of both the bogdanovist movement  and the libertarian-leaning Praxis Corporation two of the main forces leading the revolution for the independence of Mars. In Robinson's book The Ministry for the Future, the Mondragon Corporation is introduced in chapter 58 as a model for a future, post-capitalist, cooperative economy.
+
+
+== See also ==
+
+Cecosesola, association of cooperatives in Venezuela
+Distributism
+Horizontalidad
+John Lewis Partnership
+List of worker cooperatives
+Workers' self-management
+
+
+== References ==
+
+
+== Further reading ==
+Azurmendi, Joxe 1984: El hombre cooperativo
+Spanish white goods company Fagor seeks protection from creditors (October 2013)
+Thousands of Fagor employees demand in Mondragon town to keep their jobs (October 2013)
+White-goods giant Fagor goes into administration (October 2013)
+Cooperation for Economic Success. The Mondragon Case (2011) in Analyse & Kritik, 33 (1), 157–170 . Ramon Flecha & Iñaqui Santa Cruz.http://www.analyse-und-kritik.net/en/abstracts_current.php#562
+Making Mondragon: The Growth and Dynamics of the Worker Cooperative Complex (1991), William Whyte. ISBN 0-87546-182-4
+We Build the Road as We Travel: Mondragon, A Cooperative Social System, Roy Morrison. ISBN 0-86571-173-9
+The Mondragon Cooperative Experience (1993), J. Ormachea.
+Cooperation at Work: The Mondragon Experience (1983), K. Bradely & A. Gelb.
+Values at Work: Employees participation meets market pressure at Mondragon (1999), G. Cheney.
+Mondragon: An economic analysis (1982), C. Logan & H. Thomas.
+The Myth of Mondragon: Cooperatives, Politics, and Working-Class Life in a Basque Town (1996), by Sharryn Kasmir, State University of New York Press.
+From Mondragon to America: Experiments in Community Economic Development (1997), by G. MacLeod, University College of Cape Breton Press. ISBN 0-920336-53-1
+"Jobs of Our Own: Building a Stakeholder Society" (1999), by Race Mathews, Pluto Press (Australia) and Comerford & Miller (London). ISBN 1-86403-064-X. US reprint 2009, The Distributist Review Press. ISBN 978-0-9679707-9-0.
+"Rag Radio: Carl Davidson on Mondragon and Workers' Cooperatives," The Rag Blog, September 15, 2011 Interview by Thorne Dreyer (44:05)
+Articles about the Mondragon Corporation on The Rag Blog
+
+Document similaire: Problem solving (Similarité: 0.0000)
+Problem solving is the process of achieving a goal by overcoming obstacles, a frequent part of most activities. Problems in need of solutions range from simple personal tasks (e.g. how to turn on an appliance) to complex issues in business and technical fields. The former is an example of simple problem solving (SPS) addressing one issue, whereas the latter is complex problem solving (CPS) with multiple interrelated obstacles. Another classification of problem-solving tasks is into well-defined problems with specific obstacles and goals, and ill-defined problems in which the current situation is troublesome but it is not clear what kind of resolution to aim for. Similarly, one may distinguish formal or fact-based problems requiring psychometric intelligence, versus socio-emotional problems which depend on the changeable emotions of individuals or groups, such as tactful behavior, fashion, or gift choices.
+Solutions require sufficient resources and knowledge to attain the goal. Professionals such as lawyers, doctors, programmers, and consultants are largely problem solvers for issues that require technical skills and knowledge beyond general competence. Many businesses have found profitable markets by recognizing a problem and creating a solution: the more widespread and inconvenient the problem, the greater the opportunity to develop a scalable solution.
+There are many specialized problem-solving techniques and methods in fields such as science, engineering, business, medicine, mathematics, computer science, philosophy, and social organization. The mental techniques to identify, analyze, and solve problems are studied in psychology and cognitive sciences. Also widely researched are the mental obstacles that prevent people from finding solutions; problem-solving impediments include confirmation bias, mental set, and functional fixedness.
+
+
+== Definition ==
+The term problem solving has a slightly different meaning depending on the discipline. For instance, it is a mental process in psychology and a computerized process in computer science. There are two different types of problems: ill-defined and well-defined; different approaches are used for each. Well-defined problems have specific end goals and clearly expected solutions, while ill-defined problems do not. Well-defined problems allow for more initial planning than ill-defined problems. Solving problems sometimes involves dealing with pragmatics (the way that context contributes to meaning) and semantics (the interpretation of the problem). The ability to understand what the end goal of the problem is, and what rules could be applied, represents the key to solving the problem. Sometimes a problem requires abstract thinking or coming up with a creative solution.
+Problem solving has two major domains: mathematical problem solving and personal problem solving. Each concerns some difficulty or barrier that is encountered.
+
+
+=== Psychology ===
+Problem solving in psychology refers to the process of finding solutions to problems encountered in life. Solutions to these problems are usually situation- or context-specific. The process starts with problem finding and problem shaping, in which the problem is discovered and simplified. The next step is to generate possible solutions and evaluate them. Finally a solution is selected to be implemented and verified. Problems have an end goal to be reached; how you get there depends upon problem orientation (problem-solving coping style and skills) and systematic analysis.
+Mental health professionals study the human problem-solving processes using methods such as introspection, behaviorism, simulation, computer modeling, and experiment. Social psychologists look into the person-environment relationship aspect of the problem and independent and interdependent problem-solving methods. Problem solving has been defined as a higher-order cognitive process and intellectual function that requires the modulation and control of more routine or fundamental skills.
+Empirical research shows many different strategies and factors influence everyday problem solving. Rehabilitation psychologists studying people with frontal lobe injuries have found that deficits in emotional control and reasoning can be re-mediated with effective rehabilitation and could improve the capacity of injured persons to resolve everyday problems. Interpersonal everyday problem solving is dependent upon personal motivational and contextual components. One such component is the emotional valence of "real-world" problems, which can either impede or aid problem-solving performance. Researchers have focused on the role of emotions in problem solving, demonstrating that poor emotional control can disrupt focus on the target task, impede problem resolution, and lead to negative outcomes such as fatigue, depression, and inertia. In conceptualization,human problem solving consists of two related processes: problem orientation, and the motivational/attitudinal/affective approach to problematic situations and problem-solving skills. People's strategies cohere with their goals and stem from the process of comparing oneself with others.
+
+
+=== Cognitive sciences ===
+Among the first experimental psychologists to study problem solving were the Gestaltists in Germany, such as Karl Duncker in The Psychology of Productive Thinking (1935). Perhaps best known is the work of Allen Newell and Herbert A. Simon.
+Experiments in the 1960s and early 1970s asked participants to solve relatively simple, well-defined, but not previously seen laboratory tasks. These simple problems, such as the Tower of Hanoi, admitted optimal solutions that could be found quickly, allowing researchers to observe the full problem-solving process. Researchers assumed that these model problems would elicit the characteristic cognitive processes by which more complex "real world" problems are solved.
+An outstanding problem-solving technique found by this research is the principle of decomposition.
+
+
+=== Computer science ===
+
+Much of computer science and artificial intelligence involves designing automated systems to solve a specified type of problem: to accept input data and calculate a correct or adequate response, reasonably quickly. Algorithms are recipes or instructions that direct such systems, written into computer programs.
+Steps for designing such systems include problem determination, heuristics, root cause analysis, de-duplication, analysis, diagnosis, and repair. Analytic techniques include linear and nonlinear programming, queuing systems, and simulation. A large, perennial obstacle is to find and fix errors in computer programs: debugging.
+
+
+=== Logic ===
+Formal logic concerns issues like validity, truth, inference, argumentation, and proof. In a problem-solving context, it can be used to formally represent a problem as a theorem to be proved, and to represent the knowledge needed to solve the problem as the premises to be used in a proof that the problem has a solution.
+The use of computers to prove mathematical theorems using formal logic emerged as the field of automated theorem proving in the 1950s. It included the use of heuristic methods designed to simulate human problem solving, as in the Logic Theory Machine, developed by Allen Newell, Herbert A. Simon and J. C. Shaw, as well as algorithmic methods such as the resolution principle developed by John Alan Robinson.
+In addition to its use for finding proofs of mathematical theorems, automated theorem-proving has also been used for program verification in computer science. In 1958, John McCarthy proposed the advice taker, to represent information in formal logic and to derive answers to questions using automated theorem-proving. An important step in this direction was made by Cordell Green in 1969, who used a resolution theorem prover for question-answering and for such other applications in artificial intelligence as robot planning.
+The resolution theorem-prover used by Cordell Green bore little resemblance to human problem solving methods. In response to criticism of that approach from researchers at MIT, Robert Kowalski developed logic programming and SLD resolution, which solves problems by problem decomposition. He has advocated logic for both computer and human problem solving and computational logic to improve human thinking.
+
+
+=== Engineering ===
+When products or processes fail, problem solving techniques can be used to develop corrective actions that can be taken to prevent further failures. Such techniques can also be applied to a product or process prior to an actual failure event—to predict, analyze, and mitigate a potential problem in advance. Techniques such as failure mode and effects analysis can proactively reduce the likelihood of problems.
+In either the reactive or the proactive case, it is necessary to build a causal explanation through a process of diagnosis. In deriving an explanation of effects in terms of causes, abduction generates new ideas or hypotheses (asking "how?"); deduction evaluates and refines hypotheses based on other plausible premises (asking "why?"); and induction justifies a hypothesis with empirical data (asking "how much?"). The objective of abduction is to determine which hypothesis or proposition to test, not which one to adopt or assert. In the Peircean logical system, the logic of abduction and deduction contribute to our conceptual understanding of a phenomenon, while the logic of induction adds quantitative details (empirical substantiation) to our conceptual knowledge.
+Forensic engineering is an important technique of failure analysis that involves tracing product defects and flaws. Corrective action can then be taken to prevent further failures.
+Reverse engineering attempts to discover the original problem-solving logic used in developing a product by disassembling the product and developing a plausible pathway to creating and assembling its parts.
+
+
+=== Military science ===
+In military science, problem solving is linked to the concept of "end-states", the conditions or situations which are the aims of the strategy.: xiii, E-2  Ability to solve problems is important at any military rank, but is essential at the command and control level. It results from deep qualitative and quantitative understanding of possible scenarios. Effectiveness in this context is an evaluation of results: to what extent the end states were accomplished.: IV-24  Planning is the process of determining how to effect those end states.: IV-1 
+
+
+== Processes ==
+Some models of problem solving involve identifying a goal and then a sequence of subgoals towards achieving this goal. Andersson, who introduced the ACT-R model of cognition, modelled this collection of goals and subgoals as a goal stack in which the mind contains a stack of goals and subgoals to be completed, and a single task being carried out at any time.: 51 
+Knowledge of how to solve one problem can be applied to another problem, in a process known as transfer.: 56 
+
+
+== Problem-solving strategies ==
+
+Problem-solving strategies are steps to overcoming the obstacles to achieving a goal. The iteration of such strategies over the course of solving a problem is the "problem-solving cycle".
+Common steps in this cycle include recognizing the problem, defining it, developing a strategy to fix it, organizing knowledge and resources available, monitoring progress, and evaluating the effectiveness of the solution. Once a solution is achieved, another problem usually arises, and the cycle starts again.
+Insight is the sudden aha! solution to a problem, the birth of a new idea to simplify a complex situation. Solutions found through insight are often more incisive than those from step-by-step analysis. A quick solution process requires insight to select productive moves at different stages of the problem-solving cycle. Unlike Newell and Simon's formal definition of a move problem, there is no consensus definition of an insight problem.
+Some problem-solving strategies include:
+
+Abstraction
+solving the problem in a tractable model system to gain insight into the real system
+Analogy
+adapting the solution to a previous problem which has similar features or mechanisms
+Brainstorming
+(especially among groups of people) suggesting a large number of solutions or ideas and combining and developing them until an optimum solution is found
+Bypasses
+transform the problem into another problem that is easier to solve, bypassing the barrier, then transform that solution back to a solution to the original problem.
+Critical thinking
+analysis of available evidence and arguments to form a judgement via rational, skeptical, and unbiased evaluation
+Divide and conquer
+breaking down a large, complex problem into smaller, solvable problems
+Help-seeking
+obtaining external assistance to deal with obstacles
+Hypothesis testing
+assuming a possible explanation to the problem and trying to prove (or, in some contexts, disprove) the assumption
+Lateral thinking
+approaching solutions indirectly and creatively
+Means-ends analysis
+choosing an action at each step to move closer to the goal
+Morphological analysis
+assessing the output and interactions of an entire system
+Observation / Question
+in the natural sciences an observation is an act or instance of noticing or perceiving and the acquisition of information from a primary source. A question is an utterance which serves as a request for information.
+Proof of impossibility
+try to prove that the problem cannot be solved. The point where the proof fails will be the starting point for solving it
+Reduction
+transforming the problem into another problem for which solutions exist
+Research
+employing existing ideas or adapting existing solutions to similar problems
+Root cause analysis
+identifying the cause of a problem
+Trial-and-error
+testing possible solutions until the right one is found
+
+
+== Problem-solving methods ==
+
+A3 problem solving – Structured problem improvement approach
+Design thinking – Processes by which design concepts are developed
+Eight Disciplines Problem Solving – Eight disciplines of team-oriented problem solving methodPages displaying short descriptions of redirect targets
+GROW model – Method for goal setting and problem solving
+Help-seeking – Theory in psychology
+How to Solve It – Book by George Pólya
+Lateral thinking – Manner of solving problems
+OODA loop – Observe–orient–decide–act cycle
+PDCA – Iterative design and management method used in business
+Root cause analysis – Method of identifying the fundamental causes of faults or problems
+RPR problem diagnosis – problem diagnosis method designed to determine the root cause of IT problemsPages displaying wikidata descriptions as a fallback
+TRIZ – Problem-solving tools
+Scientific method – is an empirical method for acquiring knowledge that has characterized the development of science.
+Swarm intelligence – Collective behavior of decentralized, self-organized systems
+System dynamics – Study of non-linear complex systems
+
+
+== Common barriers ==
+Common barriers to problem solving include mental constructs that impede an efficient search for solutions. Five of the most common identified by researchers are: confirmation bias, mental set, functional fixedness, unnecessary constraints, and irrelevant information.
+
+
+=== Confirmation bias ===
+
+Confirmation bias is an unintentional tendency to collect and use data which favors preconceived notions. Such notions may be incidental rather than motivated by important personal beliefs: the desire to be right may be sufficient motivation.
+Scientific and technical professionals also experience confirmation bias. One online experiment, for example, suggested that professionals within the field of psychological research are likely to view scientific studies that agree with their preconceived notions more favorably than clashing studies. According to Raymond Nickerson, one can see the consequences of confirmation bias in real-life situations, which range in severity from inefficient government policies to genocide. Nickerson argued that those who killed people accused of witchcraft demonstrated confirmation bias with motivation. Researcher Michael Allen found evidence for confirmation bias with motivation in school children who worked to manipulate their science experiments to produce favorable results.
+However, confirmation bias does not necessarily require motivation. In 1960, Peter Cathcart Wason conducted an experiment in which participants first viewed three numbers and then created a hypothesis in the form of a rule that could have been used to create that triplet of numbers. When testing their hypotheses, participants tended to only create additional triplets of numbers that would confirm their hypotheses, and tended not to create triplets that would negate or disprove their hypotheses.
+
+
+=== Mental set ===
+
+Mental set is the inclination to re-use a previously successful solution, rather than search for new and better solutions. It is a reliance on habit.
+It was first articulated by Abraham S. Luchins in the 1940s with his well-known water jug experiments. Participants were asked to fill one jug with a specific amount of water by using other jugs with different maximum capacities. After Luchins gave a set of jug problems that could all be solved by a single technique, he then introduced a problem that could be solved by the same technique, but also by a novel and simpler method. His participants tended to use the accustomed technique, oblivious of the simpler alternative. This was again demonstrated in Norman Maier's 1931 experiment, which challenged participants to solve a problem by using a familiar tool (pliers) in an unconventional manner. Participants were often unable to view the object in a way that strayed from its typical use, a type of mental set known as functional fixedness (see the following section).
+Rigidly clinging to a mental set is called fixation, which can deepen to an obsession or preoccupation with attempted strategies that are repeatedly unsuccessful. In the late 1990s, researcher Jennifer Wiley found that professional expertise in a field can create a mental set, perhaps leading to fixation.
+Groupthink, in which each individual takes on the mindset of the rest of the group, can produce and exacerbate mental set. Social pressure leads to everybody thinking the same thing and reaching the same conclusions.
+
+
+=== Functional fixedness ===
+
+Functional fixedness is the tendency to view an object as having only one function, and to be unable to conceive of any novel use, as in the Maier pliers experiment described above. Functional fixedness is a specific form of mental set, and is one of the most common forms of cognitive bias in daily life.
+As an example, imagine a man wants to kill a bug in his house, but the only thing at hand is a can of air freshener. He may start searching for something to kill the bug instead of squashing it with the can, thinking only of its main function of deodorizing.
+Tim German and Clark Barrett describe this barrier: "subjects become 'fixed' on the design function of the objects, and problem solving suffers relative to control conditions in which the object's function is not demonstrated." Their research found that young children's limited knowledge of an object's intended function reduces this barrier Research has also discovered functional fixedness in educational contexts, as an obstacle to understanding: "functional fixedness may be found in learning concepts as well as in solving chemistry problems."
+There are several hypotheses in regards to how functional fixedness relates to problem solving. It may waste time, delaying or entirely preventing the correct use of a tool.
+
+
+=== Unnecessary constraints ===
+Unnecessary constraints are arbitrary boundaries imposed unconsciously on the task at hand, which foreclose a productive avenue of solution. The solver may become fixated on only one type of solution, as if it were an inevitable requirement of the problem. Typically, this combines with mental set—clinging to a previously successful method.
+Visual problems can also produce mentally invented constraints. A famous example is the dot problem: nine dots arranged in a three-by-three grid pattern must be connected by drawing four straight line segments, without lifting pen from paper or backtracking along a line. The subject typically assumes the pen must stay within the outer square of dots, but the solution requires lines continuing beyond this frame, and researchers have found a 0% solution rate within a brief allotted time.
+This problem has produced the expression "think outside the box". Such problems are typically solved via a sudden insight which leaps over the mental barriers, often after long toil against them. This can be difficult depending on how the subject has structured the problem in their mind, how they draw on past experiences, and how well they juggle this information in their working memory. In the example, envisioning the dots connected outside the framing square requires visualizing an unconventional arrangement, which is a strain on working memory.
+
+
+=== Irrelevant information ===
+
+Irrelevant information is a specification or data presented in a problem that is unrelated to the solution. If the solver assumes that all information presented needs to be used, this often derails the problem solving process, making relatively simple problems much harder.
+For example: "Fifteen percent of the people in Topeka have unlisted telephone numbers. You select 200 names at random from the Topeka phone book. How many of these people have unlisted phone numbers?" The "obvious" answer is 15%, but in fact none of the unlisted people would be listed among the 200. This kind of "trick question" is often used in aptitude tests or cognitive evaluations. Though not inherently difficult, they require independent thinking that is not necessarily common. Mathematical word problems often include irrelevant qualitative or numerical information as an extra challenge.
+
+
+=== Avoiding barriers by changing problem representation ===
+The disruption caused by the above cognitive biases can depend on how the information is represented: visually, verbally, or mathematically. A classic example is the Buddhist monk problem:
+
+A Buddhist monk begins at dawn one day walking up a mountain, reaches the top at sunset, meditates at the top for several days until one dawn when he begins to walk back to the foot of the mountain, which he reaches at sunset. Making no assumptions about his starting or stopping or about his pace during the trips, prove that there is a place on the path which he occupies at the same hour of the day on the two separate journeys.
+The problem cannot be addressed in a verbal context, trying to describe the monk's progress on each day. It becomes much easier when the paragraph is represented mathematically by a function: one visualizes a graph whose horizontal axis is time of day, and whose vertical axis shows the monk's position (or altitude) on the path at each time. Superimposing the two journey curves, which traverse opposite diagonals of a rectangle, one sees they must cross each other somewhere. The visual representation by graphing has resolved the difficulty.
+Similar strategies can often improve problem solving on tests.
+
+
+=== Other barriers for individuals ===
+People who are engaged in problem solving tend to overlook subtractive changes, even those that are critical elements of efficient solutions. This tendency to solve by first, only, or mostly creating or adding elements, rather than by subtracting elements or processes is shown to intensify with higher cognitive loads such as information overload.
+
+
+== Dreaming: problem solving without waking consciousness ==
+People can also solve problems while they are asleep. There are many reports of scientists and engineers who solved problems in their dreams. For example, Elias Howe, inventor of the sewing machine, figured out the structure of the bobbin from a dream.
+The chemist August Kekulé was considering how benzene arranged its six carbon and hydrogen atoms. Thinking about the problem, he dozed off, and dreamt of dancing atoms that fell into a snakelike pattern, which led him to discover the benzene ring. As Kekulé wrote in his diary,
+
+One of the snakes seized hold of its own tail, and the form whirled mockingly before my eyes. As if by a flash of lightning I awoke; and this time also I spent the rest of the night in working out the consequences of the hypothesis.
+There also are empirical studies of how people can think consciously about a problem before going to sleep, and then solve the problem with a dream image. Dream researcher William C. Dement told his undergraduate class of 500 students that he wanted them to think about an infinite series, whose first elements were OTTFF, to see if they could deduce the principle behind it and to say what the next elements of the series would be. He asked them to think about this problem every night for 15 minutes before going to sleep and to write down any dreams that they then had. They were instructed to think about the problem again for 15 minutes when they awakened in the morning.
+The sequence OTTFF is the first letters of the numbers: one, two, three, four, five. The next five elements of the series are SSENT (six, seven, eight, nine, ten). Some of the students solved the puzzle by reflecting on their dreams. One example was a student who reported the following dream:
+
+I was standing in an art gallery, looking at the paintings on the wall. As I walked down the hall, I began to count the paintings: one, two, three, four, five. As I came to the sixth and seventh, the paintings had been ripped from their frames. I stared at the empty frames with a peculiar feeling that some mystery was about to be solved. Suddenly I realized that the sixth and seventh spaces were the solution to the problem!
+With more than 500 undergraduate students, 87 dreams were judged to be related to the problems students were assigned (53 directly related and 34 indirectly related). Yet of the people who had dreams that apparently solved the problem, only seven were actually able to consciously know the solution. The rest (46 out of 53) thought they did not know the solution.
+Mark Blechner conducted this experiment and obtained results similar to Dement's. He found that while trying to solve the problem, people had dreams in which the solution appeared to be obvious from the dream, but it was rare for the dreamers to realize how their dreams had solved the puzzle. Coaxing or hints did not get them to realize it, although once they heard the solution, they recognized how their dream had solved it. For example, one person in that OTTFF experiment dreamed:
+
+There is a big clock. You can see the movement. The big hand of the clock was on the number six. You could see it move up, number by number, six, seven, eight, nine, ten, eleven, twelve. The dream focused on the small parts of the machinery. You could see the gears inside.
+In the dream, the person counted out the next elements of the series—six, seven, eight, nine, ten, eleven, twelve—yet he did not realize that this was the solution of the problem. His sleeping mindbrain solved the problem, but his waking mindbrain was not aware how.
+Albert Einstein believed that much problem solving goes on unconsciously, and the person must then figure out and formulate consciously what the mindbrain has already solved. He believed this was his process in formulating the theory of relativity: "The creator of the problem possesses the solution." Einstein said that he did his problem solving without words, mostly in images. "The words or the language, as they are written or spoken, do not seem to play any role in my mechanism of thought. The psychical entities which seem to serve as elements in thought are certain signs and more or less clear images which can be 'voluntarily' reproduced and combined."
+
+
+== Cognitive sciences: two schools ==
+
+Problem-solving processes differ across knowledge domains and across levels of expertise. For this reason, cognitive sciences findings obtained in the laboratory cannot necessarily generalize to problem-solving situations outside the laboratory. This has led to a research emphasis on real-world problem solving, since the 1990s. This emphasis has been expressed quite differently in North America and Europe, however. Whereas North American research has typically concentrated on studying problem solving in separate, natural knowledge domains, much of the European research has focused on novel, complex problems, and has been performed with computerized scenarios.
+
+
+=== Europe ===
+In Europe, two main approaches have surfaced, one initiated by Donald Broadbent in the United Kingdom and the other one by Dietrich Dörner in Germany. The two approaches share an emphasis on relatively complex, semantically rich, computerized laboratory tasks, constructed to resemble real-life problems. The approaches differ somewhat in their theoretical goals and methodology. The tradition initiated by Broadbent emphasizes the distinction between cognitive problem-solving processes that operate under awareness versus outside of awareness, and typically employs mathematically well-defined computerized systems. The tradition initiated by Dörner, on the other hand, has an interest in the interplay of the cognitive, motivational, and social components of problem solving, and utilizes very complex computerized scenarios that contain up to 2,000 highly interconnected variables.
+
+
+=== North America ===
+In North America, initiated by the work of Herbert A. Simon on "learning by doing" in semantically rich domains, researchers began to investigate problem solving separately in different natural knowledge domains—such as physics, writing, or chess playing—rather than attempt to extract a global theory of problem solving. These researchers have focused on the development of problem solving within certain domains, that is on the development of expertise.
+Areas that have attracted rather intensive attention in North America include:
+
+calculation
+computer skills
+game playing
+lawyers' reasoning
+managerial problem solving
+mathematical problem solving
+mechanical problem solving
+personal problem solving
+political decision making
+problem solving in electronics
+problem solving for innovations and inventions: TRIZ
+reading
+social problem solving
+writing
+
+
+== Characteristics of complex problems ==
+Complex problem solving (CPS) is distinguishable from simple problem solving (SPS). In SPS there is a singular and simple obstacle. In CPS there may be multiple simultaneous obstacles. For example, a surgeon at work has far more complex problems than an individual deciding what shoes to wear. As elucidated by Dietrich Dörner, and later expanded upon by Joachim Funke, complex problems have some typical characteristics, which include:
+
+complexity (large numbers of items, interrelations, and decisions)
+enumerability
+heterogeneity
+connectivity (hierarchy relation, communication relation, allocation relation)
+dynamics (time considerations)
+temporal constraints
+temporal sensitivity
+phase effects
+dynamic unpredictability
+intransparency (lack of clarity of the situation)
+commencement opacity
+continuation opacity
+polytely (multiple goals)
+inexpressivenes
+opposition
+transience
+
+
+== Collective problem solving ==
+
+People solve problems on many different levels—from the individual to the civilizational. Collective problem solving refers to problem solving performed collectively. Social issues and global issues can typically only be solved collectively.
+The complexity of contemporary problems exceeds the cognitive capacity of any individual and requires different but complementary varieties of expertise and collective problem solving ability.
+Collective intelligence is shared or group intelligence that emerges from the collaboration, collective efforts, and competition of many individuals.
+In collaborative problem solving people work together to solve real-world problems. Members of problem-solving groups share a common concern, a similar passion, and/or a commitment to their work. Members can ask questions, wonder, and try to understand common issues. They share expertise, experiences, tools, and methods. Groups may be fluid based on need, may only occur temporarily to finish an assigned task, or may be more permanent depending on the nature of the problems.
+For example, in the educational context, members of a group may all have input into the decision-making process and a role in the learning process. Members may be responsible for the thinking, teaching, and monitoring of all members in the group. Group work may be coordinated among members so that each member makes an equal contribution to the whole work. Members can identify and build on their individual strengths so that everyone can make a significant contribution to the task. Collaborative group work has the ability to promote critical thinking skills, problem solving skills, social skills, and self-esteem. By using collaboration and communication, members often learn from one another and construct meaningful knowledge that often leads to better learning outcomes than individual work.
+Collaborative groups require joint intellectual efforts between the members and involve social interactions to solve problems together. The knowledge shared during these interactions is acquired during communication, negotiation, and production of materials. Members actively seek information from others by asking questions. The capacity to use questions to acquire new information increases understanding and the ability to solve problems.
+In a 1962 research report, Douglas Engelbart linked collective intelligence to organizational effectiveness, and predicted that proactively "augmenting human intellect" would yield a multiplier effect in group problem solving: "Three people working together in this augmented mode [would] seem to be more than three times as effective in solving a complex problem as is one augmented person working alone".
+Henry Jenkins, a theorist of new media and media convergence, draws on the theory that collective intelligence can be attributed to media convergence and participatory culture. He criticizes contemporary education for failing to incorporate online trends of collective problem solving into the classroom, stating "whereas a collective intelligence community encourages ownership of work as a group, schools grade individuals". Jenkins argues that interaction within a knowledge community builds vital skills for young people, and teamwork through collective intelligence communities contributes to the development of such skills.
+Collective impact is the commitment of a group of actors from different sectors to a common agenda for solving a specific social problem, using a structured form of collaboration.
+After World War II the UN, the Bretton Woods organization, and the WTO were created. Collective problem solving on the international level crystallized around these three types of organization from the 1980s onward. As these global institutions remain state-like or state-centric it is unsurprising that they perpetuate state-like or state-centric approaches to collective problem solving rather than alternative ones.
+Crowdsourcing is a process of accumulating ideas, thoughts, or information from many independent participants, with aim of finding the best solution for a given challenge. Modern information technologies allow for many people to be involved and facilitate managing their suggestions in ways that provide good results. The Internet allows for a new capacity of collective (including planetary-scale) problem solving.
+
+
+== See also ==
+
+Actuarial science – Statistics applied to risk in insurance and other financial products
+Analytical skill – Crucial skill in all different fields of work and life
+Creative problem-solving – Mental process of problem solving
+Collective intelligence – Group intelligence that emerges from collective efforts
+Community of practice
+Coworking – Practice of independent contractors or scientists sharing office space without supervision
+Crowdsolving – Sourcing services or funds from a groupPages displaying short descriptions of redirect targets
+Divergent thinking – A process of generating creative ideas
+Grey problem – IT service problem where the causing technology is unknown or unconfirmed, making the problem solving difficult to allocatePages displaying wikidata descriptions as a fallback
+Innovation – Practical implementation of improvements
+Instrumentalism – Position in the philosophy of science
+Problem-posing education – Method of teaching coined by Paulo Freire
+Problem statement – Description of an issue
+Problem structuring methods
+Shared intentionality – Ability to engage with others' psychological states
+Structural fix – solving a problem or resolving a conflict by bringing about structural changes in underlying structures that provoked or sustained these problemsPages displaying wikidata descriptions as a fallback
+Subgoal labeling – Cognitive process
+Troubleshooting – Form of problem solving, often applied to repair failed products or processes
+Wicked problem – Problem that is difficult or impossible to solve
+
+
+== Notes ==
+
+
+== Further reading ==
+Beckmann, Jens F.; Guthke, Jürgen (1995). "Complex problem solving, intelligence, and learning ability". In Frensch, P. A.; Funke, J. (eds.). Complex problem solving: The European Perspective. Hillsdale, N.J.: Lawrence Erlbaum Associates. pp. 177–200.
+Brehmer, Berndt (1995). "Feedback delays in dynamic decision making". In Frensch, P. A.; Funke, J. (eds.). Complex problem solving: The European Perspective. Hillsdale, N.J.: Lawrence Erlbaum Associates. pp. 103–130.
+Brehmer, Berndt; Dörner, D. (1993). "Experiments with computer-simulated microworlds: Escaping both the narrow straits of the laboratory and the deep blue sea of the field study". Computers in Human Behavior. 9 (2–3): 171–184. doi:10.1016/0747-5632(93)90005-D.
+Dörner, D. (1992). "Über die Philosophie der Verwendung von Mikrowelten oder 'Computerszenarios' in der psychologischen Forschung" [On the proper use of microworlds or "computer scenarios" in psychological research]. In Gundlach, H. (ed.). Psychologische Forschung und Methode: Das Versprechen des Experiments. Festschrift für Werner Traxel (in German). Passau, Germany: Passavia-Universitäts-Verlag. pp. 53–87.
+Eyferth, K.; Schömann, M.; Widowski, D. (1986). "Der Umgang von Psychologen mit Komplexität" [On how psychologists deal with complexity]. Sprache & Kognition (in German). 5: 11–26.
+Funke, Joachim (1993). "Microworlds based on linear equation systems: A new approach to complex problem solving and experimental results" (PDF). In Strube, G.; Wender, K.-F. (eds.). The cognitive psychology of knowledge. Amsterdam: Elsevier Science Publishers. pp. 313–330.
+Funke, Joachim (1995). "Experimental research on complex problem solving" (PDF). In Frensch, P. A.; Funke, J. (eds.). Complex problem solving: The European Perspective. Hillsdale, N.J.: Lawrence Erlbaum Associates. pp. 243–268.
+Funke, U. (1995). "Complex problem solving in personnel selection and training". In Frensch, P. A.; Funke, J. (eds.). Complex problem solving: The European Perspective. Hillsdale, N.J.: Lawrence Erlbaum Associates. pp. 219–240.
+Groner, M.; Groner, R.; Bischof, W. F. (1983). "Approaches to heuristics: A historical review". In Groner, R.; Groner, M.; Bischof, W. F. (eds.). Methods of heuristics. Hillsdale, N.J.: Lawrence Erlbaum Associates. pp. 1–18.
+Hayes, J. (1980). The complete problem solver. Philadelphia: The Franklin Institute Press.
+Huber, O. (1995). "Complex problem solving as multistage decision making". In Frensch, P. A.; Funke, J. (eds.). Complex problem solving: The European Perspective. Hillsdale, N.J.: Lawrence Erlbaum Associates. pp. 151–173.
+Hübner, Ronald (1989). "Methoden zur Analyse und Konstruktion von Aufgaben zur kognitiven Steuerung dynamischer Systeme" [Methods for the analysis and construction of dynamic system control tasks] (PDF). Zeitschrift für Experimentelle und Angewandte Psychologie (in German). 36: 221–238.
+Hunt, Earl (1991). "Some comments on the study of complexity". In Sternberg, R. J.; Frensch, P. A. (eds.). Complex problem solving: Principles and mechanisms. Hillsdale, N.J.: Lawrence Erlbaum Associates. pp. 383–395. ISBN 978-1-317-78386-2.
+Hussy, W. (1985). "Komplexes Problemlösen—Eine Sackgasse?" [Complex problem solving—a dead end?]. Zeitschrift für Experimentelle und Angewandte Psychologie (in German). 32: 55–77.
+Kluwe, R. H. (1993). "Chapter 19 Knowledge and Performance in Complex Problem Solving". The Cognitive Psychology of Knowledge. Advances in Psychology. Vol. 101. pp. 401–423. doi:10.1016/S0166-4115(08)62668-0. ISBN 978-0-444-89942-2.
+Kluwe, R. H. (1995). "Single case studies and models of complex problem solving". In Frensch, P. A.; Funke, J. (eds.). Complex problem solving: The European Perspective. Hillsdale, N.J.: Lawrence Erlbaum Associates. pp. 269–291.
+Kolb, S.; Petzing, F.; Stumpf, S. (1992). "Komplexes Problemlösen: Bestimmung der Problemlösegüte von Probanden mittels Verfahren des Operations Research—ein interdisziplinärer Ansatz" [Complex problem solving: determining the quality of human problem solving by operations research tools—an interdisciplinary approach]. Sprache & Kognition (in German). 11: 115–128.
+Krems, Josef F. (1995). "Cognitive flexibility and complex problem solving". In Frensch, P. A.; Funke, J. (eds.). Complex problem solving: The European Perspective. Hillsdale, N.J.: Lawrence Erlbaum Associates. pp. 201–218.
+Melzak, Z. (1983). Bypasses: A Simple Approach to Complexity. London, UK: Wiley.
+Müller, H. (1993). Komplexes Problemlösen: Reliabilität und Wissen [Complex problem solving: Reliability and knowledge] (in German). Bonn, Germany: Holos.
+Paradies, M.W.; Unger, L. W. (2000). TapRooT—The System for Root Cause Analysis, Problem Investigation, and Proactive Improvement. Knoxville, Tenn.: System Improvements.
+Putz-Osterloh, Wiebke (1993). "Chapter 15 Strategies for Knowledge Acquisition and Transfer of Knowledge in Dynamic Tasks". The Cognitive Psychology of Knowledge. Advances in Psychology. Vol. 101. pp. 331–350. doi:10.1016/S0166-4115(08)62664-3. ISBN 978-0-444-89942-2.
+Riefer, David M.; Batchelder, William H. (1988). "Multinomial modeling and the measurement of cognitive processes" (PDF). Psychological Review. 95 (3): 318–339. doi:10.1037/0033-295x.95.3.318. S2CID 14994393. Archived from the original (PDF) on 2018-11-25.
+Schaub, H. (1993). Modellierung der Handlungsorganisation (in German). Bern, Switzerland: Hans Huber.
+Strauß, B. (1993). Konfundierungen beim Komplexen Problemlösen. Zum Einfluß des Anteils der richtigen Lösungen (ArL) auf das Problemlöseverhalten in komplexen Situationen [Confoundations in complex problem solving. On the influence of the degree of correct solutions on problem solving in complex situations] (in German). Bonn, Germany: Holos.
+Strohschneider, S. (1991). "Kein System von Systemen! Kommentar zu dem Aufsatz 'Systemmerkmale als Determinanten des Umgangs mit dynamischen Systemen' von Joachim Funke" [No system of systems! Reply to the paper 'System features as determinants of behavior in dynamic task environments' by Joachim Funke]. Sprache & Kognition (in German). 10: 109–113.
+Tonelli, Marcello (2011). Unstructured Processes of Strategic Decision-Making. Saarbrücken, Germany: Lambert Academic Publishing. ISBN 978-3-8465-5598-9.
+Van Lehn, Kurt (1989). "Problem solving and cognitive skill acquisition". In Posner, M. I. (ed.). Foundations of cognitive science (PDF). Cambridge, Mass.: MIT Press. pp. 527–579.
+Wisconsin Educational Media Association (1993), Information literacy: A position paper on information problem-solving, WEMA Publications, vol. ED 376 817, Madison, Wis.{{citation}}:  CS1 maint: location missing publisher (link) (Portions adapted from Michigan State Board of Education's Position Paper on Information Processing Skills, 1992.)
+
+
+== External links ==
+ Learning materials related to Solving Problems at Wikiversity
+
