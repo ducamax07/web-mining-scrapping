@@ -17,3 +17,22 @@ Avant de démarrer, veuillez vous assurer d'avoir installé les librabries suiva
 Les packages à importer sont à chaque fois stipulé au début de code respectif, ils sont à installer avant toute procédure. 
 
 ### 2. Utilisez data_collection_B.py
+Ce code est en format python, il s'execute donc entièrement d'un coup. Celui-ci a pour objectif de collecter les données sur base d'une page wikipédia specifique. Les pages sélectionnées sont 
+analysées sur base d'une comparaison entre leur summary et la page initiale. 
+Toute modification concernant les méthodes de sélections sont à implémenter directement dans les paramètres de la fonction bfs_scrape. Que ce soit les fichiers de sortie, la profondeur de recherche ou la base du nombre de mot dans l'analyse de similarité. 
+Les outputs sont renvoyés dans les fichiers "contentB.json" et "linksB.json". 
+
+### 3. Utilisez text_mining.ipynb 
+Ce code est rédigé via Jupyter Notebook, chaque bout de code se lance donc de manière indépendante. Ce code se divise en 2 grosses parties, une contenant les fonctions (à lancer en entier), l'autre concernant leurs appels. 
+Avant de lancer un appel de fonction spécifique, assurez vous d'avoir lancer les fonctions concernant le chargement des fichiers et l'entrainement des modèles. 
+Les outputs apparaitront dans le dossier "output" à l'exception des outputs au format gml qui seront classés dans le dossier "outputgml". 
+
+### 4. Utiliser links_analysis_B.ipynb
+Ce code est rédigé via Jupyter Notebook, chaque bout de code se lance donc de manière indépendante. Ce code se divise en 2 grosses parties, une contenant les fonctions (à lancer en entier), l'autre concernant leurs appels. 
+Celui-ci fonctionne à partir du fichier "outputgml/graph.gml", il est donc important de l'avoir créer dans la partie précédente, et de le charger dans cette partie ci en premier. 
+Les outputs apparaitront dans le dossier "outputLA" et sont formatés afin d'être utilisé avec Gephi. 
+
+## Crédits
+Ce projet a été rédigé sur l'éditeur de texte Visual Studio Code. 
+Ce projet a été réalisé dans le cadre d'un cours à l'UCLouvain FUCaM Mons. 
+
