@@ -1,0 +1,75 @@
+{
+    "Age group": {
+        "Junior": 0.0,
+        "Major": 0.5,
+        "Senior": 1.0
+    },
+    "Team": {
+        "AFC Bournemouth": 0.0,
+        "Arsenal": 0.05263157894736842,
+        "Aston Villa": 0.10526315789473684,
+        "Brentford": 0.15789473684210525,
+        "Brighton & Hove Albion": 0.21052631578947367,
+        "Chelsea": 0.2631578947368421,
+        "Crystal Palace": 0.3157894736842105,
+        "Everton": 0.3684210526315789,
+        "Fulham": 0.42105263157894735,
+        "Ipswich Town": 0.47368421052631576,
+        "Leicester City": 0.5263157894736842,
+        "Liverpool": 0.5789473684210527,
+        "Manchester City": 0.631578947368421,
+        "Manchester United": 0.6842105263157895,
+        "Newcastle United": 0.7368421052631579,
+        "Nottingham Forest": 0.7894736842105263,
+        "Southampton": 0.8421052631578947,
+        "Tottenham Hotspur": 0.8947368421052632,
+        "West Ham United": 0.9473684210526315,
+        "Wolverhampton Wanderers": 1.0
+    },
+    "Position rank": {
+        "Attacker": 0.0,
+        "Defender": 0.3333333333333333,
+        "Goalkeeper": 0.6666666666666666,
+        "Midfielder": 1.0
+    },
+    "Position": {
+        "CAM": 0.0,
+        "CB": 0.07142857142857142,
+        "CDM": 0.14285714285714285,
+        "CF": 0.21428571428571427,
+        "CM": 0.2857142857142857,
+        "GK": 0.35714285714285715,
+        "LB": 0.42857142857142855,
+        "LM": 0.5,
+        "LW": 0.5714285714285714,
+        "LWB": 0.6428571428571429,
+        "RB": 0.7142857142857143,
+        "RM": 0.7857142857142857,
+        "RW": 0.8571428571428571,
+        "RWB": 0.9285714285714286,
+        "ST": 1.0
+    },
+    "Foot": {
+        "Left": 0.0,
+        "Right": 1.0
+    },
+    "Body type": {
+        "Lean (170-)": 0.0,
+        "Lean (170-185)": 0.1111111111111111,
+        "Lean (185+)": 0.2222222222222222,
+        "Normal (170-)": 0.3333333333333333,
+        "Normal (170-185)": 0.4444444444444444,
+        "Normal (185+)": 0.5555555555555556,
+        "Stocky (170-)": 0.6666666666666666,
+        "Stocky (170-185)": 0.7777777777777778,
+        "Stocky (185+)": 0.8888888888888888,
+        "Unique": 1.0
+    },
+    "Acceleration type": {
+        "Controlled": 0.0,
+        "Controlled Explosive": 0.25,
+        "Controlled Lengthy": 0.5,
+        "Explosive": 0.75,
+        "Mostly Explosive": 1.0
+    }
+}
